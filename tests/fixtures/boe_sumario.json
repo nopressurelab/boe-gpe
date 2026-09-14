@@ -1,0 +1,55 @@
+{
+ "status": {
+  "code": "200"
+ },
+ "data": {
+  "sumario": {
+   "metadatos": {
+    "fecha_publicacion": "20260914"
+   },
+   "diario": {
+    "numero": "225",
+    "seccion": [
+     {
+      "codigo": "1",
+      "nombre": "I. Disposiciones generales",
+      "departamento": {
+       "nombre": "MINISTERIO X",
+       "epigrafe": {
+        "nombre": "Aguas",
+        "item": {
+         "identificador": "BOE-A-1",
+         "titulo": "Real Decreto sobre caudales",
+         "url_html": "https://boe.es/a.html",
+         "url_pdf": {
+          "texto": "https://boe.es/a.pdf",
+          "szBytes": "10"
+         }
+        }
+       }
+      }
+     },
+     {
+      "codigo": "5",
+      "nombre": "V. Anuncios",
+      "departamento": {
+       "nombre": "MINISTERIO Y",
+       "item": [
+        {
+         "identificador": "BOE-A-2",
+         "titulo": "Anuncio uno",
+         "url_html": "https://boe.es/b.html"
+        },
+        {
+         "identificador": "BOE-A-3",
+         "titulo": "Anuncio dos",
+         "url_html": "https://boe.es/c.html"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  }
+ }
+}

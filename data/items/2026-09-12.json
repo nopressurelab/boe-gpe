@@ -1,0 +1,46 @@
+{
+ "date": "2026-09-12",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 1,
+ "items": [
+  {
+   "id": "boe-733c8147de60755d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-12",
+   "title": "Corrección de errores del Real Decreto 611/2026, de 22 de julio, de impulso a la descarbonización del sector del transporte y fomento de los combustibles renovables, y por el que se modifican diversos reales decretos en la materia.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Combustibles renovables",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19051",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/12/pdfs/BOE-A-2026-19051.pdf",
+   "identifier": "BOE-A-2026-19051",
+   "score": 5.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "descarbonizacion",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

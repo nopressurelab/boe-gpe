@@ -1,0 +1,1202 @@
+{
+ "date": "2026-09-11",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 28,
+ "items": [
+  {
+   "id": "boe-2c387c661cd000e7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Direcció General d’Energia (Departament de Territori, Habitatge i Transició Ecològica de la Generalitat de Catalunya) por el cual se somete a información pública la solicitud de autorización administrativa previa, autorización administrativa de construcción, declaración de utilidad pública, autorización del proyecto de actuación específica de interés público en suelo no urbanizable y evaluación de impacto ambiental del proyecto de la planta solar fotovoltaica de autoconsumo denominada PS CANTALLOPS de 1.000 kW sobre terreno en suelo no urbanizable en el término municipal de Parets del Vallès (exp. FUE-2024-03724213, referencia 02958).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE CATALUÑA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29447",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29447.pdf",
+   "identifier": "BOE-B-2026-29447",
+   "score": 8.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "evaluacion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-92f0901ed08e4678",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Júcar, O.A. por el que se somete a información pública la solicitud de modificación de características de una concesión de aguas subterráneas, T.M. Fuentes de Rubielos (Teruel) Expediente 2025RP0005.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29435",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29435.pdf",
+   "identifier": "BOE-B-2026-29435",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-8b2646a469840609",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Júcar, O.A. por el que se somete a información pública la solicitud de una concesión de aguas subterráneas, T.M. Alcanar (Tarragona) Expediente 2025CP0092.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29437",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29437.pdf",
+   "identifier": "BOE-B-2026-29437",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-ec7c5e14b6e8f8a8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Segura relativo a la Información Pública de modificación de características de la concesión de aguas subterráneas. T.M. Hellín (Albacete) APM-0018/2024.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29441",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29441.pdf",
+   "identifier": "BOE-B-2026-29441",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-1bbf35de6d6a4da6",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de una solicitud de concesión de aguas superficiales y subterráneas, con destino a uso abastecimiento del núcleo urbano, mediante ocho tomas, en el término municipal de Güéjar Sierra (Granada). Expediente 2509/2024-GR.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29444",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29444.pdf",
+   "identifier": "BOE-B-2026-29444",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-40ba6b9eff5271ce",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental del proceso de concentración parcelaria de San Miguel de Valero (Salamanca), promovido por la Dirección General de Desarrollo Rural, sometido a evaluación de impacto ambiental.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-18.pdf",
+   "score": 7.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "evaluacion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-7ce61171ee33d552",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas superficiales derivadas del cauce del arroyo de los Descalzos, para riego, en el término municipal de Burgos (Burgos). Ref. expte.: C-0277/2026 (INTEGRA-AYE) BU.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29436",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29436.pdf",
+   "identifier": "BOE-B-2026-29436",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-6f922debc105fbb7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas, con destino a riego, en el término municipal de Chozas de Abajo (León). Ref. expte: C-0276/2026 (INTEGRA-AYE) LE.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29438",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29438.pdf",
+   "identifier": "BOE-B-2026-29438",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-fff749eff5314519",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de Lerma (Burgos). Ref. expte.: C-0256/2026 (INTEGRA-AYE) BU.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29442",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29442.pdf",
+   "identifier": "BOE-B-2026-29442",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-43317090a9bdb8de",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 2 de septiembre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de ejecución de un sondeo de captación de agua destinado a mejora de abastecimiento de agua potable para consumo humano en Cerezales del Condado, en el término municipal de Vegas del Condado (León), promovido por la Junta Vecinal de Cerezales del Condado. Expte.: I.A. 009/2026-24 - EIAS/2026/LE/006.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-14.pdf",
+   "score": 6.5,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "abastecimiento de agua",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-55081fc029c57b98",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Resolución de 27 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Enel Green Power España, SL, de autorización administrativa previa del parque eólico «Alto Cabrera», de 144 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de León y Orense.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19045",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-A-2026-19045.pdf",
+   "identifier": "BOE-A-2026-19045",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-f84652025ee4ffef",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Cuenca, por el que se somete al trámite de Información Pública el Estudio de Impacto Ambiental, la Solicitud de Autorización Administrativa Previa, la Solicitud de Autorización Administrativa de Construcción y la Solicitud de Declaración de Utilidad Pública para el módulo de generación eólico \"Hibridación FV-PEol Salinas II\", de 36 MW de potencia instalada, en la provincia de Cuenca, para su hibridación con el parque fotovoltaico existente FV Salinas II, de 43,896 MW de potencia instalada, y su infraestructura de evacuación, conformando una instalación híbrida de 79,896 MW de potencia instalada.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29433",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29433.pdf",
+   "identifier": "BOE-B-2026-29433",
+   "score": 6.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-7432ef89f6d291c1",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Cuenca, por el que se somete al trámite de Información Pública el Estudio de Impacto Ambiental, la Solicitud de Autorización Administrativa Previa, la Solicitud de Autorización Administrativa de Construcción y la Solicitud de Declaración de Utilidad Pública para el módulo de generación eólico \"Hibridación FV-PEol Salinas I\", de 36 MW de potencia instalada, en la provincia de Cuenca, para su hibridación con el parque fotovoltaico existente FV Salinas I, de 43,896 MW de potencia instalada, y su infraestructura de evacuación, conformando una instalación híbrida de 79,896 MW de potencia instalada.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29434",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29434.pdf",
+   "identifier": "BOE-B-2026-29434",
+   "score": 6.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-3502216fcfbdfa55",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Júcar, O.A., por el que se someten a información pública las Tarifas de Utilización del Agua y los Cánones de Regulación correspondientes al Ejercicio 2027.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29439",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29439.pdf",
+   "identifier": "BOE-B-2026-29439",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-96673361f0883853",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir sobre confinamiento de la navegación en el embalse de Torre del Águila.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29440",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29440.pdf",
+   "identifier": "BOE-B-2026-29440",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-2f673fd193455102",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de transmutación de derechos de aguas privadas a públicas para riego y un volumen de 133.618,60 m³/año a captar de aguas subterráneas en el término municipal de Aznalcázar (Sevilla). Expediente 7167/2022.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29443",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29443.pdf",
+   "identifier": "BOE-B-2026-29443",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-6b48f9725bd9bea5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 1 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga la autorización administrativa previa de la instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «Pazan Solar» y su infraestructura de evacuación, en los términos municipales de Villamediana y Magaz de Pisuerga (Palencia), promovida por «Planta FV123, S.L.». Expte.: FV-2852.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-7.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-7.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-7.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-fcc67691368fc993",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 13 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativa a la autorización administrativa previa de una instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «PSFV Tropico», en los términos municipales de Zaratán y Valladolid (Valladolid). Expte.: FV-2724, ATCE-216.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-8.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-8.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-8.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-bfb416aab8d6f903",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 20 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativa a la autorización administrativa previa de una instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «FV Barrosa», en los términos municipales de Valladolid y Zaratán (Valladolid). Expte.: FV-2723, ATCE-215.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-9.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-9.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-9.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-492c9c9892d4bfe4",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental del proyecto de una planta de producción de biometano y de un digestato valorizable como producto orgánico con alto valor fertilizante, en el término municipal de Adanero (Ávila), promovido por «Nortiben Green Energy XII, S.L.». Expte.: 057-25-AAÁV.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-16.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-fe4a2d10073933ac",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 2 de septiembre de 2026, de la Delegación Territorial de León, por la que se dicta informe de impacto ambiental del proyecto de corta a hecho de la parcela 85 del polígono 126, en el término municipal de San Justo de la Vega (León), promovido por un particular. Expte.: I.A. 005/2026-24 - EIAS/2026/LE/003.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-12.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-98fc49a62594b3e0",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 2 de septiembre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de ejecución de un sondeo para captación de aguas subterráneas, en el término municipal de Valencia de Don Juan (León), promovido por «Hotel Valjunco, S.L.». Expte.: IA 008/2026-24 - EIAS/2026/LE/004.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-13.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-8f0ae49807fa90ae",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 2 de septiembre de 2026, de la Delegación Territorial de León, por la que se dicta la declaración de impacto ambiental del proyecto de apertura de labores de extracción de áridos, en el término municipal de Villaornate y Castro (León), denominado «Villaornate» n.º 777, promovido por «Graveras Valencia, S.A.». Expte.: I.A. 046/2025-24 - EIAO/2025/LE/010.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-11.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-11.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-11.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-13490c4e73bd58ae",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "INFORMACIÓN pública relativa a la revisión para su adaptación a las MTD de la autorización ambiental otorgada por Orden de 26 de noviembre de 2008, de la Consejería de Medio Ambiente, para la explotación porcina ubicada en el término municipal de Matapozuelos (Valladolid), titularidad de «Ganaderos Escolásticos El Campillo, S.L.» (inicialmente de «Los Alcores de Adaja, S.A.»). Expte.: 033-26-ROVA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-17.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-7a5164819ab318f4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Industria y Turismo. Objeto: Servicio integral para la organización de jornadas de presentación de los planes territoriales de sostenibilidad turística en destino y de las estrategias de resiliencia turística para territorios extrapeninsulares, financiados en el marco del Plan de Recuperación, Transformación y Resiliencia, y para la ejecución del plan de medios regional asociado. Expediente: J26.035.04.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE INDUSTRIA Y TURISMO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29411",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29411.pdf",
+   "identifier": "BOE-B-2026-29411",
+   "score": 3.5,
+   "topics": [
+    "biodiversidad",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "plan de recuperacion",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-fe075fb056294315",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-11",
+   "title": "RESOLUCIÓN de 26 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativa a la autorización administrativa previa y autorización administrativa de construcción, por modificación de las instalaciones de producción de energía eléctrica, mediante la instalación de un almacenamiento en baterías, de la instalación denominada «BESS Mazo» hibridada con la instalación de generación en servicio denominada «FV El Mazo», en el término municipal de Aldeamayor de San Martín (Valladolid). Expte.: FV-2385-ALM, ATCE-267.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/11/html/BOCYL-D-11092026-177-10.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-10.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/11/pdf/BOCYL-D-11092026-177-10.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-c12067f5ef3affbc",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Resolución de 9 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 20/2026, de 29 de julio, por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Medidas urgentes",
+   "department": "CORTES GENERALES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18994",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-A-2026-18994.pdf",
+   "identifier": "BOE-A-2026-18994",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-da33fe1f57b0df4d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-11",
+   "title": "Anuncio de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, sobre solicitud del Permiso de Investigación Valdelobillos CRC12960.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE CASTILLA-LA MANCHA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29449",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/11/pdfs/BOE-B-2026-29449.pdf",
+   "identifier": "BOE-B-2026-29449",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "desarrollo sostenible",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "date": "2026-08-29",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 2,
+ "items": [
+  {
+   "id": "boe-4750a13d161948e8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-29",
+   "title": "Resolución de 8 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 20 de abril de 2023, por la que se otorga a Elawan Energy Olmedo 3, SL, autorización administrativa previa para la instalación fotovoltaica «Elawan Olmedo III», de 50,064 MW de potencia instalada, y sus infraestructuras de evacuación, en el término municipal de Ramiro, en la provincia de Valladolid.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18303",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/29/pdfs/BOE-A-2026-18303.pdf",
+   "identifier": "BOE-A-2026-18303",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-29228097793df4a5",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-29",
+   "title": "Resolución de 20 de agosto de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con el Instituto de Investigaciones Marinas, la Asociación de Marisqueo a Flote Ría de Vigo, el Instituto Tecnoloxico para o control do Medio Mariño de Galicia y la Universidade de Vigo, para la realización conjunta del proyecto de I+D+i «Estudio de los factores biológicos que afectan a la acumulación de plomo en volandeira, y de la dispersión y origen del plomo en los bancos marisqueros a lo largo de la Ría de Vigo (Volaria)».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Comunidad Autónoma de Galicia. Convenio",
+   "department": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18305",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/29/pdfs/BOE-A-2026-18305.pdf",
+   "identifier": "BOE-A-2026-18305",
+   "score": 3.0,
+   "topics": [
+    "costas-mar"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio marino",
+     "field": "title",
+     "topic": "costas-mar",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

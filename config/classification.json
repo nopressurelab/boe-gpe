@@ -1,0 +1,888 @@
+{
+  "_comment": "Environmental relevance rules. The whole vocabulary lives here; the code contains no keyword. 'w' is the weight of a term and is multiplied by the weight of the field it appears in. An item is published when the total reaches 'min_score'. Terms are Spanish because the gazettes are, and topic labels are shown on the site.",
+  "scoring": {
+    "min_score": 2.5,
+    "min_topic_score": 1.5,
+    "field_weights": {
+      "title": 1.0,
+      "summary": 0.6,
+      "department": 0.8,
+      "section": 0.3,
+      "subsection": 0.3
+    },
+    "normalize": {
+      "lowercase": true,
+      "strip_accents": true,
+      "collapse_whitespace": true
+    },
+    "count_repeats": false,
+    "topic_fields": [
+      "title",
+      "summary",
+      "section",
+      "subsection"
+    ],
+    "_comment_topic_fields": "Fields the topic terms score on. The issuing body (department) is deliberately left out: its name signals environmental remit and is scored under 'boosts', but it must not assign a topic nor be enough on its own."
+  },
+  "topics": [
+    {
+      "id": "biodiversidad",
+      "label": "Biodiversidad y espacios protegidos",
+      "color": "#2f7d4f",
+      "terms": [
+        {
+          "t": "espacio natural protegido",
+          "w": 3
+        },
+        {
+          "t": "espacios naturales protegidos",
+          "w": 3
+        },
+        {
+          "t": "red natura 2000",
+          "w": 3
+        },
+        {
+          "t": "zona de especial proteccion para las aves",
+          "w": 3
+        },
+        {
+          "t": "zepa",
+          "w": 2.5
+        },
+        {
+          "t": "lugar de importancia comunitaria",
+          "w": 3
+        },
+        {
+          "t": "zona especial de conservacion",
+          "w": 3
+        },
+        {
+          "t": "parque nacional",
+          "w": 3
+        },
+        {
+          "t": "parque natural",
+          "w": 3
+        },
+        {
+          "t": "parque regional",
+          "w": 2
+        },
+        {
+          "t": "reserva natural",
+          "w": 3
+        },
+        {
+          "t": "reserva de la biosfera",
+          "w": 3
+        },
+        {
+          "t": "monumento natural",
+          "w": 2.5
+        },
+        {
+          "t": "paisaje protegido",
+          "w": 2.5
+        },
+        {
+          "t": "biodiversidad",
+          "w": 3
+        },
+        {
+          "t": "patrimonio natural",
+          "w": 2.5
+        },
+        {
+          "t": "conservacion de la naturaleza",
+          "w": 3
+        },
+        {
+          "t": "especies amenazadas",
+          "w": 3
+        },
+        {
+          "t": "especie amenazada",
+          "w": 3
+        },
+        {
+          "t": "especies exoticas invasoras",
+          "w": 3
+        },
+        {
+          "t": "catalogo espanol de especies",
+          "w": 3
+        },
+        {
+          "t": "plan de recuperacion",
+          "w": 1.5
+        },
+        {
+          "t": "habitats naturales",
+          "w": 2.5
+        },
+        {
+          "t": "fauna silvestre",
+          "w": 2.5
+        },
+        {
+          "t": "flora silvestre",
+          "w": 2.5
+        },
+        {
+          "t": "humedal",
+          "w": 2.5
+        },
+        {
+          "t": "humedales",
+          "w": 2.5
+        },
+        {
+          "t": "ramsar",
+          "w": 3
+        },
+        {
+          "t": "corredor ecologico",
+          "w": 2.5
+        },
+        {
+          "t": "conectividad ecologica",
+          "w": 2.5
+        },
+        {
+          "t": "geoparque",
+          "w": 2.5
+        },
+        {
+          "t": "plan de ordenacion de los recursos naturales",
+          "w": 3
+        },
+        {
+          "t": "plan rector de uso y gestion",
+          "w": 3
+        }
+      ]
+    },
+    {
+      "id": "agua",
+      "label": "Agua y cuencas",
+      "color": "#1f6f9f",
+      "terms": [
+        {
+          "t": "dominio publico hidraulico",
+          "w": 3
+        },
+        {
+          "t": "confederacion hidrografica",
+          "w": 3
+        },
+        {
+          "t": "demarcacion hidrografica",
+          "w": 3
+        },
+        {
+          "t": "plan hidrologico",
+          "w": 3
+        },
+        {
+          "t": "planificacion hidrologica",
+          "w": 3
+        },
+        {
+          "t": "caudal ecologico",
+          "w": 3
+        },
+        {
+          "t": "masa de agua",
+          "w": 2.5
+        },
+        {
+          "t": "masas de agua",
+          "w": 2.5
+        },
+        {
+          "t": "aguas residuales",
+          "w": 2.5
+        },
+        {
+          "t": "depuracion de aguas",
+          "w": 2.5
+        },
+        {
+          "t": "saneamiento y depuracion",
+          "w": 2.5
+        },
+        {
+          "t": "estacion depuradora",
+          "w": 2.5
+        },
+        {
+          "t": "vertido de aguas",
+          "w": 2.5
+        },
+        {
+          "t": "autorizacion de vertido",
+          "w": 3
+        },
+        {
+          "t": "canon de control de vertidos",
+          "w": 3
+        },
+        {
+          "t": "concesion de aguas",
+          "w": 2.5
+        },
+        {
+          "t": "aprovechamiento de aguas",
+          "w": 2
+        },
+        {
+          "t": "acuifero",
+          "w": 2.5
+        },
+        {
+          "t": "sequia",
+          "w": 2.5
+        },
+        {
+          "t": "escasez hidrica",
+          "w": 2.5
+        },
+        {
+          "t": "reutilizacion de aguas",
+          "w": 2.5
+        },
+        {
+          "t": "abastecimiento de agua",
+          "w": 2
+        },
+        {
+          "t": "nitratos",
+          "w": 2.5
+        },
+        {
+          "t": "zona vulnerable a la contaminacion",
+          "w": 3
+        }
+      ]
+    },
+    {
+      "id": "costas-mar",
+      "label": "Costas y medio marino",
+      "color": "#0e7c86",
+      "terms": [
+        {
+          "t": "dominio publico maritimo-terrestre",
+          "w": 3
+        },
+        {
+          "t": "dominio publico maritimo terrestre",
+          "w": 3
+        },
+        {
+          "t": "ley de costas",
+          "w": 3
+        },
+        {
+          "t": "deslinde del dominio publico",
+          "w": 3
+        },
+        {
+          "t": "medio marino",
+          "w": 3
+        },
+        {
+          "t": "estrategia marina",
+          "w": 3
+        },
+        {
+          "t": "area marina protegida",
+          "w": 3
+        },
+        {
+          "t": "reserva marina",
+          "w": 3
+        },
+        {
+          "t": "posidonia",
+          "w": 3
+        },
+        {
+          "t": "praderas marinas",
+          "w": 3
+        },
+        {
+          "t": "ordenacion del espacio maritimo",
+          "w": 3
+        },
+        {
+          "t": "litoral",
+          "w": 1.5
+        },
+        {
+          "t": "eolica marina",
+          "w": 2.5
+        }
+      ]
+    },
+    {
+      "id": "montes-incendios",
+      "label": "Montes e incendios forestales",
+      "color": "#7a5c1e",
+      "terms": [
+        {
+          "t": "incendio forestal",
+          "w": 3
+        },
+        {
+          "t": "incendios forestales",
+          "w": 3
+        },
+        {
+          "t": "prevencion de incendios",
+          "w": 3
+        },
+        {
+          "t": "monte publico",
+          "w": 3
+        },
+        {
+          "t": "montes de utilidad publica",
+          "w": 3
+        },
+        {
+          "t": "gestion forestal",
+          "w": 3
+        },
+        {
+          "t": "plan forestal",
+          "w": 3
+        },
+        {
+          "t": "aprovechamiento forestal",
+          "w": 2.5
+        },
+        {
+          "t": "repoblacion forestal",
+          "w": 3
+        },
+        {
+          "t": "restauracion forestal",
+          "w": 3
+        },
+        {
+          "t": "via pecuaria",
+          "w": 2.5
+        },
+        {
+          "t": "vias pecuarias",
+          "w": 2.5
+        },
+        {
+          "t": "desertificacion",
+          "w": 3
+        },
+        {
+          "t": "plagas forestales",
+          "w": 2.5
+        },
+        {
+          "t": "epoca de peligro alto de incendios",
+          "w": 3
+        }
+      ]
+    },
+    {
+      "id": "residuos",
+      "label": "Residuos y economía circular",
+      "color": "#8a5a2b",
+      "terms": [
+        {
+          "t": "residuos",
+          "w": 2.5
+        },
+        {
+          "t": "residuo",
+          "w": 2
+        },
+        {
+          "t": "economia circular",
+          "w": 3
+        },
+        {
+          "t": "vertedero",
+          "w": 3
+        },
+        {
+          "t": "recogida selectiva",
+          "w": 3
+        },
+        {
+          "t": "residuos peligrosos",
+          "w": 3
+        },
+        {
+          "t": "traslado de residuos",
+          "w": 3
+        },
+        {
+          "t": "gestor de residuos",
+          "w": 3
+        },
+        {
+          "t": "responsabilidad ampliada del productor",
+          "w": 3
+        },
+        {
+          "t": "envases y residuos de envases",
+          "w": 3
+        },
+        {
+          "t": "plasticos de un solo uso",
+          "w": 3
+        },
+        {
+          "t": "subproductos",
+          "w": 1.5
+        },
+        {
+          "t": "fin de la condicion de residuo",
+          "w": 3
+        }
+      ]
+    },
+    {
+      "id": "contaminacion",
+      "label": "Contaminación y calidad ambiental",
+      "color": "#8c3b3b",
+      "terms": [
+        {
+          "t": "calidad del aire",
+          "w": 3
+        },
+        {
+          "t": "contaminacion atmosferica",
+          "w": 3
+        },
+        {
+          "t": "emisiones a la atmosfera",
+          "w": 3
+        },
+        {
+          "t": "contaminacion acustica",
+          "w": 3
+        },
+        {
+          "t": "mapa estrategico de ruido",
+          "w": 3
+        },
+        {
+          "t": "zona de proteccion acustica",
+          "w": 3
+        },
+        {
+          "t": "contaminacion luminica",
+          "w": 3
+        },
+        {
+          "t": "suelos contaminados",
+          "w": 3
+        },
+        {
+          "t": "suelo contaminado",
+          "w": 3
+        },
+        {
+          "t": "sustancias peligrosas",
+          "w": 2
+        },
+        {
+          "t": "registro estatal de emisiones",
+          "w": 3
+        },
+        {
+          "t": "prtr",
+          "w": 2
+        },
+        {
+          "t": "contaminantes",
+          "w": 2
+        },
+        {
+          "t": "radiacion",
+          "w": 1.5
+        }
+      ]
+    },
+    {
+      "id": "evaluacion-ambiental",
+      "label": "Evaluación y autorización ambiental",
+      "color": "#5b4b8a",
+      "terms": [
+        {
+          "t": "evaluacion de impacto ambiental",
+          "w": 3
+        },
+        {
+          "t": "declaracion de impacto ambiental",
+          "w": 3
+        },
+        {
+          "t": "estudio de impacto ambiental",
+          "w": 3
+        },
+        {
+          "t": "informe de impacto ambiental",
+          "w": 3
+        },
+        {
+          "t": "evaluacion ambiental estrategica",
+          "w": 3
+        },
+        {
+          "t": "declaracion ambiental estrategica",
+          "w": 3
+        },
+        {
+          "t": "autorizacion ambiental integrada",
+          "w": 3
+        },
+        {
+          "t": "autorizacion ambiental unificada",
+          "w": 3
+        },
+        {
+          "t": "licencia ambiental",
+          "w": 2.5
+        },
+        {
+          "t": "prevencion y control integrados de la contaminacion",
+          "w": 3
+        },
+        {
+          "t": "responsabilidad medioambiental",
+          "w": 3
+        },
+        {
+          "t": "organo ambiental",
+          "w": 2.5
+        },
+        {
+          "t": "evaluacion ambiental",
+          "w": 2.5
+        }
+      ]
+    },
+    {
+      "id": "clima-energia",
+      "label": "Clima y energía",
+      "color": "#b06a1e",
+      "terms": [
+        {
+          "t": "cambio climatico",
+          "w": 3
+        },
+        {
+          "t": "adaptacion al cambio climatico",
+          "w": 3
+        },
+        {
+          "t": "transicion ecologica",
+          "w": 2.5
+        },
+        {
+          "t": "transicion energetica",
+          "w": 3
+        },
+        {
+          "t": "transicion justa",
+          "w": 2.5
+        },
+        {
+          "t": "descarbonizacion",
+          "w": 3
+        },
+        {
+          "t": "gases de efecto invernadero",
+          "w": 3
+        },
+        {
+          "t": "huella de carbono",
+          "w": 3
+        },
+        {
+          "t": "derechos de emision",
+          "w": 3
+        },
+        {
+          "t": "energias renovables",
+          "w": 3
+        },
+        {
+          "t": "energia renovable",
+          "w": 3
+        },
+        {
+          "t": "instalacion fotovoltaica",
+          "w": 2.5
+        },
+        {
+          "t": "fotovoltaica",
+          "w": 2
+        },
+        {
+          "t": "parque eolico",
+          "w": 2.5
+        },
+        {
+          "t": "eolico",
+          "w": 1.5
+        },
+        {
+          "t": "hidrogeno renovable",
+          "w": 3
+        },
+        {
+          "t": "biogas",
+          "w": 2.5
+        },
+        {
+          "t": "biomasa",
+          "w": 2
+        },
+        {
+          "t": "eficiencia energetica",
+          "w": 2.5
+        },
+        {
+          "t": "autoconsumo",
+          "w": 2
+        },
+        {
+          "t": "comunidad energetica",
+          "w": 2.5
+        },
+        {
+          "t": "pobreza energetica",
+          "w": 2
+        },
+        {
+          "t": "movilidad sostenible",
+          "w": 2.5
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "label": "Medio ambiente (general)",
+      "color": "#4a6b57",
+      "terms": [
+        {
+          "t": "medio ambiente",
+          "w": 2.5
+        },
+        {
+          "t": "medioambiental",
+          "w": 2.5
+        },
+        {
+          "t": "medioambientales",
+          "w": 2.5
+        },
+        {
+          "t": "ambiental",
+          "w": 1.5
+        },
+        {
+          "t": "sostenibilidad",
+          "w": 2
+        },
+        {
+          "t": "desarrollo sostenible",
+          "w": 2.5
+        },
+        {
+          "t": "educacion ambiental",
+          "w": 2.5
+        },
+        {
+          "t": "delito ambiental",
+          "w": 3
+        },
+        {
+          "t": "convenio de aarhus",
+          "w": 3
+        },
+        {
+          "t": "informacion ambiental",
+          "w": 2.5
+        }
+      ]
+    }
+  ],
+  "boosts": [
+    {
+      "id": "organo-ambiental",
+      "fields": [
+        "department",
+        "section",
+        "subsection"
+      ],
+      "terms": [
+        {
+          "t": "transicion ecologica",
+          "w": 3
+        },
+        {
+          "t": "medio ambiente",
+          "w": 3
+        },
+        {
+          "t": "medio natural",
+          "w": 3
+        },
+        {
+          "t": "cambio climatico",
+          "w": 3
+        },
+        {
+          "t": "biodiversidad",
+          "w": 3
+        },
+        {
+          "t": "aguas",
+          "w": 1.5
+        },
+        {
+          "t": "confederacion hidrografica",
+          "w": 3
+        },
+        {
+          "t": "parques nacionales",
+          "w": 3
+        },
+        {
+          "t": "costas",
+          "w": 1.5
+        },
+        {
+          "t": "energia",
+          "w": 1
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "t": "convenio colectivo",
+      "w": -3
+    },
+    {
+      "t": "tribunal calificador",
+      "w": -3
+    },
+    {
+      "t": "oferta de empleo publico",
+      "w": -2.5
+    },
+    {
+      "t": "bolsa de trabajo",
+      "w": -2.5
+    },
+    {
+      "t": "lista de admitidos",
+      "w": -2.5
+    },
+    {
+      "t": "colegio profesional",
+      "w": -2
+    },
+    {
+      "t": "premios",
+      "w": -1.5
+    },
+    {
+      "t": "provision de puestos",
+      "w": -4
+    },
+    {
+      "t": "puesto de trabajo",
+      "w": -3
+    },
+    {
+      "t": "libre designacion",
+      "w": -4
+    },
+    {
+      "t": "concurso de meritos",
+      "w": -3
+    },
+    {
+      "t": "comision de servicios",
+      "w": -2.5
+    },
+    {
+      "t": "relacion de puestos de trabajo",
+      "w": -4
+    }
+  ],
+  "doc_types": [
+    {
+      "id": "normativa",
+      "label": "Normativa",
+      "terms": [
+        "ley ",
+        "decreto",
+        "real decreto",
+        "reglamento",
+        "orden ",
+        "se aprueba el reglamento"
+      ]
+    },
+    {
+      "id": "ayudas",
+      "label": "Ayudas y subvenciones",
+      "terms": [
+        "subvencion",
+        "subvenciones",
+        "ayudas",
+        "bases reguladoras",
+        "convocatoria de ayudas",
+        "concesion directa"
+      ]
+    },
+    {
+      "id": "consulta-publica",
+      "label": "Consulta e información pública",
+      "terms": [
+        "informacion publica",
+        "consulta publica",
+        "tramite de audiencia",
+        "exposicion publica",
+        "alegaciones",
+        "sometimiento a informacion"
+      ]
+    },
+    {
+      "id": "autorizaciones",
+      "label": "Autorizaciones y concesiones",
+      "terms": [
+        "autorizacion",
+        "concesion",
+        "declaracion de impacto",
+        "licencia"
+      ]
+    },
+    {
+      "id": "sanciones",
+      "label": "Sanciones",
+      "terms": [
+        "expediente sancionador",
+        "sancion",
+        "infraccion",
+        "procedimiento sancionador"
+      ]
+    }
+  ]
+}

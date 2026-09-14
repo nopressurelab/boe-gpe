@@ -1,0 +1,326 @@
+{
+  "_comment": "Every source is configured here; there are no URLs in the code. To add a gazette, copy an entry and adjust 'adapter' and 'options'. Available adapters: boe_sumario, rss, opendatasoft. The 'notes' fields are rendered on the public site, so they stay in Spanish.",
+  "defaults": {
+    "user_agent": "boletines-ambientales/1.0 (+https://github.com/nopressurelab/boe-gpe)",
+    "timeout_seconds": 45,
+    "retries": 3,
+    "retry_backoff_seconds": 4,
+    "lookback_days": 4
+  },
+  "sources": [
+    {
+      "id": "boe",
+      "name": "Boletín Oficial del Estado",
+      "short_name": "BOE",
+      "scope": "estatal",
+      "region": "España",
+      "region_code": "ES",
+      "language": "es",
+      "homepage": "https://www.boe.es/",
+      "enabled": true,
+      "adapter": "boe_sumario",
+      "options": {
+        "url_template": "https://boe.es/datosabiertos/api/boe/sumario/{yyyymmdd}",
+        "accept": "application/json",
+        "url_field": "url_html",
+        "pdf_field": "url_pdf",
+        "skip_section_codes": []
+      }
+    },
+    {
+      "id": "dog",
+      "name": "Diario Oficial de Galicia",
+      "short_name": "DOG",
+      "scope": "autonomica",
+      "region": "Galicia",
+      "region_code": "GA",
+      "language": "es",
+      "homepage": "https://www.xunta.gal/diario-oficial-galicia",
+      "enabled": true,
+      "adapter": "rss",
+      "options": {
+        "urls": [
+          "https://www.xunta.gal/diario-oficial-galicia/rss/Sumario_es.rss"
+        ],
+        "use_channel_date_as_fallback": true,
+        "strip_html": true,
+        "skip_title_patterns": [
+          "^\\s*Sumario\\s*$"
+        ],
+        "field_patterns": [
+          {
+            "from": "summary_raw",
+            "pattern": "^\\s*(?P<section>.*?)\\s*</br>\\s*(?P<department>.*?)\\s*$",
+            "flags": "is"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boc-canarias",
+      "name": "Boletín Oficial de Canarias",
+      "short_name": "BOC Canarias",
+      "scope": "autonomica",
+      "region": "Canarias",
+      "region_code": "CN",
+      "language": "es",
+      "homepage": "https://www.gobiernodecanarias.org/boc/",
+      "enabled": true,
+      "adapter": "rss",
+      "options": {
+        "urls": [
+          "https://www.gobiernodecanarias.org/boc/feeds/capitulo/disposiciones_generales.rss",
+          "https://www.gobiernodecanarias.org/boc/feeds/capitulo/otras_resoluciones.rss",
+          "https://www.gobiernodecanarias.org/boc/feeds/capitulo/anuncios.rss"
+        ],
+        "use_channel_date_as_fallback": true,
+        "strip_html": true,
+        "field_patterns": [
+          {
+            "from": "channel_title",
+            "pattern": "^(?:RSS\\s+)?(?P<section>.+?)\\s*$"
+          },
+          {
+            "from": "summary",
+            "pattern": "^[^-]*-\\s*(?P<department>[^0-9]+?)\\s*(?:\\d|$)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doe",
+      "name": "Diario Oficial de Extremadura",
+      "short_name": "DOE",
+      "scope": "autonomica",
+      "region": "Extremadura",
+      "region_code": "EX",
+      "language": "es",
+      "homepage": "https://doe.juntaex.es/",
+      "enabled": true,
+      "adapter": "rss",
+      "options": {
+        "urls": [
+          "https://doe.juntaex.es/rss/rss.php?seccion=1",
+          "https://doe.juntaex.es/rss/rss.php?seccion=2",
+          "https://doe.juntaex.es/rss/rss.php?seccion=3",
+          "https://doe.juntaex.es/rss/rss.php?seccion=4",
+          "https://doe.juntaex.es/rss/rss.php?seccion=5"
+        ],
+        "encoding": "iso-8859-1",
+        "strip_html": true,
+        "section_from_category": true,
+        "use_channel_date_as_fallback": true,
+        "field_patterns": [
+          {
+            "from": "summary",
+            "pattern": "^\\s*(?P<department>[^.]+?)\\s*\\.\\s*(?P<subsection>[^.]+?)\\s*\\.-"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bocyl",
+      "name": "Boletín Oficial de Castilla y León",
+      "short_name": "BOCYL",
+      "scope": "autonomica",
+      "region": "Castilla y León",
+      "region_code": "CL",
+      "language": "es",
+      "homepage": "https://bocyl.jcyl.es/",
+      "enabled": true,
+      "adapter": "opendatasoft",
+      "options": {
+        "base_url": "https://jcyl.opendatasoft.com/api/explore/v2.1",
+        "dataset": "bocyl",
+        "date_field": "fecha_publicacion",
+        "page_size": 100,
+        "max_pages": 20,
+        "field_map": {
+          "title": "titulo",
+          "date": "fecha_publicacion",
+          "section": "seccion",
+          "subsection": "subseccion",
+          "department": "organismo",
+          "url": "enlace_fichero_html",
+          "pdf_url": "enlace_fichero_pdf",
+          "identifier": "enlace_fichero_pdf"
+        }
+      }
+    }
+  ],
+  "pending_sources": [
+    {
+      "id": "bocm",
+      "name": "Boletín Oficial de la Comunidad de Madrid",
+      "short_name": "BOCM",
+      "region": "Comunidad de Madrid",
+      "homepage": "https://www.bocm.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": [
+          "https://www.bocm.es/sumarios.rss"
+        ]
+      },
+      "notes": "El RSS solo publica el sumario diario completo, sin titulos por disposicion, por lo que no es filtrable. Requiere un adaptador que recorra https://www.bocm.es/boletin-completo/BOCM-{yyyymmdd}/{numero}."
+    },
+    {
+      "id": "boib",
+      "name": "Butlletí Oficial de les Illes Balears",
+      "short_name": "BOIB",
+      "region": "Illes Balears",
+      "homepage": "https://www.caib.es/eboibfront/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": [
+          "https://www.caib.es/eboibfront/indexrss.do?lang=ca"
+        ]
+      },
+      "notes": "indexrss.do devuelve un canal por boletin, no disposiciones individuales. Requiere un segundo nivel de descarga."
+    },
+    {
+      "id": "boja",
+      "name": "Boletín Oficial de la Junta de Andalucía",
+      "short_name": "BOJA",
+      "region": "Andalucía",
+      "homepage": "https://www.juntadeandalucia.es/boja",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Sin feed RSS publico localizado. Pendiente de adaptador HTML o de API de datos abiertos."
+    },
+    {
+      "id": "dogc",
+      "name": "Diari Oficial de la Generalitat de Catalunya",
+      "short_name": "DOGC",
+      "region": "Catalunya",
+      "homepage": "https://dogc.gencat.cat/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Sin feed RSS publico localizado. Existe dataset en analisi.transparenciacatalunya.cat (Socrata) pendiente de evaluar."
+    },
+    {
+      "id": "bopv",
+      "name": "Boletín Oficial del País Vasco",
+      "short_name": "BOPV",
+      "region": "Euskadi",
+      "homepage": "https://www.euskadi.eus/bopv/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Existe API REST en opendata.euskadi.eus/api-bopv/ pero la documentacion es una SPA Swagger y no se pudo extraer el endpoint. Pendiente."
+    },
+    {
+      "id": "boa",
+      "name": "Boletín Oficial de Aragón",
+      "short_name": "BOA",
+      "region": "Aragón",
+      "homepage": "https://www.boa.aragon.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente de localizar feed o servicio de datos abiertos (opendata.aragon.es)."
+    },
+    {
+      "id": "docm",
+      "name": "Diario Oficial de Castilla-La Mancha",
+      "short_name": "DOCM",
+      "region": "Castilla-La Mancha",
+      "homepage": "https://docm.jccm.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente de localizar feed."
+    },
+    {
+      "id": "dogv",
+      "name": "Diari Oficial de la Generalitat Valenciana",
+      "short_name": "DOGV",
+      "region": "Comunitat Valenciana",
+      "homepage": "https://dogv.gva.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente de localizar feed."
+    },
+    {
+      "id": "bon",
+      "name": "Boletín Oficial de Navarra",
+      "short_name": "BON",
+      "region": "Navarra",
+      "homepage": "https://bon.navarra.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente de localizar feed o API de datos abiertos de Navarra."
+    },
+    {
+      "id": "borm",
+      "name": "Boletín Oficial de la Región de Murcia",
+      "short_name": "BORM",
+      "region": "Región de Murcia",
+      "homepage": "https://www.borm.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "El portal anuncia canales RSS en https://www.borm.es/#/home/rss pero es una SPA; pendiente de localizar la URL real del feed."
+    },
+    {
+      "id": "bopa-asturias",
+      "name": "Boletín Oficial del Principado de Asturias",
+      "short_name": "BOPA",
+      "region": "Asturias",
+      "homepage": "https://sede.asturias.es/bopa",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente."
+    },
+    {
+      "id": "boc-cantabria",
+      "name": "Boletín Oficial de Cantabria",
+      "short_name": "BOC Cantabria",
+      "region": "Cantabria",
+      "homepage": "https://boc.cantabria.es/",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente."
+    },
+    {
+      "id": "bor",
+      "name": "Boletín Oficial de La Rioja",
+      "short_name": "BOR",
+      "region": "La Rioja",
+      "homepage": "https://web.larioja.org/bor",
+      "enabled": false,
+      "adapter": "rss",
+      "options": {
+        "urls": []
+      },
+      "notes": "Pendiente."
+    }
+  ]
+}

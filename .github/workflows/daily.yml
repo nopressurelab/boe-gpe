@@ -1,0 +1,77 @@
+name: Daily collection
+
+on:
+  schedule:
+    # 06:30 UTC ≈ 08:30 in Madrid: the gazettes are published by then.
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many days back to re-check"
+        required: false
+        default: "4"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: boletines
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    name: Collect and build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate configuration
+        run: python -m collector check
+
+      - name: Collect gazettes
+        run: python -m collector collect --days "${{ github.event.inputs.days || '4' }}" --verbose
+
+      - name: Commit the data back to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes in data/"
+          else
+            git commit -m "data: collection for $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build the site and feeds
+        env:
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python -m collector build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    name: Publish to GitHub Pages
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

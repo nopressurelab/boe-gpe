@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{page_title}}</title>
+<meta name="description" content="{{page_description}}">
+<link rel="stylesheet" href="{{root}}assets/style.css">
+<link rel="alternate" type="application/atom+xml" title="{{site_title}} — todas las fuentes" href="{{root}}feeds/todo.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>">
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="topbar">
+  <a class="brand" href="{{root}}index.html"><span aria-hidden="true">🌿</span> {{site_title}}</a>
+  <nav aria-label="Principal">{{nav}}</nav>
+</header>
+<main id="main">
+{{content}}
+</main>
+<footer class="footer">
+  <p>{{footer_note}}</p>
+  <p class="muted">{{last_run_line}} · <a href="{{repository_url}}">Código y configuración</a> · Datos bajo <a href="{{license_url}}">{{license}}</a></p>
+</footer>
+</body>
+</html>

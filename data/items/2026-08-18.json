@@ -1,0 +1,869 @@
+{
+ "date": "2026-08-18",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 21,
+ "items": [
+  {
+   "id": "boe-9e49b752af48638c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Resolución de 31 de julio de 2026, de la Dirección General Biodiversidad, Bosques y Desertificación, por la que se publica información técnica y cartográfica actualizada del humedal de importancia internacional del Convenio de Ramsar Las Tablas de Daimiel (Comunidad Autónoma de Castilla-La Mancha).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Humedales",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17909",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-A-2026-17909.pdf",
+   "identifier": "BOE-A-2026-17909",
+   "score": 14.65,
+   "topics": [
+    "biodiversidad",
+    "montes-incendios"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "biodiversidad",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 3.0
+    },
+    {
+     "term": "humedal",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "humedales",
+     "field": "subsection",
+     "topic": "biodiversidad",
+     "weight": 0.75
+    },
+    {
+     "term": "ramsar",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 3.0
+    },
+    {
+     "term": "desertificacion",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-16c2b0695f2cdcb2",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una revisión de autorización vertido de aguas residuales y vertidos por desbordamientos del sistema de saneamiento de la población de Cretas (Teruel).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27312",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27312.pdf",
+   "identifier": "BOE-B-2026-27312",
+   "score": 10.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aguas residuales",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "vertido de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-75774ff1de7276d4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre la resolución de concesión de aguas subterráneas, en el término municipal de Sénia (La) (Tarragona), expediente 2024CP0145.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27315",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27315.pdf",
+   "identifier": "BOE-B-2026-27315",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-5c7d38dff78b6af3",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre la resolución de concesión de aguas subterráneas, en el término municipal de Corbera (Valencia), expediente 2025CP0053.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27316",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27316.pdf",
+   "identifier": "BOE-B-2026-27316",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-d07ca5bf56571709",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas subterráneas, de referencia MC-0191/2025 (INTEGRA-AYE) LE, con destino a uso ganadero, en el término municipal de Villanueva de las Manzanas (León).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27308",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27308.pdf",
+   "identifier": "BOE-B-2026-27308",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-3ad51a2e0bf98d77",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas superficiales, de referencia C-0034/2026 (INTEGRA-AYE) SA, con destino a riego, en el término municipal de Tardáguila (Salamanca).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27309",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27309.pdf",
+   "identifier": "BOE-B-2026-27309",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-ec4e56e3cc4894c0",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Vilanova de Prades (Tarragona).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27311",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27311.pdf",
+   "identifier": "BOE-B-2026-27311",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-52b73566f52ed177",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-18",
+   "title": "ORDEN AGR/775/2026, de 11 de agosto, relativa a la finalización y archivo del expediente de solicitud de autorización ambiental de una planta de valorización de residuos orgánicos no peligrosos para la producción de biogás/biometano, en el término municipal de Coreses (Zamora), promovido por «Norbiogas Biometano III, S.L.», Expte.: 158-24-AAZA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/08/18/html/BOCYL-D-18082026-159-6.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-6.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-6.pdf",
+   "score": 6.5,
+   "topics": [
+    "residuos",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "biogas",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-1630d6de6602f2d5",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Resolución de la Dirección General de Transición Energética y Economía Circular por la que se convoca para el levantamiento de Actas Previas a la Ocupación de las fincas afectadas por el proyecto para la instalación de una línea aéreo-subterránea de 220 kV doble circuito entre las subestaciones ST Anchuelo 220 kV y ST Complutum 220 kV, en los términos municipales de Anchuelo, Alcalá de Henares y Los Santos de la Humosa. EXE 02/26.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD DE MADRID",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27320",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27320.pdf",
+   "identifier": "BOE-B-2026-27320",
+   "score": 6.0,
+   "topics": [
+    "residuos",
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "economia circular",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion energetica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-a8aab2e5591d98c2",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de formalización de contratos de: Confederación Hidrográfica del Duero, O.A. Objeto: Proyecto de actuaciones en los diques de collado y en el río Tuerto para la recuperación de capacidad de embalse y mejora en la gestión de las avenidas en la presa de Villameca. Expediente: 452-A.611.10.03/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27280",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27280.pdf",
+   "identifier": "BOE-B-2026-27280",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-a7d5f9c529c2a0d7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de formalización de contratos de: Confederación Hidrográfica del Duero, O.A. Objeto: Asistencia técnica para la vigilancia y control de las obras en las actuaciones en los diques de collado y en el río tuerto para la recuperación de capacidad de embalse y mejora en la gestión de las avenidas en la presa de Villameca (león). Expediente: 452-A.611.10.04/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27281",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27281.pdf",
+   "identifier": "BOE-B-2026-27281",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-546a80da3b6eb683",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir por el que se somete a información pública solicitud de autorización de labores de conservación y mantenimiento de la ribera del Arroyo de los Galapagares en un tramo de unos 2800 metros de longitud a su paso por la finca El Chanciller, TM. Córdoba (Córdoba). Referencia: 14021-1937-2026-02 – AL-200/26-CO.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27313",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27313.pdf",
+   "identifier": "BOE-B-2026-27313",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-91f081ddc2b9e073",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Cantábrico, O.A. por el que se somete a Información Pública el \"Proyecto de recuperación hidromorfológica de un tramo del río Naredo en el T.M. de Lena (Asturias), así como la relación de bienes y derechos de necesaria ocupación.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27314",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27314.pdf",
+   "identifier": "BOE-B-2026-27314",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-5d6a5cd3b0699864",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de 14 l/s de aguas a derivar del río Tiétar, con destino a abastecimiento, en el T.M. de Talayuela (Cáceres).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27317",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27317.pdf",
+   "identifier": "BOE-B-2026-27317",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-05a43d0712cac934",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de caudal máximo aprovechable de 0,26 l/s de aguas subterráneas, con destino a riego por goteo de higueras, en el término municipal de Pedro Bernardo (Ávila).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27318",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27318.pdf",
+   "identifier": "BOE-B-2026-27318",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-02d52e91cee6347c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de un caudal total de 0,02 l/s de aguas subterráneas, mediante dos pozos, para abrevadero ganado, usos domésticos y varios, T.M. Colmenar del Arroyo (Madrid).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27319",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27319.pdf",
+   "identifier": "BOE-B-2026-27319",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-5f9281180e90639b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-18",
+   "title": "RESOLUCIÓN de 23 de julio de 2026, del Servicio Territorial de Industria, Comercio y Economía de León, por la que se otorga la autorización administrativa previa y de construcción a «i-DE Redes Eléctricas Inteligentes, S.A.U.,» para las instalaciones denominadas «Proyecto de nuevos tramos de L.S.A.T. de 20 kV (3.ª Cat.) \"02-Coto Escolar\" de la S.T.R. \"Puente Castro\" (4700) para alimentación del C.S. \"Paseo el Parque-Uvad\" (920650001) situado en el Paseo el Parque n.º 15, en el término municipal de León» y «Nuevo centro de seccionamiento automatizado C.S. \"Paseo el Parque\" (920650001) para suministro eléctrico del edificio JCYL-SS-Discapacidad, en el término municipal de León». Expte.: 270/26/6337.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/08/18/html/BOCYL-D-18082026-159-4.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-4.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-4.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-922972e285fdab79",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-18",
+   "title": "ORDEN AGR/776/2026, de 13 de agosto, por la que se dispone la concesión directa de subvenciones a los agricultores, ganaderos y apicultores profesionales titulares de explotaciones agrarias dañadas y ubicadas en los municipios afectados por los incendios forestales acaecidos en Castilla y León durante el año 2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/08/18/html/BOCYL-D-18082026-159-2.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-2.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/18/pdf/BOCYL-D-18082026-159-2.pdf",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-b82ce46ca24ba14a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. Objeto: Servicio de recogida de residuos y destrucción de documentación confidencial en las sedes de los servicios centrales del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. Expediente: ASE/2026/025.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27255",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27255.pdf",
+   "identifier": "BOE-B-2026-27255",
+   "score": 2.5,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-9db913a6ef8ae8e9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Anuncio de formalización de contratos de: Secretaria de Estado de Transportes y Movilidad Sostenible. Objeto: Acuerdo marco de servicios de asistencia técnica en materia económico-financiera a la Delegación del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje. Expediente: SETMS2025ACM.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27273",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27273.pdf",
+   "identifier": "BOE-B-2026-27273",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-8c404420be053a26",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-18",
+   "title": "Extracto de la Resolución del 04 de agosto de 2026 de la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible por la que se convocan subvenciones en régimen de concurrencia competitiva para la formación en la metodología BIM (BUILDING INFORMATION MODELING) aplicada a la contratación pública para 2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27307",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/18/pdfs/BOE-B-2026-27307.pdf",
+   "identifier": "BOE-B-2026-27307",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

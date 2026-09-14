@@ -1,0 +1,204 @@
+{
+ "date": "2026-09-05",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 5,
+ "items": [
+  {
+   "id": "boe-31b0453229597a44",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-05",
+   "title": "Resolución de 8 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 20 de abril de 2023, por la que se otorga a Elawan Energy Olmedo 2, SL, autorización administrativa previa para la instalación fotovoltaica «Elawan Olmedo II», de 49,61 MW de potencia instalada y sus infraestructuras de evacuación, en Ramiro (Valladolid).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18696",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/05/pdfs/BOE-A-2026-18696.pdf",
+   "identifier": "BOE-A-2026-18696",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-6111f3b6a1ecb934",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-05",
+   "title": "Resolución de 3 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Sistemas Energéticos Boyal, SL, autorización administrativa previa y autorización administrativa de construcción para el proyecto de parque eólico «Boyal I», de 5 MW de potencia instalada, y para su infraestructura de evacuación, en Borja y Mallén (Zaragoza) y Cortes (Navarra), y se declara, en concreto, su utilidad pública.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18694",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/05/pdfs/BOE-A-2026-18694.pdf",
+   "identifier": "BOE-A-2026-18694",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-2858aaef0a926eb5",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-05",
+   "title": "Resolución de 3 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Sistemas Energéticos Boyal, SL, autorización administrativa previa y autorización administrativa de construcción para el proyecto de parque eólico «Boyal II», de 5 MW de potencia instalada, y para su infraestructura de evacuación, en Borja y Mallén (Zaragoza) y Cortes (Navarra), y se declara, en concreto, su utilidad pública.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18695",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/05/pdfs/BOE-A-2026-18695.pdf",
+   "identifier": "BOE-A-2026-18695",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-701fdf03f8b465e4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-05",
+   "title": "Resolución de 25 de agosto de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de cuatro series de sellos de correo denominadas «64 Exfilna 2026.-2026. Mérida. Templo de Diana», «Numismática.-2026. Moneda romana. As Augusta Emérita», «Efemérides.-2026. 50 años del pacto internacional de derechos económicos, sociales y culturales (1976-2026)» y «Personajes.-2026. Juan Rodríguez de Fonseca y Baltasar Gracián. 425 años de su nacimiento».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Sellos de correos",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18691",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/05/pdfs/BOE-A-2026-18691.pdf",
+   "identifier": "BOE-A-2026-18691",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-b6488d113ca8217f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-05",
+   "title": "Resolución de 25 de agosto de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de una tarjeta prefranqueada de correo, del tipo «Tarjeta del Correo (80-77)», denominada «64 Exfilna 2026. Mérida. Templo de Diana.-2026».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Sellos de correos",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18692",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/05/pdfs/BOE-A-2026-18692.pdf",
+   "identifier": "BOE-A-2026-18692",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

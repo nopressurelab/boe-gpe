@@ -1,0 +1,198 @@
+{
+ "date": "2026-08-22",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 4,
+ "items": [
+  {
+   "id": "boe-d311b83f172ac6bd",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-22",
+   "title": "Resolución de 27 de julio de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Enlace LAT entre CS Pandela y CT Busqueimado, Ayuntamiento de A Fonsagrada (Lugo) y Santa Eulalia de Oscos (Asturias)».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18029",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/22/pdfs/BOE-A-2026-18029.pdf",
+   "identifier": "BOE-A-2026-18029",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-8e2b33224fb5848c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-22",
+   "title": "Resolución de 5 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento formulado por Savanna Power Solar 10, SLU, de la solicitud de autorización administrativa de construcción para la instalación fotovoltaica Ciudad de Tartessos II, de 60,569 MW de potencia instalada, y su infraestructura de evacuación, en Trigueros (Huelva).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18032",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/22/pdfs/BOE-A-2026-18032.pdf",
+   "identifier": "BOE-A-2026-18032",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-2ed7a3c5e0343d66",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-22",
+   "title": "Resolución de 3 de junio de 2025, de la Dirección General de Política Energética y Minas, por la que se otorga a Naturgy Vento, SAU, autorización administrativa previa para el parque solar fotovoltaico Hibridación Casa del Aire l, de 49,35 MW de potencia instalada, para su hibridación con el parque eólico Casa del Aire I, de 50,4 MW, y para su infraestructura de evacuación, en El Bonillo (Albacete).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18030",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/22/pdfs/BOE-A-2026-18030.pdf",
+   "identifier": "BOE-A-2026-18030",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-55bbd5d1c2a38b10",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-22",
+   "title": "Resolución de 3 de junio de 2025, de la Dirección General de Política Energética y Minas, por la que se otorga a Naturgy Vento, SAU, autorización administrativa previa para el parque solar fotovoltaico Hibridación Casa del Aire II, de 54,6 MW de potencia instalada, para su hibridación con el parque eólico Casa del Aire II, de 51 MW, y para su infraestructura de evacuación, en El Bonillo (Albacete).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18031",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/22/pdfs/BOE-A-2026-18031.pdf",
+   "identifier": "BOE-A-2026-18031",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

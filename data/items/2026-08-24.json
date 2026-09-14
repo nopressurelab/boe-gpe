@@ -1,0 +1,374 @@
+{
+ "date": "2026-08-24",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 9,
+ "items": [
+  {
+   "id": "bocyl-a0329de05e35d29b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-24",
+   "title": "RESOLUCIÓN de 18 de agosto de 2026, de la Secretaría General de la Consejería de Medio Ambiente y Energía, por la que se aprueba la relación provisional de admitidos y excluidos del proceso selectivo para el ingreso, por el sistema de acceso libre, en la categoría profesional de Peón de Montes y Extinción del Operativo de Prevención y Extinción de Incendios Forestales de la Administración de la Comunidad de Castilla y León, convocado por Resolución de 7 de mayo de 2025.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/08/24/html/BOCYL-D-24082026-163-11.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-11.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-11.pdf",
+   "score": 8.7,
+   "topics": [
+    "montes-incendios",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-2b601df0a8314505",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la modificación de características de la concesión de un aprovechamiento de aguas subterráneas con destino a riego, en el término municipal de Tamariz de Campos (Valladolid). Ref. Expte.: MC-0163/2026 (INTEGRA-AYE) VA.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27715",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27715.pdf",
+   "identifier": "BOE-B-2026-27715",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-f6681dd20acb9c55",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil O.A., por el que se somete a información pública el \"Proyecto de restauración ambiental y construcción de senda peatonal en las márgenes de los cauces As Malloadas/A Penela/Zapardiel en el entorno del núcleo de Monforte de Lemos (Lugo), PdM Miño-Sil ES010_3_CHCH0XCET29WP2537\". Clave:M1.444-297/2111.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27716",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27716.pdf",
+   "identifier": "BOE-B-2026-27716",
+   "score": 6.9,
+   "topics": [
+    "agua",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-aea077e3a8f73300",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Contrato de servicios de comunicación y divulgación de la Confederación Hidrográfica del Guadalquivir, O.A. Expediente: CU(SG)-7427.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27699",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27699.pdf",
+   "identifier": "BOE-B-2026-27699",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-630111e418f91ae7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Valladolid, por el que se somete a información pública la solicitud de declaración de impacto ambiental, autorización administrativa previa, autorización administrativa de construcción y reconocimiento, en concreto, de utilidad pública de las instalaciones hibridas fotovoltaicas FV Hibridación Corralnuevo de 26,88 MW de potencia instalada y 31,2417 MW de potencia pico y FV Hibridación Navillas de 26,88 MW de potencia instalada y 30,81078 MW de potencia pico, para su hibridación con los parques eólicos existentes Corralnuevo, de 41,58 MW de potencia instalada y Navillas, de 41,58 MW de potencia instalada, respectivamente, y sus infraestructuras de evacuación, en el término municipal de Valladolid, en la provincia de Valladolid.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27714",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27714.pdf",
+   "identifier": "BOE-B-2026-27714",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-56e3722d1a3e2a86",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-24",
+   "title": "ORDEN AGR/798/2026, de 11 de agosto, por la que se modifica la Orden de 31 de enero de 2007, de la Consejería de Medio Ambiente, por la que se concede autorización ambiental para la explotación avícola ubicada en el término municipal de Traspinedo (Valladolid), titularidad de «Agotzaina, S.L.», como consecuencia de la revisión para su adaptación a las conclusiones sobre las mejores técnicas disponibles (MTD) respecto a la cría intensiva de aves y de la modificación no sustancial (MNS 1). Exptes.: 020-24-ROVA y 066-25-MNSVA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/08/24/html/BOCYL-D-24082026-163-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-16.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-471be2c09b5b183b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Resolución de la Dirección General de Industria, Energía y Minas relativa a la autorización administrativa previa, autorización administrativa de construcción y declaración, en concreto, de utilidad pública del parque eólico Somaloma-Las Quemadas, de 43,2 MW, y su infraestructura de evacuación, situado en los términos municipales de Campoo de Enmedio, Valdeprado del Río y Valdeolea. Expediente número: EOL-72-2025 P.E. Somaloma-Las Quemadas.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE CANTABRIA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27717",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27717.pdf",
+   "identifier": "BOE-B-2026-27717",
+   "score": 4.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-7ef6e72557a1f70f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-24",
+   "title": "ORDEN MAE/793/2026, de 15 de agosto, por la que se cataloga y declara de utilidad pública el monte «Baldíos de Bustillo, Cotorro y Valdealonso» perteneciente a la entidad local menor de Bustillo del Páramo, situado en el término municipal de Villadiego (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/08/24/html/BOCYL-D-24082026-163-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/24/pdf/BOCYL-D-24082026-163-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-d5cbad8e1957a7fa",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-24",
+   "title": "Anuncio de formalización de contratos de: Secretaria de Estado de Transportes y Movilidad Sostenible. Objeto: Acuerdo marco de servicios de asistencia técnica en materia económico-financiera a la Delegación del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje. Expediente: SETMS2025ACM.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27693",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/24/pdfs/BOE-B-2026-27693.pdf",
+   "identifier": "BOE-B-2026-27693",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}

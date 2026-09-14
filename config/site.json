@@ -1,0 +1,58 @@
+{
+  "_comment": "Site and feed configuration. Replace 'base_url' with the real GitHub Pages URL before the first deployment, or set the SITE_BASE_URL environment variable. Everything under 'ui' is what visitors read, so it stays in Spanish.",
+  "site": {
+    "title": "Boletines Ambientales",
+    "tagline": "Disposiciones ambientales del BOE y de los boletines autonómicos, cada día",
+    "description": "Seguimiento diario y automatizado de las disposiciones de interés ambiental publicadas en el Boletín Oficial del Estado y en los diarios oficiales de las comunidades autónomas. Suscripción por Atom.",
+    "base_url": "https://nopressurelab.github.io/boe-gpe",
+    "language": "es",
+    "timezone": "Europe/Madrid",
+    "author": {
+      "name": "Boletines Ambientales",
+      "uri": "https://github.com/nopressurelab/boe-gpe"
+    },
+    "repository_url": "https://github.com/nopressurelab/boe-gpe",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "build": {
+    "output_dir": "public",
+    "data_dir": "data",
+    "recent_days": 60,
+    "max_items_on_index": 300,
+    "feed_max_items": 150,
+    "retention_days": 1825
+  },
+  "feeds": {
+    "all": true,
+    "per_source": true,
+    "per_topic": true,
+    "per_doc_type": false
+  },
+  "ui": {
+    "nav": {
+      "home": "Inicio",
+      "sources": "Fuentes",
+      "topics": "Temas",
+      "feeds": "Suscripción",
+      "about": "Metodología"
+    },
+    "labels": {
+      "published": "Publicado",
+      "source": "Fuente",
+      "topics": "Temas",
+      "score": "Relevancia",
+      "search_placeholder": "Buscar en títulos y organismos…",
+      "all_sources": "Todas las fuentes",
+      "all_topics": "Todos los temas",
+      "no_results": "No hay disposiciones que coincidan con el filtro.",
+      "pdf": "PDF",
+      "original": "Texto oficial",
+      "items_found": "disposiciones",
+      "subscribe": "Suscribirse",
+      "updated": "Actualizado",
+      "last_run": "Última recogida"
+    },
+    "footer_note": "Este sitio es un índice no oficial construido a partir de fuentes públicas. El texto con validez jurídica es el publicado en cada boletín oficial."
+  }
+}

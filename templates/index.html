@@ -1,0 +1,27 @@
+<section class="hero">
+  <h1>{{site_title}}</h1>
+  <p class="tagline">{{tagline}}</p>
+  <p class="stats"><strong>{{item_count}}</strong> {{items_found}} en los últimos {{recent_days}} días · se muestran las {{shown_count}} más recientes · <strong>{{source_count}}</strong> boletines · <a href="{{root}}suscripcion.html">Atom</a></p>
+</section>
+
+<section class="filters" aria-label="Filtros">
+  <label class="field grow">
+    <span>Buscar</span>
+    <input type="search" id="q" placeholder="{{search_placeholder}}" autocomplete="off">
+  </label>
+  <label class="field">
+    <span>{{label_source}}</span>
+    <select id="f-source"><option value="">{{all_sources}}</option>{{source_options}}</select>
+  </label>
+  <label class="field">
+    <span>{{label_topics}}</span>
+    <select id="f-topic"><option value="">{{all_topics}}</option>{{topic_options}}</select>
+  </label>
+  <p class="result-count" id="count" aria-live="polite"></p>
+</section>
+
+<ol class="items" id="items">
+{{items}}
+</ol>
+<p class="empty" id="empty" hidden>{{no_results}}</p>
+<script src="{{root}}assets/app.js" defer></script>

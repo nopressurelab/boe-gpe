@@ -1,0 +1,469 @@
+{
+ "date": "2026-08-25",
+ "generated_at": "2026-09-14T08:45:46Z",
+ "count": 12,
+ "items": [
+  {
+   "id": "boe-ff1d268a4789c2eb",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de concesión de aguas públicas para uso ganadero y un volumen de 1.644 m³/año a captar de Presa/embalse – Arroyo Tamujosillo en el término municipal de Adamuz (Córdoba). Expediente A-73/2023-ing.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27793",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27793.pdf",
+   "identifier": "BOE-B-2026-27793",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-99fa8f23b22ba9c9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas, en localidad de Banuncias con destino a abastecimiento, en el término municipal de Chozas de Abajo (León). Ref. Expte.: C-0108/2026 (INTEGRA-AYE) LE.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27795",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27795.pdf",
+   "identifier": "BOE-B-2026-27795",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-6bf00cda45846a1e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Codos (Zaragoza) 2026-A-5.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27796",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27796.pdf",
+   "identifier": "BOE-B-2026-27796",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-31c0193896ae0131",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-25",
+   "title": "ORDEN MAE/806/2026, de 24 de agosto, por la que se disponen actuaciones relativas a la extracción de la madera quemada en las zonas afectadas por diversos incendios forestales ocurridos durante el año 2026, en la Comunidad Autónoma de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/08/25/html/BOCYL-D-25082026-164-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-12.pdf",
+   "score": 6.2,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-8c7a75c0e94c79df",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la navegación de dos embarcaciones por el embalse de Os Peares, río Miño (catamaranes Pelegrín II y Pelegrín III) y dos embarcaciones por el embalse de Santo Estevo, río Sil (monocasco Cañón del Sil y catamarán Mencía), provincias de Lugo y Ourense. A/27/54359.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27794",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27794.pdf",
+   "identifier": "BOE-B-2026-27794",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-ba7328340a9147fd",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Resolución de 21 de abril de 2026, de la Delegación Territorial de Economía, Hacienda, Fondos Europeos y de Industria, Energía y Minas en Córdoba, por la que se concede autorización administrativa previa, autorización administrativa de construcción y se declara en concreto la utilidad pública a la instalación fotovoltaica CESAR de 1 MW de potencia, sito en el Termino Municipal de Hinojosa del Duque (Córdoba), Expediente AT 3/2023.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE ANDALUCÍA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27797",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27797.pdf",
+   "identifier": "BOE-B-2026-27797",
+   "score": 4.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-1c66c467fc2fdf1a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-25",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico, licencia ambiental y licencia de obras, promovida por «Áridos Juan Calleja, S.L.», para la construcción de una nave en la parcela 5010 del polígono 4, en el término municipal de Fontiveros (Ávila). Expte.: 87/2026.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE FONTIVEROS (ÁVILA)",
+   "url": "http://bocyl.jcyl.es/html/2026/08/25/html/BOCYL-D-25082026-164-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-15.pdf",
+   "score": 4.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "licencia ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-5cdbffaafc6a6f0a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-08-25",
+   "title": "EXTRACTO de la Resolución de 19 de agosto de 2026, de la Presidencia del Instituto para la Competitividad Empresarial de Castilla y León, por la que se aprueba la convocatoria de las subvenciones destinadas a financiar el desarrollo de proyectos singulares ligados a destinos turísticos de excelencia, en los territorios afectados por el Fondo de Transición Justa de España 2021-2027 dentro del ámbito territorial de la Comunidad de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE ECONOMÍA Y HACIENDA",
+   "url": "http://bocyl.jcyl.es/html/2026/08/25/html/BOCYL-D-25082026-164-9.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-9.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/08/25/pdf/BOCYL-D-25082026-164-9.pdf",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "transicion justa",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-0fe5f8b4603a2ea0",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del CG de la Comandancia Gral. de Melilla. Objeto: Suministro de tres (3) compostadoras de residuos orgánicos para Islas y Peñones de Soberanía (Base Discontinua Tte Flomesta, Melilla). Expediente: 2026/ETSAE0287/00000206E.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE DEFENSA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27751",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27751.pdf",
+   "identifier": "BOE-B-2026-27751",
+   "score": 2.5,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-886b3e1f3d9c0bbb",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible. Objeto: Contrato para los cursos de idiomas presenciales para el personal del Ministerio de Transportes y Movilidad Sostenible. Expediente: 26PBF2RH0166.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27764",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27764.pdf",
+   "identifier": "BOE-B-2026-27764",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-cd8f22c6ec944fa7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible. Objeto: Acuerdo marco con un único empresario por lote para la contratación de servicios de cursos de formación del Plan de formación del Ministerio de Transportes y Movilidad Sostenible. Expediente: 26PBF2RH0004.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27772",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27772.pdf",
+   "identifier": "BOE-B-2026-27772",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "boe-aca1451eeb226a93",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-08-25",
+   "title": "Anuncio de la Autoridad Portuaria de Huelva sobre el otorgamiento de licencia para la prestación del servicio portuario de recepción de desechos generados por buques y residuos de carga (Anexo IV, V, VI y RRC-13) en el Puerto de Huelva.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27788",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/08/25/pdfs/BOE-B-2026-27788.pdf",
+   "identifier": "BOE-B-2026-27788",
+   "score": 2.5,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-14T08:45:32Z"
+  }
+ ]
+}
