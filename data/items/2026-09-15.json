@@ -1,0 +1,993 @@
+{
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T11:59:49Z",
+ "count": 23,
+ "items": [
+  {
+   "id": "dog-d1f6c0e225e8bb41",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ANUNCIO de 7 de septiembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, del informe ambiental estratégico relativo al Plan de acción contra la contaminación acústica de la Red autonómica de carreteras de Galicia, cuarta fase (expediente 2026AAE3106).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0001_es.html",
+   "score": 14.6,
+   "topics": [
+    "contaminacion",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "contaminacion acustica",
+     "field": "title",
+     "topic": "contaminacion",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-e84696cc30603df8",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ANUNCIO de 7 de septiembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, del informe ambiental estratégico relativo a la modificación puntual número 1 del Plan de sectorización en el FM II del SUB (P/RI), en el ayuntamiento de Cospeito (expediente 2026AAE3115).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0003_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0003_es.html",
+   "score": 11.6,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-7a77f58af707a322",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ANUNCIO de 7 de septiembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, del informe ambiental estratégico relativo a la modificación puntual número 13 del Plan general de ordenación municipal para el ajuste de alineaciones y delimitaciones en varios núcleos rurales, en el ayuntamiento de Carballo (expediente 2026AAE3107).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-070926-0002_es.html",
+   "score": 11.6,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-3bc3e1023c4fe29c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de actuaciones en dominio público hidráulico en el término municipal de Valdeolmos - Alalpardo (Madrid). Referencia O-0413/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29938",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29938.pdf",
+   "identifier": "BOE-B-2026-29938",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico hidraulico",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-936626be7e121712",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ANUNCIO de 3 de septiembre de 2026, del Departamento Territorial de Ourense, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente CAZ-OU-11/2026-V y dos más.",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-040926-0003_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-040926-0003_es.html",
+   "score": 8.1,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-8e861f7110522fb5",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ANUNCIO de 4 de septiembre de 2026, del Departamento Territorial de Lugo, por el que se emplaza a la persona interesada para ser notificada por comparecencia en el expediente sancionador PES-LU-0029/2026-V.",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-040926-0004_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0760-040926-0004_es.html",
+   "score": 8.1,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "sanciones"
+   ],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-c684758a39cce1d9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de Confederación Hidrográfica del Guadiana, O.A. de información pública sobre competencia de proyectos por solicitud de modificación de una concesión de aguas mixtas para riego en el T.M. de Badajoz (Badajoz). Conc. 706.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29935",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29935.pdf",
+   "identifier": "BOE-B-2026-29935",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-2e62d4b7348d54d5",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de una solicitud de concesión de aguas superficiales, con destino a uso industrial, mediante una toma, en el término municipal de Siles (Jaén). Expediente 344/2022.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29939",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29939.pdf",
+   "identifier": "BOE-B-2026-29939",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-72123997eded12ec",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de una solicitud de concesión de aguas subterráneas, con destino a uso riego y doméstico, mediante una toma, en el término municipal de Fonelas (Granada). Expediente 6035/2016-GR.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29940",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29940.pdf",
+   "identifier": "BOE-B-2026-29940",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-d12b4b6592588b56",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de competencia de proyectos de la concesión de un aprovechamiento de aguas superficiales para uso industrial, en Calahorra de Boedo (Palencia). Expte. ref. C-0269/2026 (INTEGRA-AYE) PA.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29933",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29933.pdf",
+   "identifier": "BOE-B-2026-29933",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-7ad62bc34bc9ff55",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0464/2025 (INTEGRA-AYE) ZA, con destino a uso industrial y riego, en el término municipal de Cerecinos de Campos (Zamora).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29934",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29934.pdf",
+   "identifier": "BOE-B-2026-29934",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-0dc145557e2cde1e",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 10 de septiembre de 2026 sobre la ampliación de los plazos establecidos en el artículo 30 de la Resolución de 16 de diciembre de 2025 por la que se establecen las bases reguladoras y se anuncia la convocatoria de subvenciones, en régimen de concurrencia competitiva, para proyectos de equipamientos de aprovechamiento de energías renovables eléctricas y de ahorro y eficiencia energética en las empresas de producción agrícola primaria, mediante tramitación anticipada de gasto, para el año 2026, cofinanciadas por el Fondo Europeo de Desarrollo Rural (Feader) en el marco del Plan estratégico de la PAC 2023-2027 en Galicia (código de procedimiento IN421L).",
+   "summary": "III. Otras disposiciones Agencia Instituto Energético de Galicia",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Agencia Instituto Energético de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0474-100926-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0474-100926-0001_es.html",
+   "score": 5.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "energias renovables",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "eficiencia energetica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-1fc3caa5c5226e3e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de extinción del aprovechamiento de 0,08 l/s de agua procedente de los manantiales Fonte Roxedoira, en el lugar de Laxe, parroquia de Carballo, término municipal de Friol (Lugo), con destino a abastecimiento y uso ganadero. Expediente: A/27/08447/E.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29931",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29931.pdf",
+   "identifier": "BOE-B-2026-29931",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-3d99d6f306e84666",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de extinción del aprovechamiento de 0,08 l/s de agua procedente de dos (2) pozos sitos en la finca Rego Cego, parroquia de Lousada, término municipal de Xermade (Lugo), con destino a usos domésticos y ganaderos. Expediente: A/27/10644/E.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29932",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29932.pdf",
+   "identifier": "BOE-B-2026-29932",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-d660996d81b0b97c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A., de información pública de procedimiento de extinción del derecho al uso privativo de las aguas en el término municipal de Marina de Cudeyo (Cantabria). Expediente A/39/04331.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29936",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29936.pdf",
+   "identifier": "BOE-B-2026-29936",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-1f7104bcb9258083",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de autorización de producción y suministro de aguas regeneradas procedentes de la Estación Regeneradora de Agua situada en el término municipal de Puebla de Cazalla (La)(Sevilla). Expediente de ref.: ERA0018/SE-103 /2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29937",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29937.pdf",
+   "identifier": "BOE-B-2026-29937",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-50202268bd70087c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 36-BA-4425; 54.1140/25 Mejora de la eficiencia energética de la iluminación a cielo abierto del enlace de la autovía A-5 en el p.k. 407 y el tramo fronterizo con Portugal, pp.kk. 406+700 al 407+785. T.M. de Badajoz. Provincia de Badajoz. Expediente: D54250644250.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29904",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29904.pdf",
+   "identifier": "BOE-B-2026-29904",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "eficiencia energetica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-9fe34560bff76952",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible. Objeto: Servicios para la organización del evento institucional \"IX Conferencia Iberoamericana de ministras y ministros de Transporte e Infraestructuras. Expediente: 26PBN2AA0145.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29914",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29914.pdf",
+   "identifier": "BOE-B-2026-29914",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-c0bd16b1f97caf1b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de licitación de: Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible. Objeto: Servicios de de formación especializada de idiomas en el Ministerio de Transportes y Movilidad Sostenible. Expediente: 26PPS2RH0191.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29915",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29915.pdf",
+   "identifier": "BOE-B-2026-29915",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "boe-d8862196181650bf",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-15",
+   "title": "Anuncio de licitación de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Acuerdo Marco para el suministro, respetuoso con el medio ambiente, de equipos de cromatografía líquida acoplada a espectometría de masas (LC-MS), para laboratorios clínicos del Sistema Nacional de Salud. Expediente: AM 2026/036.1.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE SANIDAD",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-29924",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/15/pdfs/BOE-B-2026-29924.pdf",
+   "identifier": "BOE-B-2026-29924",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-f9a09c6584d4dfa8",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 10 de septiembre de 2026 sobre la ampliación de los plazos establecidos en el artículo 27 de la Resolución de 18 de noviembre de 2024 por la que se establecen las bases reguladoras y se anuncia la convocatoria, mediante tramitación anticipada de gasto, del procedimiento de concesión de subvenciones para proyectos de ahorro y eficiencia energética en las empresas gallegas, para el año 2025, cofinanciadas por el Fondo Europeo de Desarrollo Regional en el marco del programa Galicia Feder 2021-2027 (código de procedimiento IN417Y).",
+   "summary": "III. Otras disposiciones Agencia Instituto Energético de Galicia",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Agencia Instituto Energético de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0474-100926-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0474-100926-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "ayudas",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "eficiencia energetica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-e4381fe9d7601df7",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 4 de septiembre de 2026 por la que se publica la cofinanciación por la Unión Europea con el Fondo Europeo de Desarrollo Regional (Feder) en un 60 % del gasto elegible en el marco del programa Galicia Feder 2021-2027, del contrato administrativo de la obra de saneamiento y depuración de la zona rural de Ferrol, fase 1A, Ferrol (A Coruña), con referencia de expediente AUG-2025-0151.",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioO143-040926-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioO143-040926-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "saneamiento y depuracion",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "dog-aceb9bcea175177a",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026 por la que se ordena la publicación del Acuerdo del Consello de la Xunta de Galicia, de 7 de septiembre de 2026, por el que se aprueban el trámite de información pública y el informe de las administraciones afectadas y, definitivamente, el proyecto de trazado de fomento de la movilidad sostenible. Itinerario peatonal y ciclista en la AC-550. O Porto do Son, de clave AC/25/085.06, con un presupuesto base de licitación, IVA incluido, de dos millones seiscientos cuarenta y ocho mil cinco euros con ochenta y cinco céntimos (2.648.005,85 euros). Actuación susceptible de ser cofinanciada por la Unión Europea a través del Fondo Europeo de Desarrollo Regional (Feder), en el marco del programa Galicia-Feder 2021-2027.",
+   "summary": "a) Administración autonómica Agencia Gallega de Infraestructuras",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Agencia Gallega de Infraestructuras",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0181-080926-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20260915/AnuncioG0181-080926-0001_es.html",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  }
+ ]
+}

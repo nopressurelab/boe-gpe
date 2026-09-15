@@ -1,7 +1,7 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T09:13:40Z",
- "count": 21,
+ "generated_at": "2026-09-15T11:59:49Z",
+ "count": 39,
  "items": [
   {
    "id": "dog-2542273e12f334eb",
@@ -427,6 +427,188 @@
    "first_seen": "2026-09-14T08:45:32Z"
   },
   {
+   "id": "bocyl-49f9067c925fef4e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de central de producción de agua caliente para calefacción y sanitaria mediante energías renovables, en el término municipal de Burgos, promovido por «Eco Energías, S.L.». Expte.: EIAS/2026/BU/015.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-20.pdf",
+   "score": 7.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "energias renovables",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-13a61e9f6a661f3d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de valorización de residuos en el proyecto de restauración de la explotación minera de caliza «El Camperón» n.º 1.100, en el término municipal de Valle de las Navas (Burgos), promovido por «Ariolsa, S.A.». Expte.: EIAS/2026/BU/017.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-22.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-2881f5485d076b56",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental del proyecto de planta de valorización de residuos orgánicos (agrícolas, ganaderos e industria agroalimentaria) a biometano y fertilizantes orgánicos y compost, en el término municipal de Cogeces del Monte (Valladolid), promovido por «Biofertilizantes CH4, S.L.U.». Expte.: 169-24-AAVA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-30.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-34949c028d6b2c6f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de valorización del material procedente del fresado de capas asfálticas en una planta de aglomerado asfáltico existente, en el término municipal de Valle de Valdebezana (Burgos), promovido por «Extracciones Mineras y Medioambientales del Norte, S.L.». Expte.: EIAS/2026/BU/011.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-18.pdf",
+   "score": 7.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
    "id": "boe-7cef9f6e9bde74cb",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -472,6 +654,141 @@
    "first_seen": "2026-09-14T08:45:32Z"
   },
   {
+   "id": "bocyl-aae08b4dd80cae0c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 10 de septiembre de 2026, de la Delegación Territorial de Ávila, por la que se dicta informe de impacto ambiental del proyecto de sondeo para abastecimiento de agua en la calle Cuesta Ángel Arroyo n.º 18, referencia catastral 0923024UK6802S0001GL, en el término municipal de El Barraco (Ávila). Expte.: E.I.A.S/2026/AV/004.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-14.pdf",
+   "score": 6.5,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "abastecimiento de agua",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-40cc7967ad92eb48",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de planta solar fotovoltaica hibridada «La Loma» y su infraestructura de evacuación, en el término municipal de Valle de Santibáñez (Burgos), promovido por «Estudios y Proyectos Pradamap, S.L.U.». Expte.: EIAS/2026/BU/006.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-17.pdf",
+   "score": 6.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-97f0c22633feb06d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de una instalación de almacenamiento de energía en baterías hibridada con planta solar fotovoltaica «Ambélica», en el término municipal de Melgar de Fernamental (Burgos), promovido por «Melga Renovables, S.A.». Expte.: EIAS/2025/BU/013.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-15.pdf",
+   "score": 6.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
    "id": "boe-b2a2585e532af2e8",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -515,6 +832,51 @@
     }
    ],
    "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-1b47742d245a4ab5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 17 de agosto de 2026, de la Dirección General de Infraestructuras y Economía Circular, por la que se aprueba inicialmente y se somete a información pública la relación de determinados titulares, bienes y derechos afectados por la ejecución el proyecto de emisarios de aguas pluviales del Plan Regional de ámbito territorial para la ampliación del polígono industrial de «Las Viñas I», en el término municipal de Ciudad Rodrigo (Salamanca).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-25.pdf",
+   "score": 6.2,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "economia circular",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
   },
   {
    "id": "boe-ebf62e12cbecd8e6",
@@ -921,6 +1283,346 @@
    "first_seen": "2026-09-14T08:45:32Z"
   },
   {
+   "id": "bocyl-8544396dc4c7d45b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de sondeo para captación de aguas subterráneas para abastecimiento de la localidad de Montorio, en el término municipal de Montorio (Burgos), promovido por el Ayuntamiento. Expte.: EIAS/2025/BU/014.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-16.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-af829d3e4300ddbb",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de sondeo de captación de aguas subterráneas para abastecimiento en la localidad de Palacios de la Sierra, en el término municipal de Palacios de la Sierra (Burgos), promovido por el Ayuntamiento. Expte.: EIAS/2026/BU/012.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-19.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-24d5861bb0fb8814",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de instalación de valorización de palés de madera usados, en el término municipal de Burgos, promovido por «Jespallbur, S.L.U.». Expte.: EIAS/2026/BU/016.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-21.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-225758e87cfab8a8",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta el informe de impacto ambiental del proyecto de gestión de materiales excavados, en el término municipal de Roa (Burgos), promovido por «Áridos Camarero, S.L.». Expte.: EIAS/2026/BU/021.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-23.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-eaeaa8fe50f53544",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativo a la autorización del proyecto de explotación y plan de restauración en la concesión de explotación derivada de recursos de la sección C), denominada «Campaspero», n.º 171-10 y su demasía, n.º 171-11, sobre las parcelas 23, 34 (parte), 36, 38 (parte), 39 y 40 del polígono 4, en el término municipal de Campaspero (Valladolid), promovido por «Marmolera Vallisoletana, S.A.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-29.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-f93e3429e26a6031",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "RESOLUCIÓN de 1 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción de soterramiento de la LAMT 13,2 kV 4768-14 «Centro 1» (ST «Aranda Sur»), entre los apoyos n.º 13502 y n.º 13503, en el término municipal de Aranda de Duero (Burgos). Expte.: ATLI/29511.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-13.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-62b03ef8c9cbb9f9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción para el soterramiento de la línea aérea de media tensión 4763-1 «Urbana-Norte» entre los centros de transformación «Doña Jimena-2» 902511705 y «C/ Madrid-Villarcayo» 100306610, en el término municipal de Villarcayo de Merindad de Castilla la Vieja (Burgos). Expte.: ATLI/28689.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-26.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-f7f4171f6383af06",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción para reposición de los servicios eléctricos afectados por la construcción de la plataforma de alta velocidad conexión Madrid - País Vasco - Frontera Francesa Tramo: Burgos - Vitoria, Subtramo: Pancorbo - Ameyugo Expte. 9045716191 - desvíos MT (13,2 kV), en los términos municipales de Pancorbo y Ameyugo (Burgos). Expte.: ATLI/29534.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-773b1510cf8403cc",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo a la admisión definitiva del derecho minero denominado «Concesión directa de explotación Manada Vieja n.º: 15.333», en el término municipal de Encinedo (León).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-28.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "ayudas",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
    "id": "boe-18b1d943be1b8937",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -981,6 +1683,37 @@
     }
    ],
    "first_seen": "2026-09-14T08:45:32Z"
+  },
+  {
+   "id": "bocyl-fb2ab33414d14774",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-14",
+   "title": "ACUERDO de 3 de septiembre de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Ávila, por el que se aprueba definitivamente la modificación puntual n.º 4 de las Normas Urbanísticas Municipales de Guisando (Ávila), modificación de la delimitación del suelo urbano polígono 3, parcela 16, subparcela «Dehesa». Expte.: PTO 23.25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/14/html/BOCYL-D-14092026-178-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/14/pdf/BOCYL-D-14092026-178-12.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-15T11:59:32Z"
   }
  ]
 }
