@@ -1,0 +1,806 @@
+{
+ "date": "2026-09-16",
+ "generated_at": "2026-09-16T11:56:30Z",
+ "count": 18,
+ "items": [
+  {
+   "id": "doe-51ffae4e06b06645",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-09-16",
+   "title": "Resolución de 1 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de cambio de uso de suelo con solicitud de concesión de aguas superficiales para riego de 19 hectáreas de olivar y 8,5 hectáreas de cereal, en el término municipal de Majadas (Cáceres), promovido por María Jesús Arjona Álvarez. Expte.: IA23/0774.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 1 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de cambio de uso de suelo con solicitud de concesión de aguas superficiales para riego de 19 hectáreas de olivar y 8,5 hectáreas de cereal, en el…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1790o/26062314.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 12.45,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "summary",
+     "topic": "agua",
+     "weight": 1.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "doe-d9a1f79bafd4340e",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-09-16",
+   "title": "Resolución de 2 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 58,40 hectáreas de cultivos leñosos, ubicadas en la finca \"Las Tres Jotas\" en el término municipal de Puebla de Alcocer, cuya promotora es Adofran, SA. Expte.: IA22/1548.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 2 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 58,40 hectáreas de cultivos leñosos, ubicadas en la finca \"Las Tres Jotas\" en el término municipal de Puebla de…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1790o/26062312.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "doe-722736416c5d357e",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-09-16",
+   "title": "Resolución de 2 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 24,44 hectáreas de olivar, en las parcelas 17 y 18 del polígono 511 y parcelas 24 y 25 del polígono 512, del término municipal de Benquerencia de la Serena (Badajoz), y cuyo promotor es Pedro Antonio Tena Cruz. Expte.: IA23/0556.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 2 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 24,44 hectáreas de olivar, en las parcelas 17 y 18 del polígono 511 y parcelas 24 y 25 del polígono 512, del término…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1790o/26062313.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-57e291267c9a578f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Júcar, O.A. relativo a la información pública de una solicitud de autorización para aprovechamiento de pastos en terrenos de dominio público hidráulico en los TT.MM. de Estivella y Torres Torres (Valencia). Expediente 2025AR0073.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30031",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30031.pdf",
+   "identifier": "BOE-B-2026-30031",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico hidraulico",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-cc4195d3e5da3f15",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de resolución de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0148/2026 (INTEGRA-AYE) SG, con destino a uso ganadero en el término municipal de El Espinar (Segovia).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30032",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30032.pdf",
+   "identifier": "BOE-B-2026-30032",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-2adf9bf69ee996ee",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Resolución de 8 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 24 de mayo de 2024, por la que se otorga a Elawan Energy Olmedo 1, SL, autorización administrativa previa de modificaciones y autorización administrativa de construcción para la instalación fotovoltaica “Elawan Olmedo I”, de 50,064 MW de potencia instalada, y sus infraestructuras de evacuación, en Ramiro y Medina del Campo (Valladolid).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19317",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-A-2026-19317.pdf",
+   "identifier": "BOE-A-2026-19317",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-c8ba42ae1dccddba",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Resolución de 24 de agosto de 2026, de la Confederación Hidrográfica del Guadiana, O.A., por la que se modifican las de 10 de agosto de 2020 y 13 de julio de 2026, sobre limitaciones y condiciones al ejercicio de la navegación deportiva o de recreo en aguas continentales de la cuenca del río Guadiana.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Cuenca del río Guadiana",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19313",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-A-2026-19313.pdf",
+   "identifier": "BOE-A-2026-19313",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-1cd772164fee7473",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de corrección de errores de: Presidencia de la Confederación Hidrográfica del Tajo. Objeto: Proyecto de implantación del plan de emergencia de la presa de El Pardo (Madrid). Expediente: 26DT0039/NO.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30000",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30000.pdf",
+   "identifier": "BOE-B-2026-30000",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-ed2ed6ca66e68255",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Obras de emergencia para el suministro de agua para riego a los usuarios del tramo bajo del sistema Guadiamar desde el sistema de regulación general del Guadalquivir para la campaña 2026. Expediente: SE(DT)-7701.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30001",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30001.pdf",
+   "identifier": "BOE-B-2026-30001",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-306fc99fc7b9ae1a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Obras de emergencia para la reparación y rehabilitación del aliviadero de la presa de Guadalén, afectada por el tren de borrascas de febrero de 2026 amparadas por el Decreto-Ley 5/2026, de 17 de febrero. Lote 1: obras. Expediente: JA(DT)-7687.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30002",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30002.pdf",
+   "identifier": "BOE-B-2026-30002",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-a37bdc779247a047",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Obras de emergencia para la reparación y rehabilitación del aliviadero de la presa de Guadalén, afectada por el tren de borrascas de febrero de 2026 amparadas por el Decreto-Ley 5/2026, de 17 de febrero. Lote 2: AT para control y vigilancia de las obras. Expediente: JA(DT)-7688.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30003",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30003.pdf",
+   "identifier": "BOE-B-2026-30003",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-bdd14f52dcc76a18",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de información pública de la Confederación Hidrográfica del Segura, O.A en el procedimiento de autorización de producción de aguas regeneradas de la EDAR-ERA Murcia Este en el t.m de Murcia, (Murcia). Expediente SPAR-0004/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30033",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30033.pdf",
+   "identifier": "BOE-B-2026-30033",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-41a03e2b34ce8786",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir por el que se somete a información pública solicitud de autorización de mantenimiento y conservación del Arroyo de la Avispa en aproximadamente 3.000 metros a su paso por la finca El Chamorrito en el t.m. de Carmona (Sevilla). Referencia: 41024-1269-2026-02.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30034",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30034.pdf",
+   "identifier": "BOE-B-2026-30034",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-509bf31d33c2b65c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para el expediente de aprovechamiento de 0,16 l/s de un pozo situado en la parcela 240 del polígono 10, en el lugar de San Pedro, parroquia de Ribas de Sil (San Clodio), término municipal de Ribas de Sil (Lugo), con destino a abastecimiento de apartahotel.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30035",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30035.pdf",
+   "identifier": "BOE-B-2026-30035",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-a75b14a0e2549781",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para aprovechamiento de 0.093 l/s de un pozo situado en la parcela 496 del polígono 36 en el lugar de O Castiñeiro, en la parroquia de Vilavella (Santa María), término municipal de Triacastela (Lugo), con destino a uso ganadero.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30036",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30036.pdf",
+   "identifier": "BOE-B-2026-30036",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-36289f79ae68c109",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para el aprovechamiento de 1,945 l/s de agua procedente de un pozo sito en el lugar de Vilasuso, parroquia de Os Vilares (San Vicenzo) del término municipal de Guitiriz (Lugo) para usos ganaderos y sanitarios (aseos).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30037",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30037.pdf",
+   "identifier": "BOE-B-2026-30037",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-e2c2e11d1b85f45b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de información pública de la Confederación Hidrográfica del Segura, O.A en el procedimiento de autorización de producción de aguas regeneradas de la depuradora municipal de La Aljorra, t.m de Cartagena (Murcia). Expediente SPAR-0063/2023.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30038",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30038.pdf",
+   "identifier": "BOE-B-2026-30038",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "boe-b35c163d5d39b00f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-16",
+   "title": "Anuncio de la Demarcación de Carreteras del Estado en Extremadura por el que se publica la Resolución del Ministerio de Transportes y Movilidad Sostenible en la que se aprueba el expediente de información pública y definitiva de Modificación de semienlace situado en la autovía A-66, P-K- 654 TM Almendralejo. Provincia de Badajoz . Clave: 33-BA-4070.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-30020",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/16/pdfs/BOE-B-2026-30020.pdf",
+   "identifier": "BOE-B-2026-30020",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  }
+ ]
+}

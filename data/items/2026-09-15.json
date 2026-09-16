@@ -1,7 +1,7 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T11:59:49Z",
- "count": 23,
+ "generated_at": "2026-09-16T11:56:30Z",
+ "count": 31,
  "items": [
   {
    "id": "dog-d1f6c0e225e8bb41",
@@ -572,6 +572,51 @@
    "first_seen": "2026-09-15T11:59:32Z"
   },
   {
+   "id": "bocyl-130633faac8ebd47",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 9 de septiembre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se hace pública la relación de expedientes concedidos y denegados de la prima compensatoria correspondiente a la anualidad de 2026 en los expedientes de forestación de tierras agrícolas.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-13.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
    "id": "dog-0dc145557e2cde1e",
    "source": "dog",
    "source_name": "Diario Oficial de Galicia",
@@ -766,6 +811,273 @@
     }
    ],
    "first_seen": "2026-09-15T11:59:32Z"
+  },
+  {
+   "id": "bocyl-ceb4eb85f9c89d8c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "INFORMACIÓN pública relativa a la solicitud de reconocimiento, en concreto, de utilidad pública del proyecto relativo a la instalación de producción de energía eléctrica de origen eólico denominada «Villaumbrales», a ubicar en los términos municipales de Becerril de Campos, Perales y Villaumbrales (Palencia). Expte.: 34/ATCE/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-21.pdf",
+   "score": 4.7,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-91e684e694d05986",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "INFORMACIÓN pública relativa al proyecto y estudio de impacto ambiental para la ejecución de 6 unidades de alojamiento rural (cabañas) con zona común de recepción y salones, en las parcelas 520, 523, 524 y 525 del polígono 3, en el término municipal de Aldeadávila de la Ribera (Salamanca). Expte.: 387/2025.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE ALDEADÁVILA DE LA RIBERA (SALAMANCA)",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-30.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-ae359a2d6a55b767",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ACUERDO de 8 de septiembre de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Segovia, por el que se aprueba definitivamente la modificación puntual de las Normas Urbanísticas Municipales de Matabuena (Segovia), referida a la descatalogación de la protección ambiental del inmueble situado en la calle Pozas n.º 14 de Cañicosa, referencia catastral 5309802VL3550N0001XB. Expte.: NUM-SG-003/25 (AD).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-14.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-336a71ae43033573",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "ORDEN MAE/889/2026, de 9 de septiembre, por la que se declaran de utilidad pública y se incluyen en el monte «Matorro y Vargas» n.º 272 del catálogo de montes de la provincia de Palencia terrenos propiedad de la Junta Vecinal de Villalafuente, situados en su término municipal.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-1dbe2e8dbffb8527",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 25 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción para sustitución del centro de transformación «Aspanias» (100586750) por el centro de transformación «Aspanias-Burgos» (920700063), en la línea aérea de alta tensión «5-Vivar», a 13,2 kV, de la subestación transformadora de reparto «Quintanadueñas» (4148), en el término municipal de Alfoz de Quintanadueñas (Burgos). Expte.: ATCT/4057.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-16.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-f1c3fec5ad627b84",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "RESOLUCIÓN de 21 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de León, por la que se otorga la autorización administrativa previa y de construcción a «i-DE Redes Eléctricas Inteligentes, S.A.U.», para las instalaciones denominadas «Nuevo tramo de línea subterránea de media tensión (13,2 kV) \"Siva\" de la STR \"Oteruelo\" y centro de seccionamiento automatizado para suministro eléctrico del edificio de uso terciario del polígono tecnológico de Oteruelo, en el término municipal de León». Expte.: 384/26/6337.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-17.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-f1c4319eee02855b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-15",
+   "title": "EXTRACTO de la Orden de 8 de septiembre de 2026, de la Consejería de Industria, Universidades, Empleo y Comercio, por la que se convocan subvenciones dirigidas a empresas con trabajadores afectados por expedientes de regulación de empleo de suspensión de la relación laboral o de reducción de jornada, con acuerdo con los representantes de los trabajadores, fundados en causas económicas, técnicas, organizativas o de producción, o en causa de fuerza mayor temporal, ocasionada por fenómenos meteorológicos adversos, emergencias de protección civil u otros acontecimientos extraordinarios que afecten a centros de trabajo ubicados en Castilla y León, al amparo del Acuerdo 135/2026, de 30 de julio, de la Junta de Castilla y León, por el que se programan actuaciones para la recuperación de las zonas afectadas por incendios forestales en el verano de 2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE INDUSTRIA, UNIVERSIDADES, EMPLEO Y COMERCIO",
+   "url": "http://bocyl.jcyl.es/html/2026/09/15/html/BOCYL-D-15092026-179-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/15/pdf/BOCYL-D-15092026-179-12.pdf",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-16T11:56:20Z"
   },
   {
    "id": "boe-50202268bd70087c",
