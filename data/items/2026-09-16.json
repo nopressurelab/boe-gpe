@@ -1,7 +1,7 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T11:56:30Z",
- "count": 18,
+ "generated_at": "2026-09-17T11:58:41Z",
+ "count": 19,
  "items": [
   {
    "id": "doe-51ffae4e06b06645",
@@ -768,6 +768,41 @@
     }
    ],
    "first_seen": "2026-09-16T11:56:20Z"
+  },
+  {
+   "id": "bocyl-528cb929f05bd0b6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-16",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Soria, relativo a la aprobación del proyecto de ejecución de un sondeo de captación de aguas subterráneas, en el término municipal de Alconaba (Soria). Sondeo: n.º 3/2026. Expte.: 69/2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/16/html/BOCYL-D-16092026-180-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/16/pdf/BOCYL-D-16092026-180-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/16/pdf/BOCYL-D-16092026-180-18.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-17T11:58:28Z"
   },
   {
    "id": "boe-b35c163d5d39b00f",
