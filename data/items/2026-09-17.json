@@ -1,7 +1,7 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T11:58:41Z",
- "count": 35,
+ "generated_at": "2026-09-18T11:39:29Z",
+ "count": 41,
  "items": [
   {
    "id": "dog-af55b6848bca1aa0",
@@ -1337,6 +1337,221 @@
     }
    ],
    "first_seen": "2026-09-17T11:58:28Z"
+  },
+  {
+   "id": "bocyl-743250d605a23513",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción para el proyecto de líneas de media tensión subterránea (13,2 kV), 9 centros de transformación y red de baja tensión para el suministro al sector V2 Villímar, en el término municipal de Burgos. Expte.: ATLI/29540.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-25.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
+  },
+  {
+   "id": "bocyl-170099eea3b48c04",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo a la aprobación del proyecto de ejecución de los trabajos consistentes en 22 sondeos destinados al aprovechamiento geotérmico de muy baja entalpía, promovido por «Promociones Alzajope, S.L.», en la parcela de referencia catastral 9876206TN8197N0001MG, en el término municipal de León. Expte.: GS-25-05-27.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-26.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
+  },
+  {
+   "id": "bocyl-93726ccff2fee36a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto constructivo de la hibridación de la planta «FV-Velilla Rotonda 3» con almacenamiento de 5,04 MW de potencia y 10,08 MWh de capacidad, en el término municipal de Mantinos (Palencia). Expte.: FV-956.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-28.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
+  },
+  {
+   "id": "bocyl-9d8b0bf89c9f1f96",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Soria, relativo a la aprobación del proyecto de ejecución de un sondeo de captación de aguas subterráneas, en el término municipal de Alconaba (Soria). Sondeo: n.º 5/2026. Expte.: 95/2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-29.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
+  },
+  {
+   "id": "bocyl-601203337f83146b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto constructivo de la hibridación de la planta «FV-Velilla Rotonda 2» con almacenamiento de 5,04 MW de potencia y 10,08 MWh de capacidad, en el término municipal de Mantinos (Palencia). Expte.: FV-955.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
+  },
+  {
+   "id": "bocyl-2616a8421d915a8b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-17",
+   "title": "RESOLUCIÓN de 14 de septiembre de 2026, de la Viceconsejería de Administraciones Públicas, Relaciones Institucionales y Atención al Ciudadano, por la que se modifica la composición del tribunal del proceso selectivo para el ingreso, por el sistema de acceso libre, en categoría profesional de Peón de Montes y Extinción del Operativo de Prevención y Extinción de Incendios Forestales de la Administración de la Comunidad de Castilla y León, convocado por Resolución de 7 de mayo de 2025.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/17/html/BOCYL-D-17092026-181-5.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-5.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/17/pdf/BOCYL-D-17092026-181-5.pdf",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-09-18T11:39:12Z"
   },
   {
    "id": "boe-beb52023ea00eba3",
