@@ -1,0 +1,77 @@
+{
+ "date": "2026-09-19",
+ "generated_at": "2026-09-19T11:22:22Z",
+ "count": 2,
+ "items": [
+  {
+   "id": "boe-a626d56f4dc32bbe",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-19",
+   "title": "Resolución de 1 de septiembre de 2026, de la Confederación Hidrográfica del Guadalquivir, O.A., por la que se publica Convenio con el Ayuntamiento de Bonares, para redacción del proyecto, ejecución y posterior entrega y mantenimiento de las actuaciones de conexión de varios núcleos urbanos con la red de abastecimiento de Bonares.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19513",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/19/pdfs/BOE-A-2026-19513.pdf",
+   "identifier": "BOE-A-2026-19513",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-09-19T11:22:06Z"
+  },
+  {
+   "id": "boe-86b327c56a8cbc48",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-09-19",
+   "title": "Real Decreto 735/2026, de 16 de septiembre, sobre el cambio de titularidad de un tramo de la carretera AL-5106, entre sus puntos kilométricos 11+290 y 13+556, a favor del Ministerio de Transportes y Movilidad Sostenible y de un tramo de la carretera AL-3106, entre sus puntos kilométricos 4+000 y 5+400, a favor de la Diputación Provincial de Almería, en la provincia de Almería, y consiguiente modificación de la Red de Carreteras del Estado.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Carreteras",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19508",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/09/19/pdfs/BOE-A-2026-19508.pdf",
+   "identifier": "BOE-A-2026-19508",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-19T11:22:06Z"
+  }
+ ]
+}
