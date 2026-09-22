@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T13:11:40Z",
- "count": 20,
+ "generated_at": "2026-09-22T11:57:58Z",
+ "count": 27,
  "items": [
   {
    "id": "dog-5b1e2197078e3df0",
@@ -701,6 +701,51 @@
    "first_seen": "2026-09-21T13:11:25Z"
   },
   {
+   "id": "bocyl-46c6934bb8480f38",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "RESOLUCIÓN de 13 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, de autorización administrativa previa de una instalación de producción de energía eléctrica, por tecnología fotovoltaica, denominada «FV Grace Solar», en el término municipal de Ciguñuela (Valladolid). Expte.: FV-2725; ATCE-219.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-26.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
    "id": "boc-canarias-da25e2667ebefde8",
    "source": "boc-canarias",
    "source_name": "Boletín Oficial de Canarias",
@@ -853,6 +898,191 @@
    "first_seen": "2026-09-21T13:11:25Z"
   },
   {
+   "id": "bocyl-219b5aa663fe5fce",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "RESOLUCIÓN de 3 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Zamora, por la que se otorga autorización administrativa, aprobación del proyecto de ejecución y declaración de utilidad pública para la sustitución de CTI por CT prefabricado y modificación de la línea mediante nuevos apoyos metálicos de celosía en Santa Colomba de Sanabria, en el término municipal de Cobreros (Zamora). Expte.: Energía: 210032. N.º Reg. Ind.: 49-ATCT-1711.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-72507a437611bbda",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción de aumento de potencia del transformador del C.T. «La Varga Naves» n.º 100101180 de 250 kVA a 400 kVA para atender nuevo suministro eléctrico, en el término municipal de Villagonzalo Pedernales (Burgos). Expte.: ATLI/28017.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-33.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-33.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-33.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-acffae27c2bc3281",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto constructivo de la hibridación de la planta «FV-Velilla Rotonda 1», con almacenamiento de 5,04 MW de potencia y 10,08 MWh de capacidad, en el término municipal de Mantinos (Palencia). Expte.: FV-954.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-35.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-35.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-35.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-9e5a61a3edccf3fa",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "DECRETO 25/2026, de 17 de septiembre, por el que se modifica el Decreto 46/2022, de 24 de noviembre, por el que se regulan los procedimientos de autorizaciones administrativas de instalaciones eléctricas de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "A. DISPOSICIONES GENERALES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-1.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-1.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-1.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-d17458b52678c248",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo a la aprobación del proyecto de ejecución de un sondeo para la captación de aguas subterráneas para riego de una parcela de uso recreo, situado en la parcela de referencia catastral 1374604TN9217S0001HI de Villasinta de Torio, en el término municipal de Villaquilambre (León). Expte.: 05002/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-34.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-34.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-34.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
    "id": "boe-39dc8721992361eb",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -882,6 +1112,37 @@
     }
    ],
    "first_seen": "2026-09-21T13:11:25Z"
+  },
+  {
+   "id": "bocyl-b21adfaa2c8bd941",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-21",
+   "title": "RESOLUCIÓN de 17 de septiembre de 2026, de la Viceconsejería de Administraciones Públicas, Relaciones Institucionales y Atención al Ciudadano, por la que se convoca proceso selectivo para el ingreso, por el sistema de acceso libre, en el Cuerpo de Ayudantes Facultativos, Escala de Agentes Medioambientales de la Administración de la Comunidad de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/21/html/BOCYL-D-21092026-183-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/21/pdf/BOCYL-D-21092026-183-12.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-22T11:57:40Z"
   },
   {
    "id": "boe-2ae76f2095e59d9b",
