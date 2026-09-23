@@ -1,7 +1,7 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T11:57:58Z",
- "count": 36,
+ "generated_at": "2026-09-23T11:59:05Z",
+ "count": 44,
  "items": [
   {
    "id": "dog-015b0172071f5975",
@@ -317,6 +317,61 @@
     }
    ],
    "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-389796b63891d089",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental del proyecto de planta de producción de biogás y su purificación a biometano a partir de residuos de origen agrícola y ganadero (purines y estiércol), en el término municipal de Navalmanzano (Segovia), promovido por «Bío Montalvo, S.L.». Expte.: 139-24-AASG.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-31.pdf",
+   "score": 9.5,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "biogas",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
   },
   {
    "id": "boe-e97e6022fa5a4a9e",
@@ -1239,6 +1294,59 @@
    "first_seen": "2026-09-22T11:57:40Z"
   },
   {
+   "id": "bocyl-edb2900cd31ef070",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental, proyecto de explotación y plan de restauración para la autorización de explotación de recursos de la sección A), denominada «Mancibera y Barreros, 1.ª ampliación», n.º 165-12, situada en la localidad de Tabladillo, en el término municipal de Santa María la Real de Nieva (Segovia).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-29.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
    "id": "boe-3baabc7fb9a02db0",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1466,6 +1574,49 @@
    "first_seen": "2026-09-22T11:57:40Z"
   },
   {
+   "id": "bocyl-decc9d5abb84d67b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "ANUNCIO del Servicio Territorial de Medio Ambiente de Burgos, relativo al expediente de agregación de los montes consorciados BU-3128 «Baldíos de Santa Coloma» y BU-3504 «Valdorros» al monte de utilidad pública n.º 322 «Añadera o La Raposera» propiedad todos ellos de la Junta Vecinal de Santa Coloma del Rudrón (Burgos) y situado en el término municipal de Sargentes de la Lora.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-27.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
    "id": "boe-7260a1e63e963817",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1503,6 +1654,49 @@
     }
    ],
    "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-7dcb7b3b8a460691",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se convoca el levantamiento de actas previas a la ocupación de los bienes y derechos afectados por el proyecto de ejecución de la instalación de producción de energía eléctrica, por tecnología fotovoltaica, conectada a la red de distribución «PFV Tordesillas 2022», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2580 ATCE-100.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-30.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
   },
   {
    "id": "dog-5b02b6ba0cd17c19",
@@ -1581,6 +1775,155 @@
     }
    ],
    "first_seen": "2026-09-22T11:57:40Z"
+  },
+  {
+   "id": "bocyl-44b5f677545c0c58",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "RESOLUCIÓN de 1 de septiembre de 2026, de la Dirección General de Energía y Minas, relativa al otorgamiento de la concesión directa de explotación, para recursos de la sección C), pizarra, «Carmen» n.º 15.278, situada en el término municipal de Encinedo (León).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-17.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "ayudas",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
+   "id": "bocyl-0e0812fefdc75e68",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "RESOLUCIÓN de 17 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Medina del Campo (Valladolid). Expte.: AT-51742.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
+   "id": "bocyl-7bb006605070f5fb",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "RESOLUCIÓN de 17 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Medina del Campo (Valladolid). Expte.: AT-51741.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-18.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
+   "id": "bocyl-8ba21142fa7ce6e8",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-22",
+   "title": "INFORMACIÓN pública relativa al expediente de inclusión-exclusión de terrenos en el M.U.P. n.º 154 «La Ribera», perteneciente al Ayuntamiento de Ferreras de Abajo (Zamora).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/22/html/BOCYL-D-22092026-184-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/22/pdf/BOCYL-D-22092026-184-28.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-23T11:58:51Z"
   },
   {
    "id": "boe-50010b3066c0c9ad",
