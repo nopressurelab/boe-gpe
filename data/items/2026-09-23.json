@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T11:59:05Z",
- "count": 31,
+ "generated_at": "2026-09-24T12:05:18Z",
+ "count": 35,
  "items": [
   {
    "id": "dog-0554fcc0bf0a55a5",
@@ -166,6 +166,58 @@
     }
    ],
    "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
+   "id": "bocyl-b57cad2adf6ed3f1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-23",
+   "title": "ANUNCIO del Servicio Territorial de Medio Ambiente de Soria, relativo al periodo de información pública de la propuesta de clasificación de las vías pecuarias del término municipal de Frechilla de Almazán (Soria).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/23/html/BOCYL-D-23092026-185-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-20.pdf",
+   "score": 8.2,
+   "topics": [
+    "montes-incendios",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-24T12:05:06Z"
   },
   {
    "id": "doe-f4f7fed5a36904f5",
@@ -1279,6 +1331,110 @@
     }
    ],
    "first_seen": "2026-09-23T11:58:51Z"
+  },
+  {
+   "id": "bocyl-7900468c4bef8074",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción de extensión de red subterránea y nuevo centro de seccionamiento telemandado para suministro de supermercado, en el término municipal de Burgos. Expte.: ATLI/29538.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/23/html/BOCYL-D-23092026-185-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-24T12:05:06Z"
+  },
+  {
+   "id": "bocyl-d048506adeb6a793",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-23",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Soria, relativo a la aprobación del proyecto de ejecución de un sondeo de captación de aguas subterráneas, en el término municipal de Almarza (Soria). Sondeo: n.º 8/2026. Expte.: 111/2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/23/html/BOCYL-D-23092026-185-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-22.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-24T12:05:06Z"
+  },
+  {
+   "id": "bocyl-5b001d2bc8c9debd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-23",
+   "title": "ACUERDO de 29 de enero de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Ávila, por el que se aprueba definitivamente la modificación puntual n.º 28 del Plan General de Ordenación Urbana de Arévalo (Ávila), de reclasificación de suelo no urbanizable de especial protección a suelo urbano industrial. Expte.: PTO. 19.24.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/23/html/BOCYL-D-23092026-185-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/23/pdf/BOCYL-D-23092026-185-15.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-09-24T12:05:06Z"
   },
   {
    "id": "dog-74183800bd6e81cd",
