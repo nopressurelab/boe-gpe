@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-27T12:20:32Z",
- "count": 36,
+ "generated_at": "2026-09-28T14:20:40Z",
+ "count": 41,
  "items": [
   {
    "id": "boe-2522a2d4efcb8bca",
@@ -829,6 +829,58 @@
    "first_seen": "2026-09-25T12:05:21Z"
   },
   {
+   "id": "bocyl-cace94107e832294",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-25",
+   "title": "CORRECCIÓN de errores del anuncio de información pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto denominado «BESS Grijota II», de hibridación con baterías de la instalación fotovoltaica «Grijota II», a ubicar en los términos municipales de Becerril de Campos, Villaumbrales y Husillos (Palencia). Expte.: FV-872.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/25/html/BOCYL-D-25092026-187-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-20.pdf",
+   "score": 7.7,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
    "id": "boe-5931708b795db22e",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1008,6 +1060,49 @@
     }
    ],
    "first_seen": "2026-09-25T12:05:21Z"
+  },
+  {
+   "id": "bocyl-6d00d388c0273bcc",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-25",
+   "title": "RESOLUCIÓN de 22 de septiembre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba la primera revisión del Plan Técnico del grupo de montes 5014 «Riberas de utilidad pública de la Comarca de Benavente», que incluye los montes con número de utilidad pública 170, 196, 197, 198, 199, 171, 175, 204, 203 y 147, del que son titulares Ayuntamiento de Villaralbo, Ayuntamiento de San Cristóbal de Entreviñas, Ayuntamiento de Villabrázaro, Ayuntamiento de Arcos de la Polvorosa, Ayuntamiento de Milles de la Polvorosa, Ayuntamiento de Santa Cristina de la Polvorosa, Ayuntamiento de Santa Colomba de las Monjas y Comunidad Autónoma de Castilla y León, de la provincia de Zamora.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/25/html/BOCYL-D-25092026-187-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-12.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-28T14:20:24Z"
   },
   {
    "id": "boe-e17c1afb72ae0f92",
@@ -1320,6 +1415,117 @@
     }
    ],
    "first_seen": "2026-09-25T12:05:21Z"
+  },
+  {
+   "id": "bocyl-56bd196e41c397af",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-25",
+   "title": "RESOLUCIÓN de 15 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Zamora, por la que se otorga la autorización administrativa previa, autorización administrativa de construcción y declaración de utilidad pública para modificar dos tramos de la LAT 45 kV «Porto-Cobreros», entre los apoyos n.º 85 y 86 y entre los apoyos n.º 208 y 209, en el término municipal de Cobreros (Zamora). Expte.: Energía: 231223.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/25/html/BOCYL-D-25092026-187-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-14.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
+   "id": "bocyl-908dbeb08724a291",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-25",
+   "title": "RESOLUCIÓN de 15 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Zamora, por la que se otorga la autorización administrativa previa, autorización administrativa de construcción y declaración de utilidad pública para la modificación del trazado de la LMTA COB706, en el tramo comprendido entre los apoyos n.º 242 y n.º 244 incluyendo la sustitución del apoyo n.º 243, en el término municipal de Lubián (Zamora). Expte.: Energía: 231224.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/25/html/BOCYL-D-25092026-187-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
+   "id": "bocyl-0c19e9881a863426",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-25",
+   "title": "RESOLUCIÓN de 4 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción de la instalación eléctrica denominada «Centro de seccionamiento \"Palomar\" y sus L.S.A.T. 30 kV de alimentación (línea 30 kV \"Aguilar Central-Barruelo\") en Matalbaniega, en el término municipal de Aguilar de Campoo (Palencia)», titularidad de «Viesgo Distribución Eléctrica, S.L.». Expte.: 34/ATLI/6691.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/25/html/BOCYL-D-25092026-187-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/25/pdf/BOCYL-D-25092026-187-13.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-28T14:20:24Z"
   },
   {
    "id": "dog-128e806ab04f4145",
