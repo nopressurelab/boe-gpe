@@ -1,7 +1,7 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T14:20:40Z",
- "count": 39,
+ "generated_at": "2026-09-29T13:13:42Z",
+ "count": 63,
  "items": [
   {
    "id": "dog-9a963f65b04815fa",
@@ -285,6 +285,72 @@
    "first_seen": "2026-09-28T14:20:24Z"
   },
   {
+   "id": "bocyl-7c6e9a28d2e683bf",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "CORRECCIÓN de errores del anuncio de información pública relativa a la solicitud de autorización administrativa previa, autorización administrativa de construcción y evaluación de impacto ambiental simplificada del proyecto denominado «BESS Grijota I», de hibridación con baterías de la instalación fotovoltaica «Grijota I», a ubicar en los términos municipales de Becerril de Campos y Villaumbrales (Palencia). Expte.: FV-871.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-42.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-42.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-42.pdf",
+   "score": 12.2,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "evaluacion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
    "id": "doe-53f226410067d136",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -534,6 +600,56 @@
     }
    ],
    "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
+   "id": "bocyl-e62edb3947c38d54",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ANUNCIO del Servicio Territorial de Medio Ambiente de Burgos, relativo a la iniciación de la tramitación del expediente de ocupación de uso privativo de dominio público pecuario en la vía pecuaria «Cañada Fuentetia», en el término municipal de Ibeas de Juarros (Burgos), con destino a la ocupación, por el paso de la línea aérea de alta tensión «71-Ibeas» a 13,2 kV de la S.T.R. «Ibeas de Juarros» (4782) sobre la «Cañada Fuentetia», a favor de «i-DE Redes Eléctricas Inteligentes, S.A.U.». Expte.: VP_OC_2026_22_Ibeas.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-35.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-35.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-35.pdf",
+   "score": 8.2,
+   "topics": [
+    "montes-incendios",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
   },
   {
    "id": "doe-aca4d422bd05b4fa",
@@ -1226,6 +1342,53 @@
    "first_seen": "2026-09-28T14:20:24Z"
   },
   {
+   "id": "bocyl-10c1349a38c16d15",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de una planta de valorización de residuos orgánicos (agrícolas, ganaderos e industria agroalimentaria) a biometano y fertilizantes orgánicos ubicada en las parcelas 247, 248 y 249 del polígono 1, en el término municipal de Peleas de Abajo (Zamora), promovido por «Biofertilizantes Peleas de Abajo, S.L.U.». Expte.: EIAO/2024/ZA/030.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-31.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
    "id": "boe-c8cdff8936d1609a",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1269,6 +1432,274 @@
     }
    ],
    "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
+   "id": "bocyl-4dc61a1715eaac1e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 23 de septiembre de 2026, de la Secretaría General de la Consejería de Medio Ambiente y Energía, por la que se aprueba la relación provisional de admitidos y excluidos del proceso selectivo para el ingreso, por el sistema de acceso libre, en el Cuerpo Facultativo Superior (Químicos) de la Administración de la Comunidad de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-12.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-7af22c81a5e601d3",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/950/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Canalejas de Peñafiel (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-24.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-c0fcd06eb6a79a03",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/949/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Berceruelo (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-23.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-2ee7e834686e33fe",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/946/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Villabáñez (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-20.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-079dc2b1bfcaa430",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/947/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Villalán de Campos (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-21.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-ed719b34b7663254",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/948/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Rábano (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-22.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
   },
   {
    "id": "boe-939c4a2a29fd4119",
@@ -1548,6 +1979,230 @@
    "first_seen": "2026-09-28T14:20:24Z"
   },
   {
+   "id": "bocyl-deeb0ecb414fc8b6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 7 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización de construcción de la instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «Hibridación con baterías parque fotovoltaico Cerrato de Arriba», a ubicar en el término municipal de Valle de Cerrato (Palencia). Expte.: FV 855_H.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-26.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-a728972820ada9b0",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 7 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización de construcción de la instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «Hibridación con baterías parque fotovoltaico Cerrato Mirado», a ubicar en el término municipal de Valle de Cerrato (Palencia). Expte.: FV 856_H.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-27.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-97c63e3d5ea22d56",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción, para una instalación de almacenamiento de energía eléctrica denominada «BESS La Estación» de 2,5 MW de potencia de almacenamiento, como hibridación de la planta solar fotovoltaica existente denominada «PFV La Estación» de 3,2 MW de potencia, en el término municipal de Villaquirán de los Infantes (Burgos). Expte.: FVH700.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-41.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-41.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-41.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-7b3831ad96f6c375",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la solicitud de declaración y reconocimiento, en concreto, de utilidad pública para el proyecto de la planta solar fotovoltaica «Orquídea», en los términos municipales de Coscurita, Viana de Duero y Nepas (Soria), titularidad de «Orquídea Energy, S.L.U.». Expte.: IE/FV/21-2021.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-43.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-43.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-43.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-c374f95678ad67a6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se convoca al levantamiento de las actas previas a la ocupación de los bienes y derechos afectados por el proyecto de ejecución de la instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «FV Cañadillas», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2581; ATCE-101.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-45.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-45.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-45.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
    "id": "boe-b68c1034e53b56fe",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1704,6 +2359,383 @@
     }
    ],
    "first_seen": "2026-09-28T14:20:24Z"
+  },
+  {
+   "id": "bocyl-7cff351bb7235a86",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN AGR/955/2026, de 22 de septiembre, por la que se modifica la Orden FYM/488/2017, de 7 de junio, por la que se concede autorización ambiental para una planta de gestión y valorización de residuos no peligrosos orgánicos, titularidad de «Biocompostajes Laso, S.L.», en el término municipal de Topas (Salamanca), como consecuencia de la modificación no sustancial MNS 7. Expte.: 060-26-MNSSA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-30.pdf",
+   "score": 4.0,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-4285dd820d222ba2",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 16 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción de soterramiento de la L.A.A.T. «4-Belorado» a 13,2 kV de la S.T.R. «Villafranca M OC» (4771), entre los apoyos n.º 238 y n.º 240, en el término municipal de Belorado (Burgos). Expte.: ATLI/29533.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-25.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-41992c954ca22f97",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la concesión de uso privativo de terrenos del monte de utilidad pública «Dehesa Boyal» n.º 307, en el término municipal de Velilla de los Ajos (Soria). Expte.: SO-OM-37/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-38.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-38.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-38.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-9906c796b441e45f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la autorización de uso privativo de terrenos del monte de utilidad pública «Cabeza Roya y agregados» n.º 71, en el término municipal de Peñausende (Zamora). Expte.: ZA-M-25/143-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-40.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-40.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-40.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-e43a7fa85fa3ec44",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "ORDEN MAE/945/2026, de 20 de septiembre, por la que se declaran de utilidad pública y se incluyen en el monte «Navahondilla, El Baldío, Los Llanos y otros» n.º 98 del catálogo de montes de la provincia de Ávila terrenos propiedad del Ayuntamiento de Navarredonda de Gredos, situados en su término municipal.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-415fb94d383bb80a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la concesión de uso privativo de terrenos del monte de utilidad pública «Dehesa Boyal» n.º 307, en el término municipal de Velilla de los Ajos (Soria). Expte.: SO-OM-38/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-39.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-39.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-39.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-0cfd0eec59299f70",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "CORRECCIÓN de errores del anuncio del Servicio Territorial de Industria, Comercio y Economía de Soria, relativo a la aprobación del proyecto de ejecución de un sondeo de captación de aguas subterráneas, en el término municipal de Alconaba (Soria). Sondeo: n.º 3/2026. Expte.: 69/2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-44.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-44.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-44.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-7c6361181d1f0537",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "RESOLUCIÓN de 15 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Zamora, por la que se otorga la autorización administrativa previa, autorización administrativa de construcción y declaración de utilidad pública para la modificación de un tramo de la LMTA COB706, entre los apoyos n.º 267-44 y n.º 267-56, en el término municipal de Hermisende (Zamora). Expte.: Energía: 220074.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-28.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-47c4e539ec833e69",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la concesión de uso privativo de terrenos del monte de utilidad pública «Dehesa y Arenales» n.º 214, en el término municipal de Maján (Soria). Expte.: SO-OM-34/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-36.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-36.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-36.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-f32be014177d022b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-28",
+   "title": "INFORMACIÓN pública relativa a la concesión de uso privativo de terrenos del monte de utilidad pública «Dehesa y Arenales» n.º 214, en el término municipal de Maján (Soria). Expte.: SO-OM-36/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/28/html/BOCYL-D-28092026-188-37.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-37.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/28/pdf/BOCYL-D-28092026-188-37.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-29T13:13:27Z"
   },
   {
    "id": "boe-ad0ad1be41a34459",
