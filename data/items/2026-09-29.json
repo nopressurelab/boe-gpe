@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T13:13:42Z",
- "count": 29,
+ "generated_at": "2026-09-30T12:54:18Z",
+ "count": 37,
  "items": [
   {
    "id": "dog-c1c0ed8d0f8c2fed",
@@ -1140,6 +1140,51 @@
    "first_seen": "2026-09-29T13:13:27Z"
   },
   {
+   "id": "bocyl-e4cfdca2a4aacc8a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "ORDEN MAE/956/2026, de 20 de septiembre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Sepúlveda (Segovia), núcleo agregado Consuegra de Murera.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-9.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-9.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-9.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
    "id": "boe-ce6a78e0fbeeeb6d",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1294,6 +1339,51 @@
    "first_seen": "2026-09-29T13:13:27Z"
   },
   {
+   "id": "bocyl-12a69f9e285f3319",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "CORRECCIÓN de errores de la Resolución de 13 de enero de 2026, del Servicio Territorial de Industria, Comercio y Economía de Salamanca, dictada por delegación, por la que se otorga a «Argañán Fotovoltaica, S.L.» autorización administrativa previa y autorización de construcción de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica denominada «FV Gallegos» y sus instalaciones asociadas, en el término municipal de Gallegos de Argañán (Salamanca). Expte.: RI-19.873, ATCE-53.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-11.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-11.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-11.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
    "id": "boe-147a4b0fcc0223e6",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1333,6 +1423,235 @@
     }
    ],
    "first_seen": "2026-09-29T13:13:27Z"
+  },
+  {
+   "id": "bocyl-1bd62a8a4e286a13",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental del proyecto de una planta de compostaje de residuos ganaderos y restos vegetales, en el término municipal de Adradas (Soria), titularidad de «Servimed Almazán, S.L.». Expte.: 066-25-AASO.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-18.pdf",
+   "score": 4.0,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-480771444a16c29a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción de la modificación de la línea eléctrica a 220 kV simple circuito «Alcocero de Mola-Villímar» entre los apoyos T-48 y T-53, promovida por «Red Eléctrica de España, S.A.U.», en el término municipal de Rubena (Burgos). Expte.: ATLI/29310.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-56e9a2044bf370c3",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, por el que se somete a información pública la solicitud de autorización administrativa previa, la autorización administrativa de construcción y la declaración de utilidad pública para la instalación de un reconectador telecontrolado en la LMTA COB704, en el apoyo n.º 49C331-C52-A1, en el término municipal de Trefacio (Zamora). Expte.: Energía: 250327.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-17.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-80f2bc67b660fdd9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "RESOLUCIÓN de 10 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa, autorización administrativa de construcción y su reconocimiento de utilidad pública de una instalación de distribución eléctrica, en el término municipal de Villanubla (Valladolid). Expte.: AT-51376.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-12.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-d72a1154f2255cac",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Salamanca, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto de reforma de una línea 13,2 kV, sustitución de C.T. 130115690 «Ctra. Berrocal-Guijuelo» por el nuevo C.T. 920810051 «Vía Verde-Guijuelo» y reforma de red de baja tensión, en el término municipal de Guijuelo (Salamanca). Expte.: ATLI-13755; AT130/1988; AT16/1988.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-16.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-12d65fcd0bee7338",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-29",
+   "title": "RESOLUCIÓN de 21 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de León, por la que se otorga la autorización administrativa previa y de construcción a «Edistribución Redes Digitales, S.L.U.», para las instalaciones denominadas «Proyecto técnico de nuevo apoyo 58 bajo traza existente en LAT 132 kV \"Ponferrada-Santa Marina\"», en el término municipal de Toreno (León). Expte.: 342/26/20683.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/29/html/BOCYL-D-29092026-189-10.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-10.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/29/pdf/BOCYL-D-29092026-189-10.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-09-30T12:54:03Z"
   },
   {
    "id": "boe-8764fa3deb5847eb",
