@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T12:54:18Z",
- "count": 45,
+ "generated_at": "2026-10-01T13:45:56Z",
+ "count": 58,
  "items": [
   {
    "id": "dog-71dfeaa3ed208a14",
@@ -619,6 +619,58 @@
     }
    ],
    "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-59684fec7185a076",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "INFORMACIÓN pública relativa a la ocupación de uso privativo de dominio público pecuario en la vía pecuaria «Cañada Real de Burgos», en el término municipal de Arlanzón (Burgos), con destino a la ubicación de un recinto de madera para la instalación de contenedores de residuos a favor del Ayuntamiento de Arlanzón. Expte.: VP_OC_2026_24.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-32.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-32.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-32.pdf",
+   "score": 8.2,
+   "topics": [
+    "montes-incendios",
+    "residuos"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
   },
   {
    "id": "doe-676c2c64bfb1e284",
@@ -1619,6 +1671,54 @@
    "first_seen": "2026-09-30T12:54:03Z"
   },
   {
+   "id": "bocyl-93b2a802b8b28654",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental del proyecto de una planta de producción de biometano, mediante digestión anaerobia de residuos agroganaderos no peligrosos, en el término municipal de Fompedraza (Valladolid), promovido por «Nortiben Green Energy XIII, S.L.». Expte.: 002-26-AAVA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-34.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-34.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-34.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
    "id": "doe-610156a0156e3304",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1662,6 +1762,49 @@
     }
    ],
    "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-b612bfeb26f13b18",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 23 de septiembre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba la primera revisión del plan dasocrático del monte «Finca Torretartajo», Codmont 4201330000000014, en la provincia de Soria.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-21.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
   },
   {
    "id": "boe-5358bbc4cf20be57",
@@ -1820,6 +1963,329 @@
     }
    ],
    "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-9e2a2f5268f72605",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "ORDEN AGR/964/2026, de 22 de septiembre, por la que se formula la declaración de impacto ambiental del proyecto de concentración parcelaria de la zona de Villaviudas III (Palencia). Expte.: EIAO/2024/PA/014.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-23.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-aaa7a1bbf65d566c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de ampliación de una explotación porcina de ibérico hasta las 4.840 plazas de cebo de 20 a más de 120 kg ubicada en la parcela 4 del polígono 28, en el término municipal de Castillejo de Martín Viejo (Salamanca), promovido por «Dehesa del Corcho XXI, S.L.». Expte.: EIAO/2025/SA/005.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-28.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-4964bc19e9d816f7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "ORDEN AGR/963/2026, de 22 de septiembre, por la que se formula la declaración de impacto ambiental del proyecto básico y de ejecución para la ampliación de una explotación ovina de cebo de corderos en la parcela 37 del polígono 5, en el término municipal de La Zarza (Valladolid), promovido por «Ganados Bueno Núñez, S.L.». Expte.: EIAO/2025/VA/004.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-22.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-89e19fa3b189a62c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de ampliación de una explotación avícola de gallinas camperas ubicada en la parcela 69 del polígono 836, en el término municipal de Villabraz (León), promovido por «Cantos Blancos Norte, S.L.U.». Expte.: EIAO/2025/LE/002.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-26.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-f363145763ba8d39",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "ORDEN AGR/965/2026, de 22 de septiembre, por la que se formula la declaración de impacto ambiental del proyecto de ampliación de la superficie regada de 27,523 ha a 40,783 ha, en el término municipal de Aguilar de Campoo (Palencia), promovido por «Leypas Sociedad Cooperativa». Expte.: EIAO/2025/PA/007.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-24.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-178a708b08ef3a98",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de ampliación de una granja porcina en fase I y fase II con 8.736 lechones de 6 a 20 kg, 2.000 cerdas con lechones hasta destete (de 0 a 6 kg), 314 cerdas de reposición y 4 verracos en la parcela 123 del polígono 5, en el término municipal de Navares de Ayuso (Segovia), promovido por «Pablo Castro y Paulino de Frutos, C.B.». Expte.: EIAO/2025/SG/001.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-25.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-127625b63135d3ab",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de ampliación de una explotación porcina de ibérico hasta las 4.840 plazas de cebo de 20 a más de 120 kg ubicada en la parcela 2 del polígono 22, en el término municipal de Castillejo de Martín Viejo (Salamanca), promovido por «Dehesa del Corcho XXI, S.L.». Expte.: EIAO/2025/SA/004.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-27.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-18d582501dd144f5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 18 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de una explotación porcina para 7.200 plazas de cebo ubicada en las parcelas 32 y 5037 del polígono 1, en el término municipal de Tiñosillos (Ávila), promovido por «Agromoraña, S.L.». Expte.: EIAO/2025/AV/006.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-29.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
   },
   {
    "id": "boe-3bfd7a24b0ed0739",
@@ -2050,6 +2516,75 @@
     }
    ],
    "first_seen": "2026-09-30T12:54:03Z"
+  },
+  {
+   "id": "bocyl-cd02e60606124080",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Salamanca, por el que se somete a información pública la solicitud de autorización administrativa y aprobación del proyecto técnico de transformación a gas natural en MOP 3,5 bar de las instalaciones existentes suministradas con GLP y desmantelamiento de la planta GLP-105-37, en el término municipal de Villares de la Reina (Salamanca). Expte.: GA112418.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-33.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-33.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-33.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-250275c5690ed457",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-09-30",
+   "title": "RESOLUCIÓN de 25 de septiembre de 2026, de la Alcaldía del Ayuntamiento de Segovia, por la que se aprueban las bases específicas y la convocatoria para cubrir, mediante el sistema de oposición por turno libre, 1 plaza de Ingeniero/a Técnico/a de Obras y Proyectos de Medio Ambiente, Escala Administración Especial, Subescala Técnica, Subgrupo A2, pertenecientes a la oferta pública de empleo ordinaria de 2023. Expte.: 30/2024/P14105.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "AYUNTAMIENTO DE SEGOVIA",
+   "url": "http://bocyl.jcyl.es/html/2026/09/30/html/BOCYL-D-30092026-190-37.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-37.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/09/30/pdf/BOCYL-D-30092026-190-37.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-10-01T13:45:42Z"
   },
   {
    "id": "boe-7ef944e00ebae12d",
