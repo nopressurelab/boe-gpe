@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T13:45:56Z",
- "count": 36,
+ "generated_at": "2026-10-02T13:00:51Z",
+ "count": 46,
  "items": [
   {
    "id": "boe-68fd0972aa39f2f1",
@@ -1215,6 +1215,92 @@
    "first_seen": "2026-10-01T13:45:42Z"
   },
   {
+   "id": "bocyl-08c2b76820aa4b4d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "RESOLUCIÓN de 29 de septiembre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, de emplazamiento en el procedimiento ordinario 889/2026, seguido ante la Sala de lo Contencioso Administrativo, Sección 001 - Valladolid, del Tribunal Superior de Justicia de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-31.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-4a70afef50e49a70",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "CORRECCIÓN de errores de la Resolución de 22 de septiembre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba la primera revisión del Plan Técnico del grupo de montes 5014 «Riberas de utilidad pública de la comarca de Benavente y Zamora», que incluye los montes con número de utilidad pública 170, 196, 197, 198, 199, 171, 175, 204, 203 y 147, del que son titulares Ayuntamiento de Villaralbo, Ayuntamiento de San Cristóbal de Entreviñas, Ayuntamiento de Villabrázaro, Ayuntamiento de Arcos de la Polvorosa, Ayuntamiento de Milles de la Polvorosa, Ayuntamiento de Santa Cristina de la Polvorosa, Ayuntamiento de Santa Colomba de las Monjas y Comunidad Autónoma de Castilla y León, de la provincia de Zamora.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-18.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
    "id": "boe-299b4f20b8af9faa",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1617,6 +1703,317 @@
     }
    ],
    "first_seen": "2026-10-01T13:45:42Z"
+  },
+  {
+   "id": "bocyl-b6847fabe6aa1ec5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la convocatoria de las actas previas a la ocupación del proyecto de la planta solar fotovoltaica «Arrives FV» así como las instalaciones de evacuación, en los términos municipales de Cubillos y Monfarracinos (Zamora), promovida por «Cerro Acotango, S.L.U.». Expte.: 231210 Planta 9161.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-35.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-35.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-35.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-e5ab63c711b12b8f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "INFORMACIÓN pública relativa al nuevo periodo de exposición pública de la solicitud de reconocimiento, en concreto, de utilidad pública del modificado del proyecto relativo a la instalación de producción de energía eléctrica de origen eólico denominada «Villaherreros», a ubicar en los términos municipales de Villaherreros y Villasarracino (Palencia). Expte.: 34/ATCE/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-33.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-33.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-33.pdf",
+   "score": 4.7,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-60769c3dd4b887a1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "RESOLUCIÓN de 25 de septiembre de 2026, de la Delegación Territorial de Soria, por la que se dicta el informe de impacto ambiental del proyecto «Alojamiento turístico \"Casas del Silencio\"», en el término municipal de Duruelo de la Sierra (Soria), promovido por el Ayuntamiento. Expte.: 006/26 EIA - EIAS/2026/SO/008.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-21.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-9815bc038c5ce27f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "RESOLUCIÓN de 25 de septiembre de 2026, de la Delegación Territorial de Soria, por la que se dicta el informe de impacto ambiental del proyecto «Camping Sostenible», en el término municipal de Duruelo de la Sierra (Soria), promovido por el Ayuntamiento. Expte.: 005/26 EIA - EIAS/2026/SO/007.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-20.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-72bd82d7ab786015",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la denegación del proyecto de modificación de aprovechamiento de recursos de la sección A) denominada «El Chote 07» n.º 499, en la localidad de Santa Marta de Tera, en el término municipal de Camarzana de Tera (Zamora). Expte.: 60/19.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-34.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-34.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-34.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-5ed00f4d611c3173",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, por el que se somete a información pública la solicitud de autorización administrativa previa, la autorización administrativa de construcción y la declaración de utilidad pública para la instalación de un reconectador telecontrolado sobre el apoyo n.º 49C331-C66-43, en el término municipal de Galende (Zamora). Expte.: Energía: 250339.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-36.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-36.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-36.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-2e1284505b864118",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "RESOLUCIÓN de 16 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción de una línea subterránea de media tensión a 13,2 kV y un nuevo centro de seccionamiento telemandado para PRVE en la autovía A-1, p.k. 227,00, en el término municipal de Sarracín (Burgos). Expte.: ATLI/29522.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "bocyl-2ce7a072a797fbbe",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-01",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo a la autorización de la explotación de recursos de la sección A), gravas y arenas, denominada «El Teso 1» n.º 778, en el término municipal de Ardón (León) y aprobación de los Proyectos de Explotación y Plan de Restauración.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/01/html/BOCYL-D-01102026-191-32.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-32.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/01/pdf/BOCYL-D-01102026-191-32.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
   },
   {
    "id": "boe-8a0de175167179c1",

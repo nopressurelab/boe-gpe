@@ -1,0 +1,2618 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-10-02T13:00:51Z",
+ "count": 56,
+ "items": [
+  {
+   "id": "doe-d4776740bae3003e",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Resolución de 23 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se da publicidad a la resolución por la que se otorga autorización ambiental unificada para el proyecto de \"Incineradora de subproductos animales promovido por La Estrella Pet, SL, en el término municipal de Villanueva de la Serena (Badajoz)\".",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Autorización ambiental.- Resolución de 23 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se da publicidad a la resolución por la que se otorga autorización ambiental unificada para el proyecto de \"Incineradora de subproductos animales promovido por La Estrella Pet, SL, en el término…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Autorización ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26062451.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 10.85,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "subproductos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 1.5
+    },
+    {
+     "term": "subproductos",
+     "field": "summary",
+     "topic": "residuos",
+     "weight": 0.9
+    },
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-5eac27d2cabcc094",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Resolución de 23 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de planta de fabricación de nitrógeno industrial en el término municipal de Mérida, cuya promotora es Jinhong Gas Spain, SL. Expte.: IA26/0300.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 23 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de planta de fabricación de nitrógeno industrial en el término municipal de Mérida, cuya promotora es Jinhong Gas Spain, SL. Expte.: IA26/0300.",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26062449.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-c7bc8c75534ef8ee",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Resolución de 24 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se da publicidad a la resolución por la que se otorga modificación sustancial de autorización ambiental unificada para el proyecto de explotación avícola de pavos de recría, siendo su promotor Domínguez Rodríguez Titularidad Compartida de Explotaciones Agrarias, ubicado en el término municipal de Valencia del Ventoso (Badajoz).",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Autorización ambiental.- Resolución de 24 de septiembre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se da publicidad a la resolución por la que se otorga modificación sustancial de autorización ambiental unificada para el proyecto de explotación avícola de pavos de recría, siendo su promotor…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Autorización ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26062452.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-6b10eb1566832088",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Júcar, O.A. relativo a la información pública de una solicitud de autorización para aprovechamiento de pastos en terrenos de dominio público hidráulico, en el T.M. de Ayora (Valencia). Expediente 2026AR0018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31862",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31862.pdf",
+   "identifier": "BOE-B-2026-31862",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico hidraulico",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-1f76e640e22ef2ba",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de siembra en terrenos de dominio público hidráulico en el término municipal de Sacedón (Guadalajara). Referencia PYT-0010/2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31865",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31865.pdf",
+   "identifier": "BOE-B-2026-31865",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico hidraulico",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-30129fe6e6c0f7c8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Corrección de errores del anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública del procedimiento de autorización de vertido. Expediente V/33/02985-1 en el término municipal de Candamo, provincia de Asturias.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31877",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31877.pdf",
+   "identifier": "BOE-B-2026-31877",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion de vertido",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-97f171c5751d0d8e",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Anuncio de 17 de septiembre de 2026 por el que se somete a información pública el estudio de impacto ambiental del proyecto de modificación de la concesión 28445 para la puesta en riego por goteo de 80,6375 hectáreas de almendros en la finca Las Talarrubias. Expte.: IA26/0446.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Información pública.- Anuncio de 17 de septiembre de 2026 por el que se somete a información pública el estudio de impacto ambiental del proyecto de modificación de la concesión 28445 para la puesta en riego por goteo de 80,6375 hectáreas de almendros en la finca Las Talarrubias. Expte.: IA26/0446.",
+   "section": "IV.ANUNCIOS",
+   "subsection": "Información pública",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26081601.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-98f9f4b1e7a82370",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 5906/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31855",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31855.pdf",
+   "identifier": "BOE-B-2026-31855",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-72f54a397611514e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 6047/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31856",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31856.pdf",
+   "identifier": "BOE-B-2026-31856",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-1ef1125daf9bb2f1",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Las Labores (Ciudad Real) - 6118/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31857",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31857.pdf",
+   "identifier": "BOE-B-2026-31857",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-4bb3c140665a817d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Moral de Calatrava (Ciudad Real)- 6276/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31858",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31858.pdf",
+   "identifier": "BOE-B-2026-31858",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-806ef72baf3044c0",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Madridejos (Toledo) - 750/2024.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31859",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31859.pdf",
+   "identifier": "BOE-B-2026-31859",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-39f2f675f26c1afe",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Malagón (Ciudad Real) - 2889/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31860",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31860.pdf",
+   "identifier": "BOE-B-2026-31860",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-04eb578d95861630",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Casas de Haro (Cuenca) - 1369/2016.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31867",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31867.pdf",
+   "identifier": "BOE-B-2026-31867",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-01c3fa782342a501",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de El Toboso (Toledo) - 3846/2017.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31868",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31868.pdf",
+   "identifier": "BOE-B-2026-31868",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-501eb4375966b07a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de una solicitud de concesión de aguas superficiales, con destino a uso riego, mediante una toma, en el término municipal de Cabra del Santo Cristo (Jaén). Expediente 9583/2005.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31869",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31869.pdf",
+   "identifier": "BOE-B-2026-31869",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-63934b2022fc84ba",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Mota del Cuervo (Cuenca) - 4126/2017.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31870",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31870.pdf",
+   "identifier": "BOE-B-2026-31870",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-e63472aa9fb2b587",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Lillo (Toledo) - 487/2018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31871",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31871.pdf",
+   "identifier": "BOE-B-2026-31871",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-685d7cba779f737c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Corral de Almaguer (Toledo) - 1386/2018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31872",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31872.pdf",
+   "identifier": "BOE-B-2026-31872",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-2a154c08a8555377",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Alcázar de San Juan (Ciudad Real) - 1766/2018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31873",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31873.pdf",
+   "identifier": "BOE-B-2026-31873",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-acc7b5740d7c9752",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Villanueva de Alcardete (Toledo) - 3567/2018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31874",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31874.pdf",
+   "identifier": "BOE-B-2026-31874",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-f5d7c47c0dcb562f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Madridejos (Toledo) - 3663/2018.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31875",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31875.pdf",
+   "identifier": "BOE-B-2026-31875",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-61b7766625016c5f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en los términos municipales de Torralba de Calatrava y Daimiel (Ciudad Real) - 2180/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31876",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31876.pdf",
+   "identifier": "BOE-B-2026-31876",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-e9ada51dfd8abc8f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Mota del Cuervo (Cuenca) - 2962/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31878",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31878.pdf",
+   "identifier": "BOE-B-2026-31878",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-dbddc89a20953af7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Villacañas (Toledo) - 3090/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31879",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31879.pdf",
+   "identifier": "BOE-B-2026-31879",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-6cb775cadedded2f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 3719/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31880",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31880.pdf",
+   "identifier": "BOE-B-2026-31880",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-1a95577d3238621d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 4747/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31881",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31881.pdf",
+   "identifier": "BOE-B-2026-31881",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-8a4e49ef69e94a8c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo O.A. del inicio del trámite de competencia de proyectos de la modificación de características de una concesión de aguas en el término municipal de Cedillo del Condado (Toledo). Referencia M-0038/2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31882",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31882.pdf",
+   "identifier": "BOE-B-2026-31882",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-7f55f5891ba323b5",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Madridejos (Toledo) - 5464/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31883",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31883.pdf",
+   "identifier": "BOE-B-2026-31883",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-16e9112657549c1d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Corral de Almaguer (Toledo)- 5635/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31884",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31884.pdf",
+   "identifier": "BOE-B-2026-31884",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-0b4d2a9afea5d496",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Mota del Cuervo (Cuenca) - 2064/2020.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31887",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31887.pdf",
+   "identifier": "BOE-B-2026-31887",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-2ca12e9a52001887",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Torralba de Calatrava (Ciudad Real) - 2408/2020.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31888",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31888.pdf",
+   "identifier": "BOE-B-2026-31888",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-7f3f3ee94607ccf8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Santa María de los LLanos (Cuenca) - 3027/2020.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31889",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31889.pdf",
+   "identifier": "BOE-B-2026-31889",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-15d044cfd92798b7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Miguelturra (Ciudad Real) - 3723/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31890",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31890.pdf",
+   "identifier": "BOE-B-2026-31890",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-39d00541e2386c8a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Madridejos (Toledo)- 6765/2021.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31893",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31893.pdf",
+   "identifier": "BOE-B-2026-31893",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-f3800d6b2c9ca66c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Almagro (Ciudad Real) - 2167/2022.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31894",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31894.pdf",
+   "identifier": "BOE-B-2026-31894",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-7d667ef6888bdc5e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 4533/2022.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31895",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31895.pdf",
+   "identifier": "BOE-B-2026-31895",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-2b6c5f7254427b0a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Bolaños de Calatrava (Ciudad Real) - 3596/2023.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31896",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31896.pdf",
+   "identifier": "BOE-B-2026-31896",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-619c91e510e246c8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 410/2024.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31897",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31897.pdf",
+   "identifier": "BOE-B-2026-31897",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-b15316f3da9a2d9c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de resolución de otorgamiento de concesión de aguas subterráneas en el término municipal de El Toboso (Toledo) - 181/2025.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31898",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31898.pdf",
+   "identifier": "BOE-B-2026-31898",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-7fb5b43ea75a9b99",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la resolución del expediente de modificación de características concesión de un aprovechamiento de aguas públicas, de referencia MC-0267/2025 (INTEGRA-AYE) PA, con destino a riego en el término municipal de Villamediana (Palencia).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31861",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31861.pdf",
+   "identifier": "BOE-B-2026-31861",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-807064ea296795a2",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas con destino a riego, en el término municipal de Madridanos (Zamora). Ref. Expte.: C-0020/2026 (INTEGRA-AYE) ZA.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31863",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31863.pdf",
+   "identifier": "BOE-B-2026-31863",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-401b10dabb5b323e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la modificación de características de la concesión de un aprovechamiento de aguas subterráneas con destino a riego, en el término municipal de Morales de toro (Zamora). Ref. Expte.: MC-0169/2026 (INTEGRA-AYE) ZA.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31864",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31864.pdf",
+   "identifier": "BOE-B-2026-31864",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-849bdf77580c50c3",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2022-A-222 en el término municipal de Hecho - Valle de Hecho (Huesca).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31866",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31866.pdf",
+   "identifier": "BOE-B-2026-31866",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-6f2cf51813ad66e1",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero, en el término municipal de Ciudad Rodrigo (Salamanca). REF.: C-0301/2026 (INTEGRA-AYE) SA.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31885",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31885.pdf",
+   "identifier": "BOE-B-2026-31885",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-f7cbb74a42352e7e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio del Servicio de Régimen de Usuarios de la Confederación Hidrográfica del Duero, O.A. de información pública sobre la tramitación de un procedimiento de extinción del derecho a un aprovechamiento de aguas subterráneas en el término municipal de Cisla (Ávila) Expediente ED-0107/2025).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31886",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31886.pdf",
+   "identifier": "BOE-B-2026-31886",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-2e172f11d98720c0",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadiana, O.A. de información pública sobre extinción de la concesión de aprovechamiento de aguas superficiales para riego en el t.m. de Badajoz (Badajoz). CONC. 47/88.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31891",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31891.pdf",
+   "identifier": "BOE-B-2026-31891",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-dab5e8bdcaa06a70",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de los Servicios Territoriales del Departamento de Territorio, Vivienda y Transición Ecológica, por el que se somete a información pública, en concreto, la solicitud de declaración de utilidad pública del proyecto del parque eólico denominado PE Conca de Barberà I y las infraestructuras de evacuación de los parques eólicos PE Conca de Barberà I, II y III en los términos municipales de Cervera, Ribera d'Ondara y Talavera, en la comarca de la Segarra; Llorac, Santa Coloma de Queralt, Conesa, Sarral y Barberà de la Conca, en la comarca de la Conca de Barberà, y Cabra del Camp, el Pla de Santa Maria, Alió y Puigpelat, en la comarca del Alt Camp (exp. FUE-2020-01801684).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE CATALUÑA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31903",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31903.pdf",
+   "identifier": "BOE-B-2026-31903",
+   "score": 6.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "transicion ecologica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-2559840aeedfd127",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Resolución de 25 de septiembre de 2026, de la Secretaría General, por la que se da publicidad a la Adenda de modificación del Convenio de Colaboración entre la Consejería de Cultura, Turismo, Jóvenes y Deportes de la Junta de Extremadura y la Diputación Provincial de Badajoz para la ejecución del Plan de sostenibilidad turística en destino denominado \"Plan de sostenibilidad turística en destino Campiña Sur\", financiado por el \"Plan de Recuperación, Transformación y Resiliencia-financiado por la Unión Europea Next-Generation EU\". RCN202600261.",
+   "summary": "VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS. Convenios.- Resolución de 25 de septiembre de 2026, de la Secretaría General, por la que se da publicidad a la Adenda de modificación del Convenio de Colaboración entre la Consejería de Cultura, Turismo, Jóvenes y Deportes de la Junta de Extremadura y la Diputación Provincial de Badajoz…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Convenios",
+   "department": "VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26062460.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 5.6,
+   "topics": [
+    "biodiversidad",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "plan de recuperacion",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 1.5
+    },
+    {
+     "term": "plan de recuperacion",
+     "field": "summary",
+     "topic": "biodiversidad",
+     "weight": 0.9
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.2
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-719b1a7447b10b42",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Resolución de 25 de septiembre de 2026, de la Secretaría General, por la que se da publicidad a la Adenda n.º 2 de modificación del Convenio de Colaboración entre la Consejería de Cultura, Turismo, Jóvenes y Deportes de la Junta de Extremadura y la Diputación de Badajoz para la ejecución del Plan de sostenibilidad turística en destino \"Comarca de Olivenza\", financiado por el \"Plan de Recuperación, Transformación y Resiliencia-financiado por la Unión Europea Next-Generation EU\". RCN202600262.",
+   "summary": "VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS. Convenios.- Resolución de 25 de septiembre de 2026, de la Secretaría General, por la que se da publicidad a la Adenda n.º 2 de modificación del Convenio de Colaboración entre la Consejería de Cultura, Turismo, Jóvenes y Deportes de la Junta de Extremadura y la Diputación de Badajoz para la…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Convenios",
+   "department": "VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26062461.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 5.6,
+   "topics": [
+    "biodiversidad",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "plan de recuperacion",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 1.5
+    },
+    {
+     "term": "plan de recuperacion",
+     "field": "summary",
+     "topic": "biodiversidad",
+     "weight": 0.9
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.2
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "doe-e1bb09e072d55078",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "Orden de 23 de septiembre de 2026 por la que se aprueba el deslinde total administrativo del monte n.º 132 \"Dehesa Boyal\" del Catálogo de Montes de Utilidad Pública, ubicado en el término municipal de Mirabel y propiedad de este municipio.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Deslinde.- Orden de 23 de septiembre de 2026 por la que se aprueba el deslinde total administrativo del monte n.º 132 \"Dehesa Boyal\" del Catálogo de Montes de Utilidad Pública, ubicado en el término municipal de Mirabel y propiedad de este municipio.",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Deslinde",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/1910o/26050107.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 5.6,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "montes de utilidad publica",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "montes de utilidad publica",
+     "field": "summary",
+     "topic": "montes-incendios",
+     "weight": 1.8
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-4a7160783ae6e1d9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Júcar. Objeto: Apoyo en la revisión de documentos técnicos de la Confederación Hidrográfica del Júcar, O.A. Expediente: FP.800.155/0411.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31835",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31835.pdf",
+   "identifier": "BOE-B-2026-31835",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-880416d4472d492f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Júcar. Objeto: Concesión del servicio de cafetería y comedor de la sede central de Valencia de la Confederación Hidrográfica del Júcar, O.A. Expediente: FP.SGR.014/2026.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31836",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31836.pdf",
+   "identifier": "BOE-B-2026-31836",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-a3efd3ff50a2ffa6",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de la transmutación de derechos de aguas privadas a públicas para riego y un volumen de 15.450 m³/año a captar de aguas subterráneas en el término municipal de Écija (Sevilla). Expediente 4249/2022.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31899",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31899.pdf",
+   "identifier": "BOE-B-2026-31899",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "boe-81d9857ab110cb60",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-02",
+   "title": "Anuncio de la Delegación del Gobierno en Castilla y León por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la línea eléctrica a 132 kV \"SET Gomeznarro-SET Olmedo Renovables, con entrada-salida en SET El Caballero\", que forma parte de las infraestructuras de evacuación de la instalación fotovoltaica \"Elawan Olmedo I\", de 50,064 MW de potencia instalada, en los términos municipales de Ramiro, La Zarza y Olmedo, en la provincia de Valladolid.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-31854",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-B-2026-31854.pdf",
+   "identifier": "BOE-B-2026-31854",
+   "score": 4.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  },
+  {
+   "id": "dog-3d68392a15cd849d",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-10-02",
+   "title": "ANUNCIO de 3 de agosto de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Portas (expediente DH.A36.118496).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261002/AnuncioO143-050826-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261002/AnuncioO143-050826-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-10-02T13:00:34Z"
+  }
+ ]
+}
