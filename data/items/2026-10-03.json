@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T11:55:11Z",
+ "count": 2,
+ "items": [
+  {
+   "id": "boe-5c31708af813e60b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-03",
+   "title": "Orden TED/1024/2026, de 30 de septiembre, por la que se determina la información pública del Registro de producción y gestión de residuos.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Residuos",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20530",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/03/pdfs/BOE-A-2026-20530.pdf",
+   "identifier": "BOE-A-2026-20530",
+   "score": 5.65,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [
+    "normativa",
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "subsection",
+     "topic": "residuos",
+     "weight": 0.75
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-03T11:54:58Z"
+  },
+  {
+   "id": "boe-64bfc6081223ed79",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-03",
+   "title": "Resolución de 24 de septiembre de 2026, del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, O.A., M.P., por la que se publica el Convenio con la Universitat Autònoma de Barcelona, para la colaboración docente en programas de máster y de grado.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Comunidad Autónoma de Cataluña. Convenio",
+   "department": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20581",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/03/pdfs/BOE-A-2026-20581.pdf",
+   "identifier": "BOE-A-2026-20581",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-10-03T11:54:58Z"
+  }
+ ]
+}
