@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T13:52:31Z",
- "count": 48,
+ "generated_at": "2026-10-09T13:37:36Z",
+ "count": 49,
  "items": [
   {
    "id": "dog-797a69417578169d",
@@ -2296,6 +2296,37 @@
     }
    ],
    "first_seen": "2026-10-08T13:52:16Z"
+  },
+  {
+   "id": "bocyl-674d158427e91a86",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-08",
+   "title": "RESOLUCIÓN de 5 de octubre de 2026, de la Viceconsejería de Administraciones Públicas, Relaciones Institucionales y Atención al Ciudadano, por la que se modifica la composición del tribunal del proceso selectivo para el ingreso, por el sistema de acceso libre, en la categoría profesional de Peón de Montes y Extinción del Operativo de Prevención y Extinción de Incendios Forestales de la Administración de la Comunidad de Castilla y León, convocado por Resolución de 7 de mayo de 2025.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/08/html/BOCYL-D-08102026-196-8.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/08/pdf/BOCYL-D-08102026-196-8.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/08/pdf/BOCYL-D-08102026-196-8.pdf",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-10-09T13:37:18Z"
   },
   {
    "id": "boe-e1e98c0371cb70ad",
