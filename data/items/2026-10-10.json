@@ -1,0 +1,232 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-10-10T12:54:07Z",
+ "count": 5,
+ "items": [
+  {
+   "id": "boe-ad8c26e19723dffa",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-10",
+   "title": "Resolución de 22 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Ejecución de una batería de sondeos de investigación derivados de la solicitud prórroga del permiso de investigación de minas \"Melilla Geothermal Energy\" n.º 001».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21155",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/10/pdfs/BOE-A-2026-21155.pdf",
+   "identifier": "BOE-A-2026-21155",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-10T12:53:51Z"
+  },
+  {
+   "id": "boe-a25dc6e0da4fefb9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-10",
+   "title": "Resolución de 28 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Terminación de la autovía de acceso al puerto del Musel GJ-20. Duplicación de GJ-10 desde el enlace de Lloreda al semienlace de Veriña».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21156",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/10/pdfs/BOE-A-2026-21156.pdf",
+   "identifier": "BOE-A-2026-21156",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-10T12:53:51Z"
+  },
+  {
+   "id": "boe-62647f6f0a7798a1",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-10",
+   "title": "Corrección de errores del anuncio de la Delegación del Gobierno en Asturias de información pública la solicitud de autorización administrativa previa, autorización administrativa de construcción, declaración, en concreto, de utilidad pública, y estudio de impacto ambiental del proyecto de \"Nueva subestación Reboria 400 kV\". Expediente 86-G/2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33134",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/10/pdfs/BOE-B-2026-33134.pdf",
+   "identifier": "BOE-B-2026-33134",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-10T12:53:51Z"
+  },
+  {
+   "id": "boe-9e5afc46dc40704c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-10",
+   "title": "Corrección de errores del anuncio de la Delegación del Gobierno en Asturias de información pública la solicitud de autorización administrativa previa, autorización administrativa de construcción, declaración, en concreto, de utilidad pública, y estudio de impacto ambiental del proyecto de \"Nueva línea aérea de transporte de energía eléctrica a 400 kV, doble circuito, subestación Cardoso- subestación Reboria\". Expediente 85-G/2026.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33135",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/10/pdfs/BOE-B-2026-33135.pdf",
+   "identifier": "BOE-B-2026-33135",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-10T12:53:51Z"
+  },
+  {
+   "id": "boe-2119c66ec350fe90",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-10",
+   "title": "Resolución de 6 de octubre de 2026, del Consorcio para la Gestión de Residuos del Vallés Occidental (Barcelona), referente a la convocatoria para proveer una plaza.",
+   "summary": "",
+   "section": "II. Autoridades y personal. - B. Oposiciones y concursos",
+   "subsection": "Personal funcionario y laboral",
+   "department": "ADMINISTRACIÓN LOCAL",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21132",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/10/pdfs/BOE-A-2026-21132.pdf",
+   "identifier": "BOE-A-2026-21132",
+   "score": 2.5,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-10-10T12:53:51Z"
+  }
+ ]
+}
