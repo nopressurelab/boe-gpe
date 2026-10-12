@@ -1,0 +1,301 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T15:55:24Z",
+ "count": 6,
+ "items": [
+  {
+   "id": "boe-3ceb7860171859c4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 16 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parque eólico \"Muracais\", de 52,8 MW de potencia instalada, y su infraestructura de evacuación, en la provincia de Lugo».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21224",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21224.pdf",
+   "identifier": "BOE-A-2026-21224",
+   "score": 13.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  },
+  {
+   "id": "boe-ea43866330711e92",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 18 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parque eólico \"Alamoceiros\", parque eólico \"Chamarrapio\" y parque eólico \"Xubrintas\", y parte de su infraestructura de evacuación, en la provincia de Pontevedra».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21225",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21225.pdf",
+   "identifier": "BOE-A-2026-21225",
+   "score": 13.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  },
+  {
+   "id": "boe-6bee107062e40439",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 30 de septiembre de 2026, de la Confederación Hidrográfica del Guadalquivir, O.A., por la que se publica el Convenio con el Ayuntamiento de Jaén, para el proyecto, ejecución y financiación de las obras del «Proyecto de intervención en el ámbito de los cañones de Río Frío en Jaén».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21222",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21222.pdf",
+   "identifier": "BOE-A-2026-21222",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  },
+  {
+   "id": "boe-ef112e21598b44b6",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 2 de octubre de 2026, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica el Convenio con el Ayuntamiento de As Neves, para la financiación, ejecución y entrega de las obras de construcción de varias infraestructuras de depuración, en As Neves (Pontevedra).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21223",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21223.pdf",
+   "identifier": "BOE-A-2026-21223",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  },
+  {
+   "id": "boe-08a470c42e3b0a28",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 7 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Mulhacén Solar, SLU, autorización administrativa previa para el proyecto del módulo de almacenamiento energético Mulhacén, con una potencia instalada de 21,56 MW, y su infraestructura de evacuación para su hibridación con la instalación solar fotovoltaica Mulhacén Solar, de 70 MW de potencia instalada, en Esquivias (Toledo).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21226",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21226.pdf",
+   "identifier": "BOE-A-2026-21226",
+   "score": 4.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  },
+  {
+   "id": "boe-d00923d88dceca42",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-12",
+   "title": "Resolución de 9 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Azor Solar, SLU, autorización administrativa previa para el proyecto de almacenamiento con baterías Azor Solar, de 68,51 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la instalación solar fotovoltaica existente Azor Solar, de 64,02 MW de potencia instalada, en Paracuellos de Jarama (Madrid).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21227",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/12/pdfs/BOE-A-2026-21227.pdf",
+   "identifier": "BOE-A-2026-21227",
+   "score": 4.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-12T15:55:11Z"
+  }
+ ]
+}
