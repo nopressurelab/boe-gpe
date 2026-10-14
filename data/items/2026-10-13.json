@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T14:29:14Z",
- "count": 38,
+ "generated_at": "2026-10-14T12:14:56Z",
+ "count": 40,
  "items": [
   {
    "id": "boe-a9befc8d6b387904",
@@ -1568,6 +1568,81 @@
     }
    ],
    "first_seen": "2026-10-13T14:29:00Z"
+  },
+  {
+   "id": "bocyl-9eeb7ea6a0ea6b85",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-13",
+   "title": "INFORMACIÓN pública relativa al expediente para la permuta de terrenos del monte de utilidad pública n.º 676 «Cueto y Folledo», en el término municipal de Llombera (León).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/13/html/BOCYL-D-13102026-198-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-12.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-14T12:14:46Z"
+  },
+  {
+   "id": "bocyl-7837368ebcfd5aec",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-13",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo al trámite de audiencia previo a la propuesta de inicio del procedimiento administrativo para declarar la caducidad de la concesión de explotación de recursos de la sección D) «Santa Leocadia» n.º 9.573, titularidad de la extinta sociedad denominada «Minas Santa Leocadia, S.A.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/13/html/BOCYL-D-13102026-198-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/13/pdf/BOCYL-D-13102026-198-13.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-14T12:14:46Z"
   },
   {
    "id": "boe-6dde1afb6c6a5962",
