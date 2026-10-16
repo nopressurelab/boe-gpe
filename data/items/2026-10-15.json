@@ -1,7 +1,7 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T11:56:28Z",
- "count": 24,
+ "generated_at": "2026-10-16T11:47:27Z",
+ "count": 31,
  "items": [
   {
    "id": "dog-9be30cfd4b3475e4",
@@ -71,6 +71,65 @@
     }
    ],
    "first_seen": "2026-10-15T11:56:14Z"
+  },
+  {
+   "id": "bocyl-cc1009c69cdc7484",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "RESOLUCIÓN de 29 de septiembre de 2026, de la Dirección General de Política Ambiental, por la que se formula la declaración de impacto ambiental del proyecto de ampliación del vertedero del centro de tratamiento de residuos industriales no peligrosos de Fresno de la Ribera (Zamora), promovido por «Sertego Servicios Medioambientales, S.L.». Expte.: EIAO/2024/ZA/031.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-27.pdf",
+   "score": 12.5,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "vertedero",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 3.0
+    },
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
   },
   {
    "id": "boc-canarias-4d054958d83fede9",
@@ -623,6 +682,142 @@
    "first_seen": "2026-10-15T11:56:14Z"
   },
   {
+   "id": "bocyl-62f51ea846db73e4",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cordel de Merinas o de las Arcas Reales», en el término municipal de Valladolid. Expte.: VA-VP-26545-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-30.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
+  },
+  {
+   "id": "bocyl-823252042b2d7f0b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cañada Real Leonesa Occidental, ramal Rioseco-Tudela», en el término municipal de Villanubla (Valladolid). Expte.: VA-VP-26704-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-31.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
+  },
+  {
+   "id": "bocyl-81223dc67de54b69",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "ORDEN AGR/1042/2026, de 30 de septiembre, por la que se formula el informe de determinación de afección ambiental del proyecto de planta solar fotovoltaica «Orquídea Autoconsumo» de 13,025 MW de potencia instalada, y su infraestructura de evacuación, ubicada en el término municipal de Coscurita (Soria), promovido por «Green Capital Development 149, S.L.U.». Expte.: EIAA/2023/SO/003.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-23.pdf",
+   "score": 5.5,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
+  },
+  {
    "id": "boe-f9cb89f16d9f560e",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -778,6 +973,46 @@
     }
    ],
    "first_seen": "2026-10-15T11:56:14Z"
+  },
+  {
+   "id": "bocyl-516df53f2c7e525c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental del proyecto de extracción de materiales y plan de rehabilitación del préstamo con destino a la ejecución de las obras de construcción de la variante de Salas de los Infantes en la Ctra. CL-117, en el término municipal de Pinilla de los Moros (Burgos), promovido por la «UTE Herrero Temiño, S.A. - Asfaltia, S.L.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MOVILIDAD, TRANSFORMACIÓN DIGITAL E INTELIGENCIA ARTIFICIAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-33.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-33.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-33.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
   },
   {
    "id": "boe-2d9814c5fa81aa8e",
@@ -949,6 +1184,82 @@
     }
    ],
    "first_seen": "2026-10-15T11:56:14Z"
+  },
+  {
+   "id": "bocyl-3ef7c8c891eb7fd1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "INFORMACIÓN pública relativa a la solicitud de modificación de autorización administrativa previa y de autorización administrativa de construcción de la instalación de hibridación «Abrazadilla» e instalaciones eléctricas asociadas, en los términos municipales Los Ausines, Revilla del Campo, Ibeas de Juarros y Carcedo de Burgos (Burgos), promovida por «Enerfin Renovables, S.L.U.». Expte.: PH/BU/001/2023.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-32.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-32.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-32.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
+  },
+  {
+   "id": "bocyl-daa5cd83c8eebe48",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-15",
+   "title": "RESOLUCIÓN de 21 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se declara la necesidad de ocupación de los bienes necesarios para el desarrollo de los trabajos en la concesión de explotación de recursos de la sección C) de la Ley de Minas «Jimena II Fra 2» n.º 4.563-20, en el término municipal de Valle de las Navas (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/15/html/BOCYL-D-15102026-200-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/15/pdf/BOCYL-D-15102026-200-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-16T11:47:11Z"
   },
   {
    "id": "dog-4af8dfbf50c1fb4c",
