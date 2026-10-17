@@ -1,0 +1,152 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T11:03:51Z",
+ "count": 3,
+ "items": [
+  {
+   "id": "boe-4256e781a583f5ef",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-17",
+   "title": "Resolución de 21 de septiembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Modificaciones en la instalación solar fotovoltaica \"Baluma Solar\", de 58,14 MW de potencia instalada, y en su infraestructura de evacuación, en la provincia de Granada».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21662",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/17/pdfs/BOE-A-2026-21662.pdf",
+   "identifier": "BOE-A-2026-21662",
+   "score": 11.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-17T11:03:40Z"
+  },
+  {
+   "id": "boe-24477708477fc27d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-17",
+   "title": "Resolución de 9 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Cefiro Holdco 8, SL, de autorización administrativa previa del parque eólico Ampliación El Páramo, de 50,88 MW, en la provincia de León.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21663",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/17/pdfs/BOE-A-2026-21663.pdf",
+   "identifier": "BOE-A-2026-21663",
+   "score": 6.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-17T11:03:40Z"
+  },
+  {
+   "id": "boe-8c91c72fabe8acbc",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-17",
+   "title": "Resolución de 2 de octubre de 2026, de la Secretaría General de la Presidencia del Gobierno, por la que se publica el Convenio con Ecoembalajes España, SA, para la realización de actividades de fomento de recogida selectiva en origen de residuos generados en las instalaciones de la Secretaría de Estado de Comunicación.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "PRESIDENCIA DEL GOBIERNO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21645",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/17/pdfs/BOE-A-2026-21645.pdf",
+   "identifier": "BOE-A-2026-21645",
+   "score": 5.5,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "recogida selectiva",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-10-17T11:03:40Z"
+  }
+ ]
+}
