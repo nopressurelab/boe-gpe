@@ -1,7 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T11:57:44Z",
- "count": 65,
+ "generated_at": "2026-10-21T12:12:38Z",
+ "count": 71,
  "items": [
   {
    "id": "dog-005ab72b751c7b7a",
@@ -2355,6 +2355,112 @@
    "first_seen": "2026-10-20T11:57:34Z"
   },
   {
+   "id": "bocyl-4de4b850fd42a2e4",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Soria, por el que se somete a información pública el estudio de impacto ambiental, el proyecto de explotación y el plan de restauración para la prórroga de la concesión de explotación de recursos de la sección C), arcillas especiales, denominado «El Navajo n.º 1150-10», en los términos municipales de Almaluez y Arcos de Jalón (Soria), promovido por «S.A. de Minería y Tecnología de Arcillas (MYTA)». Expte.: 78/2022.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-13.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
+   "id": "bocyl-3015931890275a93",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Soria, por el que se somete a información pública el estudio de impacto ambiental, el proyecto de explotación y el plan de restauración para la prórroga de la concesión de explotación de recursos de la sección C), arcillas especiales, denominado «Los Austrias n.º 1149-10», en los términos municipales de Almaluez y Arcos de Jalón (Soria), promovido por «S.A. de Minería y Tecnología de Arcillas (MYTA)». Expte.: 88/2022.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-14.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
    "id": "boe-ed2895225a326b78",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -2488,6 +2594,96 @@
     }
    ],
    "first_seen": "2026-10-20T11:57:34Z"
+  },
+  {
+   "id": "bocyl-cc2491c3102fc12c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "RESOLUCIÓN de 16 de octubre de 2026, de la Secretaría General de la Consejería de Medio Ambiente y Energía, por la que se aprueban y publican las relaciones provisionales de integrantes y excluidos de la bolsa de empleo temporal del Cuerpo de Ingenieros Técnicos (Forestales) de la Administración de la Comunidad de Castilla y León, convocada por Orden PRE/494/2026, de 27 de mayo.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-4.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-4.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-4.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
+   "id": "bocyl-13c8b070d6e59fdb",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cordel de Salamanca a Valladolid», en el término municipal de Medina del Campo (Valladolid). Expte.: VA-VP-26510-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-12.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
   },
   {
    "id": "boe-89c4a004cf7ed607",
@@ -2764,6 +2960,49 @@
    "first_seen": "2026-10-20T11:57:34Z"
   },
   {
+   "id": "bocyl-7d9df04aaffb1750",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "RESOLUCIÓN de 6 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se declara, en concreto, la utilidad pública de la instalación de generación eléctrica de origen eólico denominada «Las Quemadillas» y de la subestación «Las Quemadillas 132/30 kV», a ubicar en los términos municipales de Ampudia y Santa Cecilia del Alcor (Palencia), promovido por «Eólica Las Quemadillas, S.L.». Expte.: NIE 4298.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-9.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-9.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-9.pdf",
+   "score": 4.7,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
    "id": "boe-87084d10ff37208a",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -2801,6 +3040,41 @@
     }
    ],
    "first_seen": "2026-10-20T11:57:34Z"
+  },
+  {
+   "id": "bocyl-9c6c628a84ecdd2b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-20",
+   "title": "RESOLUCIÓN de 7 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se declara, en concreto, la utilidad pública de la instalación eléctrica denominada «LAT 132 kV SET Las Quemadillas-SET Hontoria», a ubicar en los términos municipales de Ampudia, Santa Cecilia del Alcor, Dueñas, Tariego de Cerrato y Hontoria de Cerrato (Palencia), promovido por «Eólica Las Quemadillas, S.L.». Expte.: 34/ATLI/6604.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/20/html/BOCYL-D-20102026-203-10.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-10.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/20/pdf/BOCYL-D-20102026-203-10.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-21T12:12:26Z"
   },
   {
    "id": "boe-b738608061af7150",
