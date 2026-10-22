@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T12:12:38Z",
- "count": 42,
+ "generated_at": "2026-10-22T12:15:33Z",
+ "count": 45,
  "items": [
   {
    "id": "dog-aed6e42e57ef603c",
@@ -443,6 +443,66 @@
     }
    ],
    "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
+   "id": "bocyl-c4ba7eff65ab6d78",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-21",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico, licencia urbanística y licencia ambiental, para una instalación fotovoltaica para autoconsumo en las parcelas 506, 510, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 532, 533 y 534 del polígono 1, en el término municipal de Aranda de Duero (Burgos), solicitado por «Industrias Lácteas Pascual, S.L.U.». Expte.: 27075G/2024 - Licencia de autorización de uso y obras y 21931G/2026 - Licencia ambiental.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE ARANDA DE DUERO (BURGOS)",
+   "url": "http://bocyl.jcyl.es/html/2026/10/21/html/BOCYL-D-21102026-204-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-29.pdf",
+   "score": 10.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "licencia ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-22T12:15:18Z"
   },
   {
    "id": "doe-61906206520a4e51",
@@ -1961,6 +2021,82 @@
     }
    ],
    "first_seen": "2026-10-21T12:12:26Z"
+  },
+  {
+   "id": "bocyl-877f93016dbcd614",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-21",
+   "title": "CORRECCIÓN de errores del anuncio de información pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto denominado «Nuevo C.T. \"Huertas Aguilar\" en local y sus L.A.T. 12/20 kV \"Aguilar_P-Aguila_Sur\"», en el término municipal de Aguilar de Campoo (Palencia). Expte.: 34/ATCT/2213.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/21/html/BOCYL-D-21102026-204-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-22T12:15:18Z"
+  },
+  {
+   "id": "bocyl-7f1a8de5b6be9abc",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-21",
+   "title": "INFORMACIÓN pública relativa a la modificación de la solicitud de autorización administrativa previa y reconocimiento, en concreto, de utilidad pública de los tramos de la línea subterránea a 15 kV «STR Casavieja-04 Lanzahíta», en el término municipal de Pedro Bernardo (Ávila). Exptes.: ATLI-52076 y ATLI-52077.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/21/html/BOCYL-D-21102026-204-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/21/pdf/BOCYL-D-21102026-204-20.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-22T12:15:18Z"
   },
   {
    "id": "boe-656c3e3496caf1f7",
