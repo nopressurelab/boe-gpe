@@ -1,7 +1,7 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T12:15:33Z",
- "count": 33,
+ "generated_at": "2026-10-23T11:57:18Z",
+ "count": 37,
  "items": [
   {
    "id": "dog-4541c7427e3e30f9",
@@ -662,6 +662,59 @@
    "first_seen": "2026-10-22T12:15:18Z"
   },
   {
+   "id": "bocyl-17071a87b002c9fa",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-22",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental, del proyecto de explotación y plan de restauración de la concesión de explotación derivada para recursos de la sección C) (arenas silíceas) denominada «Zabala Fr. 2.ª» n.º 4.751-20, situada en el término municipal de Villadiego (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/22/html/BOCYL-D-22102026-205-34.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-34.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-34.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-23T11:57:01Z"
+  },
+  {
    "id": "boe-a2d301af4c69c2fb",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -842,6 +895,51 @@
     }
    ],
    "first_seen": "2026-10-22T12:15:18Z"
+  },
+  {
+   "id": "bocyl-1ee979bf51a56dbd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-22",
+   "title": "RESOLUCIÓN de 19 de octubre de 2026, de la Secretaría General de la Consejería de Medio Ambiente y Energía, por la que se aprueban y publican las relaciones provisionales de integrantes y excluidos de la bolsa de empleo temporal de la categoría profesional de Oficial de Montes-Conductor/a Maquinista de Autobomba de la Administración de la Comunidad de Castilla y León, convocada por Orden PRE/521/2026, de 29 de mayo.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "B. AUTORIDADES Y PERSONAL",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/22/html/BOCYL-D-22102026-205-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-12.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-23T11:57:01Z"
   },
   {
    "id": "boe-420b9d5e8d511015",
@@ -1338,6 +1436,74 @@
     }
    ],
    "first_seen": "2026-10-22T12:15:18Z"
+  },
+  {
+   "id": "bocyl-e7a50e7c6cc9ca32",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-22",
+   "title": "RESOLUCIÓN de 31 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción de dos nuevas líneas eléctricas subterráneas de A.T. 45 kV «Villimar-Demanda 1» y «Villimar-Demanda 2» desde S.T. «Villimar» hasta apoyo n.º 149 por sector urbanístico «V2», en el término municipal de Burgos. Expte.: ATLI/29526.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/22/html/BOCYL-D-22102026-205-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-23T11:57:01Z"
+  },
+  {
+   "id": "bocyl-b2e6982a0e3279c8",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-22",
+   "title": "ACUERDO de 23 de septiembre de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Valladolid, por el que se aprueba definitivamente la modificación puntual de las Normas Urbanísticas (cambios en varios artículos de la normativa) de La Pedraja de Portillo (Valladolid). Expte.: CTU 55/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/22/html/BOCYL-D-22102026-205-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/22/pdf/BOCYL-D-22102026-205-20.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-10-23T11:57:01Z"
   },
   {
    "id": "boe-b4bf74aa16eab74b",
