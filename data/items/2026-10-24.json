@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T11:26:07Z",
+ "count": 3,
+ "items": [
+  {
+   "id": "boe-beb0bb9dcf06aff4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-24",
+   "title": "Resolución de 14 de octubre de 2026, de la Confederación Hidrográfica del Guadiana, O.A., por la que se publica el Convenio con el Consorcio para la Gestión de Servicios Medioambientales Promedio, para la gestión de infraestructuras hidráulicas declaradas de interés general para el saneamiento y depuración de aguas en Medina de las Torres.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22284",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/24/pdfs/BOE-A-2026-22284.pdf",
+   "identifier": "BOE-A-2026-22284",
+   "score": 12.9,
+   "topics": [
+    "agua",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "depuracion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "saneamiento y depuracion",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-24T11:25:53Z"
+  },
+  {
+   "id": "boe-f6d21858d0658595",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-24",
+   "title": "Resolución de 14 de octubre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Obras de rehabilitación del cauce del río Güeña, en Mestas de Con, Cangas de Onís».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22285",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/24/pdfs/BOE-A-2026-22285.pdf",
+   "identifier": "BOE-A-2026-22285",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-24T11:25:53Z"
+  },
+  {
+   "id": "boe-38c8104319e6afac",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-24",
+   "title": "Resolución de 13 de octubre de 2026, de la Confederación Hidrográfica del Guadiana, O.A., por la que se publica el Convenio de encomienda de gestión con Infraestructuras del Agua de Castilla-La Mancha, para la gestión de infraestructuras hidráulicas denominada «Obras de emergencia para la mejora de los abastecimientos dependientes del embalse de La Cabezuela (Ciudad Real). Lote 1: Ejecución de las obras».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Comunidad Autónoma de Castilla-La Mancha. Convenio",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22283",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/24/pdfs/BOE-A-2026-22283.pdf",
+   "identifier": "BOE-A-2026-22283",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-24T11:25:53Z"
+  }
+ ]
+}
