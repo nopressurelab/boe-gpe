@@ -1,7 +1,7 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-25T11:55:14Z",
- "count": 40,
+ "generated_at": "2026-10-26T13:26:59Z",
+ "count": 46,
  "items": [
   {
    "id": "boe-2d1b14abf80c32c6",
@@ -364,6 +364,59 @@
     }
    ],
    "first_seen": "2026-10-23T11:57:01Z"
+  },
+  {
+   "id": "bocyl-e5401c4fbbcce6a9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "INFORMACIÓN pública relativa al proyecto de explotación, plan de restauración y estudio de impacto ambiental, de la autorización de explotación de recursos de la sección A), áridos, denominada «Rueda» n.º 528, en el término municipal de Rueda (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-20.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
   },
   {
    "id": "boe-3435e54bb79c65f4",
@@ -1500,6 +1553,96 @@
    "first_seen": "2026-10-23T11:57:01Z"
   },
   {
+   "id": "bocyl-5b8a34b4ef600c5b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "CORRECCIÓN de errores de la Orden MAV/788/2025, de 14 de julio, por la que se modifica la Orden de 30 de abril de 2008, de la Consejería de Medio Ambiente, por la que se concede autorización ambiental para la planta de fundición de aluminio ubicada en el término municipal de Fuentes de Valdepero (Palencia), titularidad de «Intelesoft, S.A.», como consecuencia de la revisión de la autorización ambiental para su adaptación a la nueva normativa de residuos y a las conclusiones de los documentos sobre mejoras técnicas disponibles (MTD) para la industria de metales no ferrosos. Expte.: 004-24-ROPA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-15.pdf",
+   "score": 6.5,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
+  },
+  {
+   "id": "bocyl-ca4a542ec17d0e72",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "ANUNCIO del Servicio Territorial de Medio Ambiente de Valladolid, relativo a subasta de piñas en la provincia de Valladolid.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-17.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
+  },
+  {
    "id": "doe-ac80d75d13e96ec4",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1817,6 +1960,120 @@
     }
    ],
    "first_seen": "2026-10-23T11:57:01Z"
+  },
+  {
+   "id": "bocyl-13086e9c523022ef",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización de construcción para sustitución de transformador para aumento de potencia y paso a sistema B2 de la red de baja tensión existente en el C.T. «Qlla Pedro Abarca» n.º 100592750, en la localidad de Quintanilla-Pedro Abarca, en el término municipal de Huérmeces (Burgos). Expte.: ATCT/4080.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
+  },
+  {
+   "id": "bocyl-8b3f0c8b51d2fd4e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa, aprobación de proyecto de ejecución y declaración, en concreto, de utilidad pública de la instalación eléctrica del proyecto de reforma LEAT 13,2/20 kV «Brime» entre STR «Sitrama» y apoyo n.º 43, en los términos municipales de Santibáñez de Tera y Brime de Urz (Zamora). Expte.: ATLI-92/17/12678.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-22.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
+  },
+  {
+   "id": "bocyl-b7878055da91f693",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-23",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Villalar de los Comuneros (Valladolid). Expte.: AT-51821 (ATCT-2991).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/23/html/BOCYL-D-23102026-206-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/23/pdf/BOCYL-D-23102026-206-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-26T13:26:46Z"
   }
  ]
 }
