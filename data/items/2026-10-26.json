@@ -1,7 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T13:26:59Z",
- "count": 34,
+ "generated_at": "2026-10-27T12:35:01Z",
+ "count": 47,
  "items": [
   {
    "id": "boc-canarias-11cce9447140c5b5",
@@ -1372,6 +1372,155 @@
    "first_seen": "2026-10-26T13:26:46Z"
   },
   {
+   "id": "bocyl-e35128228177bb62",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "CORRECCIÓN de errores de la Resolución de 7 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Soria, de autorización administrativa previa de la modificación del existente parque eólico «Aldehuelas» por repotenciación e hibridación con almacenamiento, a ubicar en los términos municipales de Vizmanos, Villar del Río, Santa Cruz de Yanguas, Las Aldehuelas, Arévalo de la Sierra, Oncala, Almarza y la Poveda de Soria (Soria), titularidad de «Explotaciones Eólicas de Aldehuelas, S.L.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-22.pdf",
+   "score": 7.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-58aea834fd899ae9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "RESOLUCIÓN de 16 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa de la instalación de producción de energía eléctrica por tecnología fotovoltaica de autoconsumo colectivo con excedentes denominada «Arroyal Solar» y su infraestructura de evacuación con conexión a la red de distribución, instalada en suelo sobre estructura fija, en el término municipal de Burgos. Expte.: FVA/4716.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-21.pdf",
+   "score": 7.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-e61af02390e8e510",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ORDEN AGR/1096/2026, de 20 de octubre, por la que se modifica la Orden de 30 de septiembre de 2011, de la Consejería de Fomento y Medio Ambiente, relativa a la solicitud de autorización ambiental de «Ilunion Reciclados, S.A.U.» (antes «Fundosa Reciclalia, S.A.») para una planta de tratamiento de residuos de aparatos eléctricos y electrónicos, en el término municipal de La Bañeza (León), como consecuencia de las modificaciones no sustanciales MNS 7 y 8. Exptes.: 048-25-MNSLE y 019-26-MNSLE.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-25.pdf",
+   "score": 6.5,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
    "id": "boe-c8334137fe2553e0",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1568,6 +1717,281 @@
    "first_seen": "2026-10-26T13:26:46Z"
   },
   {
+   "id": "bocyl-a2858c33732dcb1c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de su reconocimiento de utilidad pública, en concreto, de una instalación de producción de energía eléctrica, por tecnología fotovoltaica, denominada «FV Orchis Solar», en los términos municipales de Valladolid y Zaratán (Valladolid). Expte.: FV-2622 ATCE-137.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-34.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-34.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-34.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-97bffc52b2f2e640",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa de la modificación para la hibridación de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica, denominada «FV Velilla», por instalación de baterías de almacenamiento, con denominación «BESS Velilla», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2596-ALM; ATCE-271.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-29.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-c5eb3cb42a7f8099",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa de la modificación para la hibridación de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica, denominada «FV Abadesa», por instalación de baterías de almacenamiento, con denominación «BESS Abadesa», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2597-ALM; ATCE-274.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-30.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-84ba5508d878b5ca",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa de la modificación para la hibridación de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica, denominada «FV Alzola», por instalación de baterías de almacenamiento, con denominación «BESS Alzola», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2598; ATCE-275.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-31.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-8f595caad5a191af",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa de la modificación para la hibridación de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica, denominada «FV Salguero», por instalación de baterías de almacenamiento, con denominación «BESS Salguero», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2600-ALM; ATCE-273.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-33.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-33.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-33.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-20336ce66842c076",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa de la modificación para la hibridación de la instalación de producción de energía eléctrica, mediante tecnología fotovoltaica, denominada «FV Montico», por instalación de baterías de almacenamiento, con denominación «BESS Montico», en el término municipal de Tordesillas (Valladolid). Expte.: FV-2599-ALM; ATCE-272.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-32.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-32.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-32.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
    "id": "boc-canarias-c802b3c5626900d7",
    "source": "boc-canarias",
    "source_name": "Boletín Oficial de Canarias",
@@ -1611,6 +2035,151 @@
     }
    ],
    "first_seen": "2026-10-26T13:26:46Z"
+  },
+  {
+   "id": "bocyl-e6ac17e45f44c0fd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa del centro de seccionamiento y línea eléctrica asociada para la interconexión de la planta hibridada «Luz del Tietar-Sot», en el término municipal de Sotillo de la Adrada (Ávila). Exptes.: ATLI-52.242 y ATCT-4623.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-28.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-94afc2aba008f9e1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la aprobación del proyecto para la ejecución de sondeo para la captación de aguas subterráneas en la parcela 7 del polígono industrial Los Pinares, en el término municipal de Coreses (Zamora). Expte.: 28/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-36.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-36.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-36.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-8dd45592eacfb061",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "RESOLUCIÓN de 17 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Valladolid. Expte.: AT-51764 ATSB-185.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-23.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-b8b899855ea10681",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la aprobación del proyecto para la ejecución de sondeo para la captación de aguas subterráneas en la parcela 200 del polígono 1, en el término municipal de Cerecinos de Campos (Zamora). Expte.: 376/23.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/26/html/BOCYL-D-26102026-207-35.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-35.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/26/pdf/BOCYL-D-26102026-207-35.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-27T12:34:45Z"
   },
   {
    "id": "dog-5046462c155efe7c",
