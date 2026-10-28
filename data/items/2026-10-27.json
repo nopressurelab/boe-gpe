@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T12:35:01Z",
- "count": 73,
+ "generated_at": "2026-10-28T13:22:23Z",
+ "count": 80,
  "items": [
   {
    "id": "doe-ebcf5f514f84085b",
@@ -2268,6 +2268,59 @@
    "first_seen": "2026-10-27T12:34:45Z"
   },
   {
+   "id": "bocyl-0a656a6f6a60e9d9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental, proyecto de explotación y plan de restauración de la autorización de explotación para recursos de la sección A), arenas y gravas, denominada «Majada», n.º 788, en el término municipal de Pozuelo del Páramo (León), promovido por «Calderón Áridos y Hormigones, S.L.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-22.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
    "id": "boe-549f774b121192ed",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -2589,6 +2642,51 @@
     }
    ],
    "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-06c45d69de4ecbd7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "ORDEN MAE/1100/2026, de 23 de octubre, por la que se determina el riesgo potencial, el número y cuantía retributiva de las guardias, el régimen de exenciones y el procedimiento de selección para el personal que ha de participar en el operativo de prevención y extinción de incendios forestales de Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "A. DISPOSICIONES GENERALES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-1.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-1.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-1.pdf",
+   "score": 6.2,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
   },
   {
    "id": "boe-cafe214ee2ae5d4d",
@@ -3056,6 +3154,51 @@
    "first_seen": "2026-10-27T12:34:45Z"
   },
   {
+   "id": "bocyl-c5dccd860f152692",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "RESOLUCIÓN de 1 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Soria, de autorización administrativa previa y autorización administrativa de construcción del proyecto de hibridación de una instalación de almacenamiento con baterías de 7.599 MW con la planta solar fotovoltaica «Marte Solar» (en construcción), en el término municipal de Frechilla de Almazán (Soria), promovido por «Solaria Promoción y Desarrollo Fotovoltaico, S.L.U.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-16.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
    "id": "boc-canarias-89e30c15d7250cb1",
    "source": "boc-canarias",
    "source_name": "Boletín Oficial de Canarias",
@@ -3238,6 +3381,155 @@
     }
    ],
    "first_seen": "2026-10-27T12:34:45Z"
+  },
+  {
+   "id": "bocyl-efdfa19707493a55",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción de la instalación eléctrica denominada «Hibridación con baterías parque fotovoltaico Tucana Solar», a ubicar en el término municipal de Guardo (Palencia). Expte.: FV1101 H.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-23.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
+   "id": "bocyl-27da655bc8ae3073",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativo a la aprobación del proyecto y autorización de ejecución de un sondeo, para captación de aguas subterráneas, en el término municipal de Fuensaldaña (Valladolid). Expte.: VA-AS 4721/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-24.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
+   "id": "bocyl-aee10a97ae55c65e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "RESOLUCIÓN de 17 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de León, por la que se otorga la autorización administrativa previa y de construcción a «i-DE Redes Eléctricas Inteligentes, S.A.U.», para las instalaciones denominadas «Proyecto de sustitución del C.T. \"Urb Las Pradillas\" (110009130) por nuevo C.T. intemperie compacto \"URB Las Pradillas\" (920609130) y enlace con R.B.T. existente, en el término municipal de Garrafe de Torío (León)». Expte.: 322/26/6337.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
+   "id": "bocyl-3f96f1ff2b91cef9",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-27",
+   "title": "RESOLUCIÓN de 24 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Valladolid. Expte.: AT-51788.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/27/html/BOCYL-D-27102026-208-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/27/pdf/BOCYL-D-27102026-208-17.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-28T13:22:08Z"
   },
   {
    "id": "boe-65a8d58717990efa",
