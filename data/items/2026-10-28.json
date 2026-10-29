@@ -1,7 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T13:22:23Z",
- "count": 37,
+ "generated_at": "2026-10-29T13:32:07Z",
+ "count": 42,
  "items": [
   {
    "id": "dog-8f0da973b3c15134",
@@ -1389,6 +1389,47 @@
    "first_seen": "2026-10-28T13:22:08Z"
   },
   {
+   "id": "bocyl-5f58003b4e308860",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-28",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental de una explotación avícola, en el término municipal de Pajares de Adaja (Ávila), titularidad de «Avícola Velasco, S.L.». Expte.: 015-26-AAAV.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/10/28/html/BOCYL-D-28102026-209-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-16.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
    "id": "boc-canarias-a3ecbad1f18a9072",
    "source": "boc-canarias",
    "source_name": "Boletín Oficial de Canarias",
@@ -1424,6 +1465,158 @@
     }
    ],
    "first_seen": "2026-10-28T13:22:08Z"
+  },
+  {
+   "id": "bocyl-8711e627012d04e7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-28",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Valladolid. Expte.: AT-51816.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/28/html/BOCYL-D-28102026-209-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-13.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
+   "id": "bocyl-f891fe27db029239",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-28",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Santovenia de Pisuerga (Valladolid). Expte.: AT-51817.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/28/html/BOCYL-D-28102026-209-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-14.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
+   "id": "bocyl-6fdee57694b16a68",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-28",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Medina de Rioseco (Valladolid). Expte.: AT-51819.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/28/html/BOCYL-D-28102026-209-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
+   "id": "bocyl-2b7bf18dde5a68f0",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-28",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Mota del Marqués (Valladolid). Expte.: AT-51815 ATCT-2989.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/28/html/BOCYL-D-28102026-209-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/28/pdf/BOCYL-D-28102026-209-12.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-29T13:31:50Z"
   },
   {
    "id": "dog-c5e6db703a4e72d1",
