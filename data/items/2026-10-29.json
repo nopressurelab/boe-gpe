@@ -1,7 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T13:32:07Z",
- "count": 37,
+ "generated_at": "2026-10-30T13:22:31Z",
+ "count": 45,
  "items": [
   {
    "id": "doe-cdaaea3eda983786",
@@ -1092,6 +1092,94 @@
    "first_seen": "2026-10-29T13:31:50Z"
   },
   {
+   "id": "bocyl-510191d4f5a0a830",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "CORRECCIÓN de errores del anuncio del Servicio Territorial de Medio Ambiente de Valladolid, relativo a subasta de piñas en la provincia de Valladolid.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-25.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
+   "id": "bocyl-8272b62501d89b58",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cordel de Madrid a La Coruña», en el término municipal de Medina del Campo (Valladolid). Expte.: VA-VP-26308-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-26.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
    "id": "boe-ea250f0297ddc2cd",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1446,6 +1534,51 @@
    "first_seen": "2026-10-29T13:31:50Z"
   },
   {
+   "id": "bocyl-ff8276b4dc2832cc",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "RESOLUCIÓN de 11 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativa a la autorización administrativa previa de una instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «FV Chenla Solar», en el término municipal de Ciguñuela (Valladolid). Expte.: FV-2726; ATCE-220.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-20.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
    "id": "boe-d617bc34ecd6bdc1",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1522,6 +1655,46 @@
     }
    ],
    "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
+   "id": "bocyl-217a08c38982c76f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico, promovida por «Norsol Eléctrica, S.L.», para una instalación fotovoltaica de producción de energía eléctrica y sus infraestructuras auxiliares vinculadas, en el término municipal de Burgos. Expte.: 3/2025 EXC-URB.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE BURGOS",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-37.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-37.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-37.pdf",
+   "score": 4.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
   },
   {
    "id": "boe-df37d69b845fde29",
@@ -1653,6 +1826,152 @@
     }
    ],
    "first_seen": "2026-10-29T13:31:50Z"
+  },
+  {
+   "id": "bocyl-b0799a806b70693b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "RESOLUCIÓN de 24 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Íscar (Valladolid). Expte.: AT-51782.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-22.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
+   "id": "bocyl-9bf165f0862f2a9c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "RESOLUCIÓN de 23 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción de proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Alaejos (Valladolid). Expte.: AT-51753.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-23.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
+   "id": "bocyl-0e5a904986a0956c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "RESOLUCIÓN de 24 de septiembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Medina del Campo (Valladolid). Expte.: AT-51781.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
+  },
+  {
+   "id": "bocyl-6c8afcf845a239c4",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-10-29",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la aprobación del proyecto para la ejecución de sondeo para la captación de aguas subterráneas en la parcela 202 del polígono 14, en el término municipal de Palacios de Sanabria (Zamora). Expte.: 234/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/10/29/html/BOCYL-D-29102026-210-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/10/29/pdf/BOCYL-D-29102026-210-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-10-30T13:22:21Z"
   },
   {
    "id": "dog-58ad1aff27364211",
