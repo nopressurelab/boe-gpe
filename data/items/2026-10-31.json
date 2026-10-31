@@ -1,0 +1,52 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T12:57:09Z",
+ "count": 1,
+ "items": [
+  {
+   "id": "boe-1dab1d0b1c2cdd64",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-10-31",
+   "title": "Resolución de 20 de mayo de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento de Enel Green Power España, SL, de su solicitud de autorización administrativa previa de la instalación fotovoltaica «FV El Clavel», de 110,741 MW de potencia instalada, y de su infraestructura de evacuación, en Montealegre del Castillo, Almansa y Bonete (Albacete).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22876",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/10/31/pdfs/BOE-A-2026-22876.pdf",
+   "identifier": "BOE-A-2026-22876",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-10-31T12:56:56Z"
+  }
+ ]
+}
