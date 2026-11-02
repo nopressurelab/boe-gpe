@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T16:27:26Z",
+ "count": 6,
+ "items": [
+  {
+   "id": "boe-2cf7b491b1c08835",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-02",
+   "title": "Resolución de 19 de octubre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Hibridación de la planta solar fotovoltaica PFV Herrera de los Navarros, de 21 MW de potencia instalada, con el parque eólico Herrera de los Navarros existente de 35 MW y su infraestructura de evacuación, en la provincia de Zaragoza».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22986",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/02/pdfs/BOE-A-2026-22986.pdf",
+   "identifier": "BOE-A-2026-22986",
+   "score": 15.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  },
+  {
+   "id": "dog-f592b3b7920128e1",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-02",
+   "title": "RESOLUCIÓN de 7 de octubre de 2026, de la Dirección General de Patrimonio Natural, por la que se hace pública la inclusión de un árbol en el Catálogo gallego de árboles singulares.",
+   "summary": "III. Otras disposiciones Consellería de Medio Ambiente y Cambio Climático",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioG0760-071026-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioG0760-071026-0002_es.html",
+   "score": 10.6,
+   "topics": [
+    "biodiversidad",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  },
+  {
+   "id": "boe-e108a9f0a0eecb7e",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-02",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del «Proyecto Módulo de Generación Eólica \"Las Quinientas\", para su hibridación con el parque fotovoltaico existente \"Las Quinientas\", y para su infraestructura de evacuación, en la provincia de Cádiz».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22987",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/02/pdfs/BOE-A-2026-22987.pdf",
+   "identifier": "BOE-A-2026-22987",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  },
+  {
+   "id": "boe-632c376a6141c229",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-02",
+   "title": "Resolución de 22 de octubre de 2026, del Centro de Investigaciones Energéticas Medioambientales y Tecnológicas, O.A., M.P., por la que se publica el Convenio con la Comunidad de Castilla y León, relativo al establecimiento de un marco general de colaboración para la realización de la fase de formación en empresa u organismo equiparado por el alumnado de formación profesional de los grados.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Comunidad de Castilla y León. Convenio",
+   "department": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23000",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/02/pdfs/BOE-A-2026-23000.pdf",
+   "identifier": "BOE-A-2026-23000",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  },
+  {
+   "id": "dog-dad0b15304326191",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-02",
+   "title": "ANUNCIO de 18 de septiembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de novación de la concesión de aguas con clave DH.A36.03067, otorgada el 26 de enero de 2004, en el ayuntamiento de Redondela (expediente DH.A36.98994).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioO143-220926-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioO143-220926-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  },
+  {
+   "id": "dog-0a9eaf57496fd54f",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-02",
+   "title": "ANUNCIO de 21 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Pontevedra (expediente DH.W36.118733).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioO143-221026-0004_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261102/AnuncioO143-221026-0004_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-02T16:27:12Z"
+  }
+ ]
+}
