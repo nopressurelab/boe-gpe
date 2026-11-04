@@ -1,7 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T14:33:31Z",
- "count": 43,
+ "generated_at": "2026-11-04T14:47:56Z",
+ "count": 50,
  "items": [
   {
    "id": "dog-b80f0e9850c19ecd",
@@ -1326,6 +1326,59 @@
    "first_seen": "2026-11-03T14:33:14Z"
   },
   {
+   "id": "bocyl-fe4862903be75335",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental, proyecto de explotación y plan de restauración de la autorización de explotación para recursos de la sección A) denominada «Población I» n.º 790, en el término municipal de Santovenia de la Valdoncina (León), promovido por «North Recycling Works, S.L.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-25.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
    "id": "boe-648d2cabe8f7266e",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1976,6 +2029,86 @@
    "first_seen": "2026-11-03T14:33:14Z"
   },
   {
+   "id": "bocyl-63e4a2af0906c775",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "RESOLUCIÓN de 28 de octubre de 2026, de la Dirección General de Política Ambiental, por la que se somete al trámite de información pública el borrador de los planes zonales de mejora de la calidad del aire por ozono troposférico en Castilla y León.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-28.pdf",
+   "score": 4.5,
+   "topics": [
+    "contaminacion",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "calidad del aire",
+     "field": "title",
+     "topic": "contaminacion",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
+   "id": "bocyl-44177ade20bdbe62",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "ORDEN AGR/1139/2026, de 26 de octubre, por la que se formula la declaración ambiental estratégica de las Normas Urbanísticas Territoriales de la provincia de Palencia. Expte.: EAEO/2022/025.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-14.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "declaracion ambiental estrategica",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
    "id": "doe-5772fd634ccf62df",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -2014,6 +2147,147 @@
     }
    ],
    "first_seen": "2026-11-03T14:33:14Z"
+  },
+  {
+   "id": "bocyl-8377bfe8f8d12297",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos del monte de utilidad pública n.º 141 «Los Eriales de Torrescárcela», en el término municipal de Torrescárcela (Valladolid). Expte.: VA-M-26784-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-24.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
+   "id": "bocyl-0578951539e3318f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la aprobación del proyecto para la ejecución de un sondeo para la captación de aguas subterráneas en la parcela 574 del polígono 3, en el término municipal de Villalpando (Zamora). Expte.: 405/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
+   "id": "bocyl-40f0ae83700cff3a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Salamanca, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción del soterramiento del tramo de la línea a 13,2 kV «L481204 Circunvalación Norte» entre el C.T.-130115600 «San José Obrero» y el apoyo n.º 23, en el término municipal de Guijuelo (Salamanca). Expte.: ATLI-20.016.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-26.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
+  },
+  {
+   "id": "bocyl-6a88b830a3082a34",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-03",
+   "title": "ACUERDO de 1 de septiembre de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Burgos, sobre modificación de las Normas Subsidiarias de Planeamiento de Valle de las Navas (Burgos), para cambio de clasificación de parte de una parcela de suelo no urbanizable normal a suelo urbano consolidado en la ordenanza «Casco Urbano», en el núcleo de Melgosa. Expte.: 70/24W.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/03/html/BOCYL-D-03112026-212-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/03/pdf/BOCYL-D-03112026-212-12.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-04T14:47:41Z"
   },
   {
    "id": "boe-2a9742b78c8263a8",
