@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T14:52:09Z",
- "count": 49,
+ "generated_at": "2026-11-06T14:30:11Z",
+ "count": 57,
  "items": [
   {
    "id": "dog-99724acb70d965c0",
@@ -420,6 +420,60 @@
     }
    ],
    "first_seen": "2026-11-05T14:51:57Z"
+  },
+  {
+   "id": "bocyl-bdeaa9d93581d897",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico con protección natural, licencia urbanística y licencia ambiental, para la legalización de una instalación solar fotovoltaica de 78,48 kWP destinada a autoconsumo sin venta de excedentes para regadío en las parcelas 10037 y 20037 del polígono 1, paraje «El Valle», en el término municipal de Salvador de Zapardiel (Valladolid). Expte.: 2/2017.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE SALVADOR DE ZAPARDIEL (VALLADOLID)",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-31.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-31.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-31.pdf",
+   "score": 8.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "licencia ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
   },
   {
    "id": "doe-ef57281837da2db2",
@@ -1070,6 +1124,97 @@
    "first_seen": "2026-11-05T14:51:57Z"
   },
   {
+   "id": "bocyl-93b779d658ac2d3e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de Salamanca, por la que se formula el informe de impacto ambiental del proyecto de una planta de transferencia/almacenamiento de residuos de construcción y demolición (RCD) y residuos no peligrosos, en el término municipal de Villamayor (Salamanca), promovido por «Gea Solutions, S. Coop.». Expte.: EIAS/2026/SA/008.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-16.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
+   "id": "bocyl-2720053849171801",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "INFORMACIÓN pública relativa a la modificación puntual de las Normas Urbanísticas Municipales de Cuéllar (Segovia), relativa a la regulación de la implantación de instalaciones de producción de biogás o biometano mediante digestión anaerobia de residuos y/o subproductos orgánicos. Expte.: 5411/2026.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE CUÉLLAR (SEGOVIA)",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-29.pdf",
+   "score": 6.5,
+   "topics": [
+    "residuos",
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "subproductos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 1.5
+    },
+    {
+     "term": "biogas",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
    "id": "boe-279359374421ed1c",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1609,6 +1754,51 @@
    "first_seen": "2026-11-05T14:51:57Z"
   },
   {
+   "id": "bocyl-e4612cc4eae482a6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de reconocimiento de utilidad pública, en concreto, de una instalación de producción de energía eléctrica, por tecnología fotovoltaica denominada «PF Zaratán», en los términos municipales de Villanubla, Zaratán y Valladolid (Valladolid). Expte.: FV-2690 ATCE-182.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-21.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
    "id": "doe-f51b5e2ef96b9126",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1765,6 +1955,46 @@
    "first_seen": "2026-11-05T14:51:57Z"
   },
   {
+   "id": "bocyl-8d806bffa2a0aaf1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico, para la adecuación de una finca como espacio de educación ambiental en la parcela 115 del polígono 4, paraje Camino de la Lobera, con referencias catastrales 40227A004001150001JS y 40227A004001150000HA, en el término municipal de Sepúlveda (Segovia). Expte.: 101/2026.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE SEPÚLVEDA (SEGOVIA)",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-30.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-30.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-30.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "educacion ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
    "id": "doe-9d496137c01aa6e2",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1812,6 +2042,81 @@
     }
    ],
    "first_seen": "2026-11-05T14:51:57Z"
+  },
+  {
+   "id": "bocyl-fb29969769a16f20",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Valladolid. Expte.: AT-51826.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-20.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
+   "id": "bocyl-a96063c0d5d9312c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "RESOLUCIÓN de 8 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, dictada por delegación, por la que se concede la autorización administrativa previa y autorización administrativa de construcción del proyecto de ejecución de una instalación de distribución eléctrica, en el término municipal de Valladolid. Expte.: AT-51772; ATCT-2945.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
   },
   {
    "id": "dog-d98f818d6a93ca0e",
@@ -2043,6 +2348,37 @@
     }
    ],
    "first_seen": "2026-11-05T14:51:57Z"
+  },
+  {
+   "id": "bocyl-7c9095addd39d430",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-05",
+   "title": "ACUERDO de 29 de mayo de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Zamora, relativo a la aprobación definitiva de la modificación del Plan de Delimitación de suelo urbano de Castrillo de la Guareña (Zamora), para reclasificar como SUC la parcela 5019 del polígono 1 y modificación del artículo 6.3.13 de las ordenanzas. Expte.: 2026/028-URB-PU-DSU-MP.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/05/html/BOCYL-D-05112026-214-13.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-13.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/05/pdf/BOCYL-D-05112026-214-13.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-06T14:29:54Z"
   },
   {
    "id": "boe-5422eb461ecd88e9",
