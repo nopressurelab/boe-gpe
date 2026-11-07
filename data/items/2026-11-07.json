@@ -1,0 +1,133 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T13:26:18Z",
+ "count": 3,
+ "items": [
+  {
+   "id": "boe-11acabb2e1b1112b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-07",
+   "title": "Resolución de 23 de octubre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Infraestructura de almacenamiento con baterías \"Hibridación la Estación\", para su hibridación con el parque fotovoltaico existente La Estación, y su infraestructura de evacuación, en la provincia de Teruel».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23368",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/07/pdfs/BOE-A-2026-23368.pdf",
+   "identifier": "BOE-A-2026-23368",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-07T13:26:03Z"
+  },
+  {
+   "id": "boe-3f57a1d14534c242",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-07",
+   "title": "Orden TED/1181/2026, de 6 de noviembre, por la que se establecen los servicios mínimos de manera que quede garantizado el mantenimiento, la operatividad y la gestión de los medios estatales de apoyo a las comunidades autónomas para la extinción de incendios forestales ante la convocatoria de huelga general prevista para el 11 de noviembre de 2026.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Servicios mínimos",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23372",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/07/pdfs/BOE-A-2026-23372.pdf",
+   "identifier": "BOE-A-2026-23372",
+   "score": 5.4,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-07T13:26:03Z"
+  },
+  {
+   "id": "boe-372c0b18d4464d66",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-07",
+   "title": "Resolución de 28 de octubre de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 19 de mayo de 2026, en el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas.",
+   "summary": "",
+   "section": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+   "subsection": "Destinos",
+   "department": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23344",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/07/pdfs/BOE-A-2026-23344.pdf",
+   "identifier": "BOE-A-2026-23344",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medioambientales",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-07T13:26:03Z"
+  }
+ ]
+}
