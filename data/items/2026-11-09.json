@@ -1,0 +1,1304 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T16:45:32Z",
+ "count": 26,
+ "items": [
+  {
+   "id": "dog-be5094f3d503dbf3",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ANUNCIO de 26 de octubre de 2026, de la Dirección General de Energías Renovables y Cambio Climático, por el que se da publicidad a la resolución de concesión de ocupación de mil trescientos nueve (1.309) metros cuadrados de dominio público marítimo-terrestre con destino a la construcción de una pasarela para la conexión entre ambos márgenes del río Baxoi, en el término municipal de Miño (A Coruña).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-261026-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-261026-0001_es.html",
+   "score": 17.1,
+   "topics": [
+    "costas-mar",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico maritimo-terrestre",
+     "field": "title",
+     "topic": "costas-mar",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "energias renovables",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-edc321177a6a2f76",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ANUNCIO de 27 de octubre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto de campamento de turismo en la parroquia de Panxón, en el ayuntamiento de Nigrán (expediente 2026/0097).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-281026-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-281026-0001_es.html",
+   "score": 14.6,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-4af98c4d97d560f6",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Resolución de 27 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se otorga autorización ambiental unificada para el proyecto de centro de gestión de residuos de Miguel del Sol del Sol, en el término municipal de Navalmoral de la Mata.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Autorización ambiental.- Resolución de 27 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se otorga autorización ambiental unificada para el proyecto de centro de gestión de residuos de Miguel del Sol del Sol, en el término municipal de Navalmoral de la Mata.",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Autorización ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26062793.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 12.45,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "summary",
+     "topic": "residuos",
+     "weight": 1.5
+    },
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion ambiental unificada",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-62aebcf7fce6d085",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Anuncio de 28 de octubre de 2026 por el que se somete a información pública la solicitud de modificación sustancial de la autorización ambiental integrada de la planta de biomasa, cuya titular es Ence Energía Extremadura, SL, en el término municipal de Mérida.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Información pública.- Anuncio de 28 de octubre de 2026 por el que se somete a información pública la solicitud de modificación sustancial de la autorización ambiental integrada de la planta de biomasa, cuya titular es Ence Energía Extremadura, SL, en el término municipal de Mérida.",
+   "section": "IV.ANUNCIOS",
+   "subsection": "Información pública",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26081883.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 11.2,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "autorizacion ambiental integrada",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion ambiental integrada",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "biomasa",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "biomasa",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-769d4616fc3c74c6",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 23 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Eólica Sierra de Ávila, SL, autorización administrativa previa para la instalación fotovoltaica Cabeza Mesá, de 27,3 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con el parque eólico Cabeza Mesá, de 29,6 MW, de potencia instalada, en Padiernos y Niharra (Ávila).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23497",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23497.pdf",
+   "identifier": "BOE-A-2026-23497",
+   "score": 10.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-3afed6cdc50e0ee1",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Dirección General de Patrimonio Natural, por la que se fijan las normas de los sorteos y de la venta de permisos de pesca en cotos para la temporada 2027 (códigos de procedimiento MT807B y MT807C)",
+   "summary": "III. Otras disposiciones Consellería de Medio Ambiente y Cambio Climático",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-301026-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0760-301026-0002_es.html",
+   "score": 10.6,
+   "topics": [
+    "biodiversidad",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-0be53e19844bb8bf",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Resolución de 27 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 10,482 hectáreas de olivar tradicional en el polígono 406, parcelas 21, 38 y 41, a ubicar en el término municipal de Mengabril (Badajoz), y promovido por Antonio Cardenal Gómez. Expte.: IA24/1543.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 27 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de puesta en riego por goteo de 10,482 hectáreas de olivar tradicional en el polígono 406, parcelas 21, 38 y 41, a ubicar en el término municipal de…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26062792.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-213f69b3b9aa7a78",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Resolución de 28 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de implantación de complejo turístico rural, a ubicar en el polígono 4, parcela 34, paraje \"Calderona\", cuya promotora es Iciar Santa-Olalla Carcedo, en el término municipal de Valverde de la Vera. Expte.: IA25/1524.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 28 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de implantación de complejo turístico rural, a ubicar en el polígono 4, parcela 34, paraje \"Calderona\", cuya promotora es Iciar Santa-Olalla Carcedo, en…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26062797.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-e1bf4eee1a6a7e08",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Resolución de 28 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de \"Línea aérea y subterránea de doble circuito a 22 kV para cambio de acometida del CT \"Cerrillo\" al CT \"Santiago\" y salida a línea \"Matadero\"\", a realizar en el término municipal de Talarrubias, en la provincia de Badajoz, cuya promotora es Energética de Alcocer, SL. Expte.: IA25/0869.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Impacto ambiental.- Resolución de 28 de octubre de 2026, de la Dirección General de Gestión Sostenible y Política Forestal, por la que se formula informe de impacto ambiental del proyecto de \"Línea aérea y subterránea de doble circuito a 22 kV para cambio de acometida del CT \"Cerrillo\" al CT \"Santiago\" y salida a línea \"Matadero\"\", a…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26062798.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.45,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-c4a34a75c651299b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de CYL Energía Eólica, SLU, de autorización administrativa previa, autorización administrativa de construcción y declaración, en concreto, de utilidad pública para la planta fotovoltaica «El Gallo», de 16,18 MW de potencia instalada, y para una parte de su infraestructura de evacuación, para su hibridación con el parque eólico existente «El Gallo», de 49,4 MW de potencia instalada, en Castrojeriz y Los Balbases (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23491",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23491.pdf",
+   "identifier": "BOE-A-2026-23491",
+   "score": 8.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-815570e5d3d91939",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de CYL Energía Eólica, SLU, de autorización administrativa previa, autorización administrativa de construcción y declaración, en concreto, de utilidad pública para la planta fotovoltaica «La Zarzuela», de 13,685 MW de potencia instalada, para su hibridación con el parque eólico existente «La Zarzuela», de 41,8 MW, y una parte de su infraestructura de evacuación, en Castrojeriz y Los Balbases (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23492",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23492.pdf",
+   "identifier": "BOE-A-2026-23492",
+   "score": 8.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-dcd520db05959e06",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de CYL Energía Eólica, SLU, de autorización administrativa previa, autorización administrativa de construcción y declaración, en concreto, de utilidad pública para la planta fotovoltaica «Los Zapateros», de 16,8 MW de potencia instalada, para su hibridación con el parque eólico existente «Los Zapateros», de 49,4 MW, y una parte de su infraestructura de evacuación, en Castrojeriz y Los Balbases (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23493",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23493.pdf",
+   "identifier": "BOE-A-2026-23493",
+   "score": 8.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-fcd3b061966f1ba4",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Anuncio de 20 de octubre de 2026 por el que se somete a información pública la solicitud de modificación de la autorización administrativa previa correspondiente a la instalación fotovoltaica \"CS Badajoz 3\", ubicada en el término municipal de Badajoz, e infraestructura de evacuación de energía eléctrica asociada, expediente GE-M/34/20, con motivo de la incorporación de un módulo de almacenamiento electroquímico mediante baterías denominado \"BESS Renopool 3\" por el que se hibrida la citada instalación.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Información pública.- Anuncio de 20 de octubre de 2026 por el que se somete a información pública la solicitud de modificación de la autorización administrativa previa correspondiente a la instalación fotovoltaica \"CS Badajoz 3\", ubicada en el término municipal de Badajoz, e infraestructura de evacuación de energía eléctrica asociada,…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "Información pública",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26081833.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "doe-a6e87ed0f2ddd999",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "Anuncio de 20 de octubre de 2026 por el que se somete a información pública la solicitud de modificación de la autorización administrativa previa correspondiente a la instalación fotovoltaica \"CS Badajoz 2\", ubicada en el término municipal de Badajoz, e infraestructura de evacuación de energía eléctrica asociada, expediente GE-M/33/20, con motivo de la incorporación de un módulo de almacenamiento electroquímico mediante baterías denominado \"BESS Renopool 2\" por el que se hibrida la citada instalación.",
+   "summary": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO . Información pública.- Anuncio de 20 de octubre de 2026 por el que se somete a información pública la solicitud de modificación de la autorización administrativa previa correspondiente a la instalación fotovoltaica \"CS Badajoz 2\", ubicada en el término municipal de Badajoz, e infraestructura de evacuación de energía eléctrica asociada,…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "Información pública",
+   "department": "CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2150o/26081849.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 8.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-9c18071dc23539eb",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 23 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Planta Solar OPDE 42, SLU, autorización administrativa previa y autorización administrativa de construcción del módulo de almacenamiento de energía por baterías OPDE Trévago 1 Hibridación, de 30 MW de potencia instalada, y sus infraestructuras de evacuación, para su hibridación con la instalación fotovoltaica existente OPDE Trévago 1, de 34,8 MW de potencia instalada, en Fuentestrún, Trévago y Matalebreras (Soria).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23498",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23498.pdf",
+   "identifier": "BOE-A-2026-23498",
+   "score": 6.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-e9d14981b237e2b8",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 23 de octubre de 2026, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica la Adenda de modificación del Convenio con el Ayuntamiento de Viana do Bolo, sobre la financiación, ejecución y entrega de las obras de construcción de cinco depósitos para almacenamiento de agua.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Convenios",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23489",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23489.pdf",
+   "identifier": "BOE-A-2026-23489",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-2cea8aeb568f2a95",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 30 de octubre de 2026, del Instituto para la Transición Justa, O.A., sobre delegación de competencias.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Delegación de competencias",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23490",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23490.pdf",
+   "identifier": "BOE-A-2026-23490",
+   "score": 4.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "transicion justa",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-89a115e15d665cd9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Solaria Promoción y Desarrollo Fotovoltaico, SLU, autorización administrativa previa y autorización administrativa de construcción para el módulo de almacenamiento de energía por baterías «Agrupación Maira Alpha», de 64,44 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la instalación solar fotovoltaica «Agrupación Maira Alpha», de 165,278 MW de potencia instalada, ubicada en Llano de Bureba (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23494",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23494.pdf",
+   "identifier": "BOE-A-2026-23494",
+   "score": 4.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-adc33d1ba13c7b70",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Solaria Promoción y Desarrollo Fotovoltaico, SLU, autorización administrativa previa y autorización administrativa de construcción para el módulo de almacenamiento de energía por baterías «Agrupación Maira Beta», de 48,50 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la instalación solar fotovoltaica «Agrupación Maira Beta», de 140,127 MW de potencia instalada, ubicada en La Vid de Bureba (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23495",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23495.pdf",
+   "identifier": "BOE-A-2026-23495",
+   "score": 4.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-8968d318121df834",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 22 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se otorga a Solaria Promoción y Desarrollo Fotovoltaico, SLU, autorización administrativa previa y autorización administrativa de construcción para el módulo de almacenamiento de energía por baterías «Agrupación Maira Delta», de 48,50 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la instalación solar fotovoltaica «Agrupación Maira Delta», de 114,976 MW de potencia instalada, en Valluércanes (Burgos).",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Instalaciones eléctricas",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23496",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23496.pdf",
+   "identifier": "BOE-A-2026-23496",
+   "score": 4.4,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-0db0e78c8eff6216",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ACUERDO de 2 de noviembre de 2026, del Departamento Territorial de Lugo, por el que se somete a información pública la solicitud de otorgamiento de las autorizaciones administrativas previa y de construcción de una instalación de almacenamiento de energía eléctrica mediante baterías denominada Bess Farrapa II-Hibridación parque eólico Farrapa II y su infraestructura de evacuación, promovida por Norvento, S.L., en el ayuntamiento de Abadín (expediente PB11/2024).",
+   "summary": "a) Administración autonómica Consellería de Economía e Industria",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Economía e Industria",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0763-021126-0005_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioG0763-021126-0005_es.html",
+   "score": 4.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-4bb27d34dded474a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 30 de octubre de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de tres series de sellos de correo denominadas «Personajes.-2026. Leopoldo Calvo-Sotelo», «Efemérides.-2026. V Centenario Escuela de Salamanca» y «Ocio y aficiones.-2026. Running. San Silvestre Vallecana».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Sellos de correos",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23484",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23484.pdf",
+   "identifier": "BOE-A-2026-23484",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "boe-4beda2c7e146b30a",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-09",
+   "title": "Resolución de 30 de octubre de 2026, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de una serie de sellos de correo denominada «Nadal.-2026. Concert de Nadal. Petits Cantors. Principat d'Andorra».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Sellos de correos",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23485",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/09/pdfs/BOE-A-2026-23485.pdf",
+   "identifier": "BOE-A-2026-23485",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-ce19c9c935174c28",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ANUNCIO de 30 de septiembre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de Caldas de Reis (expediente DH.A36.114996).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-011026-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-011026-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-f3ac5def4ea3827a",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ANUNCIO de 14 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de modificación de una concesión de aguas en el ayuntamiento de Pontevedra (expediente DH.A36.02200).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-141026-0014_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-141026-0014_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "dog-154265d93ede7e09",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-09",
+   "title": "ANUNCIO de 16 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Centro, por el que se somete a información pública una solicitud de concesión de aguas en el ayuntamiento de A Estrada (expediente DH.A36.107798).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-161026-0003_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261109/AnuncioO143-161026-0003_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  }
+ ]
+}

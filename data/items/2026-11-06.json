@@ -1,7 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-08T13:45:42Z",
- "count": 32,
+ "generated_at": "2026-11-09T16:45:31Z",
+ "count": 51,
  "items": [
   {
    "id": "dog-89e61767a4210cc8",
@@ -140,6 +140,58 @@
     }
    ],
    "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
+   "id": "bocyl-11adfe693f62c1b5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de Zamora, por la que se dicta el informe de impacto ambiental del proyecto de planta de codigestión anaerobia de residuos ganaderos, orgánicos y vegetales para producción de biogás y biometano y su valorización energética, en el término municipal de Villanueva de Azoague (Zamora), promovido por «Fuentegas del Álamo, S.L.». Expte.: EIAS/2025/ZA/009.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-53.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-53.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-53.pdf",
+   "score": 9.5,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "biogas",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
   },
   {
    "id": "boe-58c01ea0d2899356",
@@ -783,6 +835,288 @@
    "first_seen": "2026-11-06T14:29:54Z"
   },
   {
+   "id": "bocyl-827a9be1007b647e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción a la instalación híbrida de producción para autoconsumo sin vertido de excedentes de energía eléctrica por tecnología fotovoltaica y tecnología eólica para la instalación denominada «Planta de generación de hidrógeno verde Villamuriel», en el término municipal de Villamuriel de Cerrato (Palencia), promovida por «Hidrógeno Verde Villamuriel, S.L.». Expte.: Industria: PHV-1.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-38.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-38.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-38.pdf",
+   "score": 7.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "autoconsumo",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-e773112156f9be92",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN AGR/1166/2026, de 29 de octubre, por la que se formula la declaración de impacto ambiental del proyecto de modificación de las características de una concesión de aguas subterráneas, manteniendo la superficie de riego anual e incrementando la superficie de rotación de regadío de 69,9496 a 87,4166 hectáreas, en el término municipal de Alaejos (Valladolid), promovido por la Comunidad de Regantes Salamanqués Baraja. Expte.: EIAO/2026/VA/002.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-46.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-46.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-46.pdf",
+   "score": 7.0,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-3b6e458e42fce51e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto ejecutivo para el desarrollo de la UA-I del sector S2 - Suelo Urbanizable Industrial, en el término municipal de Fabero (León), promovido por la «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.» y la Junta de Castilla y León. Expte.: IA 004/2026-24 - EIAS/2026/LE/002.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-47.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-47.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-47.pdf",
+   "score": 7.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-6f13435269736553",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN AGR/1162/2026, de 29 de octubre, por la que se formula el informe de impacto ambiental del proyecto de hibridación de planta solar fotovoltaica existente con la nueva planta de almacenamiento «BESS El Carrascal» de 17,50 MW y 70,00 MWh, e infraestructuras de evacuación asociadas, en el término municipal de Medina del Campo (Valladolid), promovido por «Inver Generación 10, S.L.». Expte.: EIAS/2025/VA/066.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-45.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-45.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-45.pdf",
+   "score": 6.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-d2c14f8725a66393",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN AGR/1161/2026, de 29 de octubre, por la que se formula el informe de impacto ambiental del proyecto de hibridación de planta solar fotovoltaica existente con la nueva planta de almacenamiento «BESS Pontones» de 12,00 MW y 48,00 MWh, e infraestructuras de evacuación asociadas, en el término municipal de Aldeamayor de San Martín (Valladolid), promovido por «Inver Generación 4, S.L.». Expte.: EIAS/2025/VA/060.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-44.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-44.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-44.pdf",
+   "score": 6.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-df772514547e1321",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cordel de Salamanca a Valladolid», en el término municipal de Medina del Campo (Valladolid). Expte.: VA-VP-26268-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-58.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-58.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-58.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
    "id": "doe-d9730829a3cf67bc",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1385,6 +1719,461 @@
     }
    ],
    "first_seen": "2026-11-06T14:29:54Z"
+  },
+  {
+   "id": "bocyl-dc9f507c7d3c3134",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de ejecución de un sondeo de captación de agua destinado a riego de una parcela de uso recreo en Lorenzana, en el término municipal de Cuadros (León), promovido varios particulares. Expte.: I.A.16/2026 - EIAS/2026/LE/012.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-49.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-49.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-49.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-3307bbb01bf322f2",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de ejecución de un sondeo de captación de agua destinado a riego de una parcela de uso recreo en Robledo de la Valdoncina, en el término municipal de Valverde de la Virgen (León), promovido por varios particulares. Expte.: I.A. 18/2026 - EIAS/2026/014.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-50.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-50.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-50.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-1c2c7043c1c5bc48",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de Salamanca, por la que se dicta el informe de impacto ambiental del proyecto de hibridación sistema de almacenamiento en baterías (BEES) con la PSFV «Guleve - Palacios del Arzobispo II» (4,585 MW-18,4 MWh), en el término municipal de Valdelosa (Salamanca), promovido por «Planta FV 140, S.L.U.». Expte.: EIAS/2026/SA/002.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-52.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-52.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-52.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-c53c02406c63c5f0",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de Zamora, por la que se dicta el informe de impacto ambiental del proyecto de sondeos para aprovechamiento geotérmico, en el término municipal de Morales del Vino (Zamora). Expte.: EIAS/2026/ZA/012.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-55.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-55.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-55.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-c0894f311181f3ef",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de sondeo para captación de aguas subterráneas paraje «Prados», en el término municipal de Astorga (León), promovido varios particulares. Expte.: I.A. 19/2026 - EIAS/2026/015.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-51.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-51.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-51.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-c129bc3163b17ec1",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de León, por la que se dicta el informe de impacto ambiental del proyecto de ejecución de un sondeo de captación de agua destinado a riego de varias parcelas de uso recreativo en Lorenzana, en el término municipal de Cuadros (León), promovido por «Ferma El Carmen, S.L.». Expte.: I.A. 15/2026 - EIAS/2026/LE/011.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-48.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-48.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-48.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-fe5518914e3089ca",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de Zamora, por la que se dicta el informe de impacto ambiental del proyecto de ampliación de explotación porcina de cebo, en el término municipal de Fuentesaúco (Zamora), promovido por «Agropecuarias El Cuaiz, S.L.». Expte.: EIAS/2026/ZA/006.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-54.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-54.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-54.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-cb1b62940450a664",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN AGR/1156/2026, de 22 de octubre, por la que se modifica la Orden de 5 de marzo de 2008, de la Consejería de Medio Ambiente, por la que se concede autorización ambiental a la explotación porcina ubicada en el término municipal de Langa de Duero (Soria), como consecuencia de la revisión para su adaptación a las conclusiones sobre las mejores técnicas disponibles (MTD) y de la modificación no sustancial n.º 1 (MNS 1). Exptes.: 026-21-ROSO y 107-26-MNSSO.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-39.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-39.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-39.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-b24e0e9269972a5f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN AGR/1158/2026, de 23 de octubre, por la que se modifica la Orden de 29 de octubre de 2008, de la Consejería de Medio Ambiente, por la que se concede autorización ambiental para un matadero, sala de despiece y elaboración de productos cárnicos, ubicado en Soto de la Vega (León), titularidad de «Embutidos Rodríguez, S.L.», como consecuencia de la modificación no sustancial 6 (MNS 6). Expte.: 128-26-MNSLE.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-41.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-41.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-41.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-647f7cb51a2b333c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la denegación del proyecto de aprovechamiento de recursos de la sección A), denominada «Sola-Ahigal» n.º 580, en el término municipal de Villaralbo (Zamora).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-59.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-59.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-59.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-7d0b1b69e8df841f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN MAE/1170/2026, de 29 de octubre, por la que se declaran de utilidad pública y se incluyen en el monte «Mayor y Rebollo» n.º 244 del catálogo de montes de la provincia de Palencia terrenos propiedad del Ayuntamiento de Calahorra de Boedo, sitos en su término municipal.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-36.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-36.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-36.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
+  },
+  {
+   "id": "bocyl-155439c592633cbf",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-06",
+   "title": "ORDEN MAE/1171/2026, de 29 de octubre, por la que se declaran de utilidad pública y se incluyen en el monte «Baldío» n.º 26 del catálogo de montes de la provincia de Salamanca los terrenos del monte consorciado SA-3020 «Las Marradas», propiedad del Ayuntamiento de Martiago, sitos en su término municipal.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/06/html/BOCYL-D-06112026-215-37.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-37.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/06/pdf/BOCYL-D-06112026-215-37.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-09T16:45:17Z"
   },
   {
    "id": "dog-77503595eb4002c2",
