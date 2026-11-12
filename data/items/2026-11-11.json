@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T14:39:08Z",
- "count": 33,
+ "generated_at": "2026-11-12T15:30:36Z",
+ "count": 42,
  "items": [
   {
    "id": "dog-eee13c23737d653c",
@@ -1009,6 +1009,185 @@
    "first_seen": "2026-11-11T14:38:56Z"
   },
   {
+   "id": "bocyl-6b02965f7cf7c8ae",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "ORDEN AGR/1207/2026, de 4 de noviembre, por la que se formula la declaración de impacto ambiental del proyecto de planta solar fotovoltaica «Prado Nuevo 50», en los términos municipales de Alfaraz de Sayago y Moraleja de Sayago, en la provincia de Zamora, y Palacios del Arzobispo y Santiz, en la provincia de Salamanca, promovido por «Benbros Solar 3, S.L.». Expte.: EIAO/2026/ZA/007.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-28.pdf",
+   "score": 6.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-9b3cf0b67b03c5a6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "RESOLUCIÓN de 29 de octubre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba la primera revisión del Plan Dasocrático del monte «Finca de Sanchivieco», Codmont 0510530000000090, del que es titular «Finca de Sanchivieco, C.B.», de la provincia de Ávila.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-21.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-4e878ac2e44c3f3f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "ORDEN MAE/1198/2026, de 6 de noviembre, por la que se desarrolla la estructura orgánica de los servicios centrales de la Consejería de Medio Ambiente y Energía.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "A. DISPOSICIONES GENERALES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-6.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-6.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-6.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-6cb07b4790039fb7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "RESOLUCIÓN de 29 de octubre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba el Plan Dasocrático del «Monte de Vecinos de Villálvaro\", Codmont 4216230000000130, del que es titular la Asociación de Vecinos de Villálvaro, de la provincia de Soria.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-22.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
    "id": "doe-e471214f3843fe54",
    "source": "doe",
    "source_name": "Diario Oficial de Extremadura",
@@ -1305,6 +1484,87 @@
    "first_seen": "2026-11-11T14:38:56Z"
   },
   {
+   "id": "bocyl-bd50dc6e1518a3ed",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "ORDEN AGR/1194/2026, de 4 de noviembre, por la que se formula la declaración ambiental estratégica de las Normas Urbanísticas Territoriales de la provincia de Segovia. Expte.: EAEO/2023/018.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-24.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "declaracion ambiental estrategica",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-bb6d99eba0e0aef6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental de una explotación porcina en el término municipal de Valencia de Don Juan (León), titularidad de «Desarrollos Industriales y de Investigación Euroespa, S.L.». Expte.: 034-26-AALE.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-40.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-40.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-40.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
    "id": "boe-b7205db636991ccf",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1340,6 +1600,46 @@
     }
    ],
    "first_seen": "2026-11-11T14:38:56Z"
+  },
+  {
+   "id": "bocyl-b797a1e838f0c7a4",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "ORDEN AGR/1197/2026, de 4 de noviembre, por la que se modifica la Orden de 29 de abril de 2008, de la Consejería de Medio Ambiente, por la que se concede autorización ambiental para la fábrica de piensos ubicada en el término municipal de Tabanera la Luenga (Segovia), titularidad de «Piensos Nanpro, S.A.», como consecuencia de la modificación no sustancial 5 (MNS 5). Expte.: 137-26-MNSSG.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-27.pdf",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
   },
   {
    "id": "doe-fb971b4359638ddd",
@@ -1391,6 +1691,78 @@
     }
    ],
    "first_seen": "2026-11-11T14:38:56Z"
+  },
+  {
+   "id": "bocyl-a3b89e67291ef6bd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "RESOLUCIÓN de 15 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Segovia, por la que se otorga a «UFD, Distribución Electricidad, S.A.», la autorización administrativa de construcción para la realización de la «LAT 132 kV DC Perogordo - Valverde del Majano», en los términos municipales de Valverde del Majano y Segovia (Segovia), así como la solicitud de declaración de utilidad pública. Expte.: 40/ATLI/14718.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-23.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-2f346fd467720e17",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-11",
+   "title": "ORDEN AGR/1206/2026, de 6 de noviembre, por la que se dispone la concesión directa de subvenciones a los agricultores, ganaderos y apicultores profesionales y no profesionales, titulares de explotaciones agrarias dañadas y ubicadas en los municipios afectados por los grandes incendios forestales acaecidos en Castilla y León durante el año 2026, con valoración de daños.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/11/html/BOCYL-D-11112026-218-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/11/pdf/BOCYL-D-11112026-218-19.pdf",
+   "score": 3.0,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "incendios forestales",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-11-12T15:30:19Z"
   },
   {
    "id": "dog-ce121b4202b1514f",
