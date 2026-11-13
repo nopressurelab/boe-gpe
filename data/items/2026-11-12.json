@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "generated_at": "2026-11-12T15:30:36Z",
- "count": 49,
+ "generated_at": "2026-11-13T14:49:45Z",
+ "count": 54,
  "items": [
   {
    "id": "dog-3c6b4bebcf0f3e67",
@@ -1460,6 +1460,101 @@
    "first_seen": "2026-11-12T15:30:19Z"
   },
   {
+   "id": "bocyl-307a8e2e4fe5f61f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-12",
+   "title": "INFORMACIÓN pública relativa a la solicitud de modificación de la autorización administrativa previa y autorización de construcción del parque eólico «Ambil» de 42 MW, en los términos municipales de Noviercas y Ólvega (Soria), titularidad de «Cerezo Wind, S.L.».",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/12/html/BOCYL-D-12112026-219-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-22.pdf",
+   "score": 7.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "parque eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "eolico",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
+   "id": "bocyl-9231bd089eb8a733",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-12",
+   "title": "RESOLUCIÓN de 29 de octubre de 2026, de la Dirección General de Patrimonio Natural y Política Forestal, por la que se aprueba la décima revisión de la ordenación del «Grupo 10 de Segovia», que incluye los montes con número de utilidad pública 103, 107, 113, 125, 122, 121, 115 y 111, del que son titulares la Entidad Local Menor de Moraleja de Coca, el Ayuntamiento de Don Hierro, el Ayuntamiento de Montejo de Arévalo, el Ayuntamiento de Nava de la Asunción, el Ayuntamiento de Santiuste de San Juan Bautista, el Ayuntamiento de Villeguillo y el Ayuntamiento de Coca, de la provincia de Segovia.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/12/html/BOCYL-D-12112026-219-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-14.pdf",
+   "score": 5.7,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "patrimonio natural",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
    "id": "boe-131742685cc9b704",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1959,6 +2054,88 @@
    "first_seen": "2026-11-12T15:30:19Z"
   },
   {
+   "id": "bocyl-557c7ef98aa366bf",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-12",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental de una explotación porcina de cebo ubicada en el término municipal de Guijuelo (Salamanca), titularidad de «César Nieto Group, S.L.». Expte.: 017-26-AASA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/12/html/BOCYL-D-12112026-219-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-23.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
+   "id": "bocyl-4c84b2866553bb5c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-12",
+   "title": "ORDEN AGR/1222/2026, de 4 de noviembre, por la que se formula la declaración de impacto ambiental sobre el proyecto de «Restauración y reforma de molino del río Aravalle», en la parcela 122 del polígono 1, en el término municipal de Umbrías (Ávila), promovido por «Elenjor, Costa del Sol, S.L.». Expte.: EIAO/2025/AV/004.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/12/html/BOCYL-D-12112026-219-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-17.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
    "id": "boe-54c091d4460ef857",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -2074,6 +2251,37 @@
     }
    ],
    "first_seen": "2026-11-12T15:30:19Z"
+  },
+  {
+   "id": "bocyl-c652ae15803aff83",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-12",
+   "title": "ACUERDO de 30 de octubre de 2026, de la Comisión Territorial de Medio Ambiente y Urbanismo de Zamora, por el que se inicia procedimiento de revisión de oficio del Acuerdo de 23 de julio de 2026, relativo a la aprobación definitiva de la modificación del Plan General de Ordenación Urbana de Toro (Zamora), sector UA-A 74 (6-1-4/6-2-1) en Tagarabuena, promovido por «Cortinsa 2000, S.L.». Expte.: 123/25 UR-PL-AD.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE LA PRESIDENCIA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/12/html/BOCYL-D-12112026-219-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/12/pdf/BOCYL-D-12112026-219-12.pdf",
+   "score": 2.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-13T14:49:28Z"
   },
   {
    "id": "boe-d3d9897cb13ab1a5",

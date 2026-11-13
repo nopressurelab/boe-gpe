@@ -1,52 +1,52 @@
 {
- "last_run": "2026-11-12T15:30:19Z",
- "finished_at": "2026-11-12T15:30:36Z",
+ "last_run": "2026-11-13T14:49:28Z",
+ "finished_at": "2026-11-13T14:49:45Z",
  "range": {
-  "from": "2026-11-09",
-  "to": "2026-11-12"
+  "from": "2026-11-10",
+  "to": "2026-11-13"
  },
  "sources": {
   "boe": {
-   "seen": 796,
-   "relevant": 130
+   "seen": 922,
+   "relevant": 207
   },
   "dog": {
-   "seen": 42,
-   "relevant": 5
+   "seen": 52,
+   "relevant": 2
   },
   "boc-canarias": {
-   "seen": 49,
-   "relevant": 3
+   "seen": 48,
+   "relevant": 5
   },
   "doe": {
-   "seen": 31,
+   "seen": 45,
    "relevant": 2
   },
   "bocyl": {
-   "seen": 140,
-   "relevant": 39
+   "seen": 126,
+   "relevant": 30
   }
  },
  "totals": {
-  "seen": 1058,
-  "relevant": 179
+  "seen": 1193,
+  "relevant": 246
  },
  "days_written": {
-  "2026-11-09": {
-   "nuevas": 0,
-   "total": 40
-  },
   "2026-11-10": {
    "nuevas": 0,
    "total": 82
   },
   "2026-11-11": {
-   "nuevas": 9,
+   "nuevas": 0,
    "total": 42
   },
   "2026-11-12": {
-   "nuevas": 49,
-   "total": 49
+   "nuevas": 5,
+   "total": 54
+  },
+  "2026-11-13": {
+   "nuevas": 95,
+   "total": 95
   }
  },
  "days_pruned": 0
