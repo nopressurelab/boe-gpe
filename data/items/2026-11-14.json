@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T13:44:09Z",
+ "count": 2,
+ "items": [
+  {
+   "id": "boe-9c5b1bce79381668",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-14",
+   "title": "Resolución de 27 de octubre de 2026, de la Dirección General de Planificación y Coordinación Energética, por la que se modifica el documento uniforme del anexo del Real Decreto 243/2009, de 27 de febrero, por el que se regula la vigilancia y control de traslados de residuos radioactivos y combustible nuclear gastado entre Estados miembros o procedentes o con destino al exterior de la Comunidad.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Residuos radioactivos",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23825",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/14/pdfs/BOE-A-2026-23825.pdf",
+   "identifier": "BOE-A-2026-23825",
+   "score": 5.65,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "subsection",
+     "topic": "residuos",
+     "weight": 0.75
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-14T13:43:56Z"
+  },
+  {
+   "id": "boe-58731fd75a8d95ac",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-14",
+   "title": "Real Decreto 998/2026, de 13 de noviembre, por el que se nombra Director del Gabinete del Ministro de Transportes y Movilidad Sostenible a don Jorge Fabra Portela.",
+   "summary": "",
+   "section": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+   "subsection": "Nombramientos",
+   "department": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23833",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/14/pdfs/BOE-A-2026-23833.pdf",
+   "identifier": "BOE-A-2026-23833",
+   "score": 2.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "movilidad sostenible",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-14T13:43:56Z"
+  }
+ ]
+}
