@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-15T14:13:54Z",
- "count": 95,
+ "generated_at": "2026-11-16T16:16:34Z",
+ "count": 112,
  "items": [
   {
    "id": "dog-5f0727a2041347f9",
@@ -407,6 +407,60 @@
     }
    ],
    "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
+   "id": "bocyl-54edbe78cfb1cae6",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "ORDEN AGR/1225/2026, de 4 de noviembre, por la que se acuerda la prórroga de la vigencia de la declaración de impacto ambiental del proyecto de la instalación fotovoltaica «Roblasun 2» e infraestructura de evacuación en 30 kV, en el término municipal de Rioseco de Tapia (León), promovido por «Roblasun 2, S.L.U.». Expte.: IA 11/2022.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-23.pdf",
+   "score": 9.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
   },
   {
    "id": "boe-7f1233168d98458d",
@@ -1598,6 +1652,59 @@
     }
    ],
    "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
+   "id": "bocyl-460e17cbb2b41b59",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "INFORMACIÓN pública relativa al estudio de impacto ambiental, proyecto de explotación para la autorización de explotación de recursos de la sección A), arenas y gravas, «La Tejuela» n.º 1.259 (revisado), situado en el término municipal de Santa Gadea del Cid (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-49.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-49.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-49.pdf",
+   "score": 7.7,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
   },
   {
    "id": "boe-b49bd2510304dba0",
@@ -3242,6 +3349,233 @@
    "first_seen": "2026-11-13T14:49:28Z"
   },
   {
+   "id": "bocyl-63a375421b701b25",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Valladolid, por la que se hace público el informe de impacto ambiental del proyecto de solicitud de concesión de aguas subterráneas para riego en rotación de varias parcelas, en los términos municipales de San Miguel del Arroyo, Torrescárcela y Viloria del Henar (Valladolid) promovido por particulares. Expte.: EIAS/2025/VA/138.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-29.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-29.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-29.pdf",
+   "score": 7.0,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-0719fab56676fdce",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Valladolid, por la que se hace público el informe de impacto ambiental del proyecto de una instalación fija para tratamiento de residuos, en el término municipal de Valladolid, promovido por «Gescal Knauf Miret, S.L.U.». Expte.: EIAS/2025/VA/021.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-27.pdf",
+   "score": 7.0,
+   "topics": [
+    "residuos",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-d688c6a64a0d3a05",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Ávila, por la que se dicta informe de impacto ambiental del proyecto de sondeo para abastecimiento de agua en la parcela 81 del polígono 16, en el término municipal de El Tiemblo (Ávila). Expte.: E.I.A.S/2026/AV/002.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-24.pdf",
+   "score": 6.5,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "abastecimiento de agua",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-e5651a8655b7cc56",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Ávila, por la que se dicta informe de impacto ambiental del proyecto de sondeo para abastecimiento de agua en la calle Camino Perdido n.º 1, con referencia catastral 4235008UK8943N0000IE, en el término municipal de Las Navas del Marqués (Ávila). Expte.: E.I.A.S/2026/AV/005.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-26.pdf",
+   "score": 6.5,
+   "topics": [
+    "agua",
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "abastecimiento de agua",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-fcbeb616a92674b5",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "ORDEN MAE/1223/2026, de 29 de octubre, por la que se aprueba la clasificación de las vías pecuarias del término municipal de Aldea de San Miguel (Valladolid).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-18.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
    "id": "boe-65980c34d2d33b65",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -4034,6 +4368,51 @@
    "first_seen": "2026-11-13T14:49:28Z"
   },
   {
+   "id": "bocyl-546575ce776cbfdb",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 13 de agosto de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, relativa a la autorización administrativa previa de las instalaciones de producción de energía eléctrica, mediante tecnología fotovoltaica e hibridada con almacenamiento en baterías denominada «FV Camunyas», en los términos municipales de Valladolid y Zaratán (Valladolid). Expte.: FV-2722-ALM ATCE-214.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-20.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
    "id": "boe-54b7897d5dcf2af4",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -4072,6 +4451,125 @@
    "first_seen": "2026-11-13T14:49:28Z"
   },
   {
+   "id": "bocyl-220b813cc7181caa",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Valladolid, por la que se hace público el informe de impacto ambiental del proyecto de modificación de las características de varias concesiones de aguas subterráneas para su agrupación en una única concesión, en el término municipal de Pozal de Gallinas (Valladolid), promovido por la «Comunidad de Regantes Hnos. García Rodríguez». Expte.: EIAS/VA/2025/102.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-28.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-2aedc3413af2081d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Ávila, por la que se dicta informe de impacto ambiental del proyecto de almacenamiento «BESS Los Jabalíes» de 1,00 MW e instalaciones de evacuación para hibridación de la planta «FV Los Jabalíes» conectada a red de distribución en la parcela 44 del polígono 1, en el término municipal de Barromán (Ávila), promovido por «Jabalíes Renovables, S.L.». Expte.: E.I.A.S/2026/AV/003.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-25.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-f0b4ae13c175b920",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental de una explotación porcina, en el término municipal de Peñaranda de Duero (Burgos), titularidad de «Gabi y Toni, S.L.». Expte.: 042-26-AABU.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-52.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-52.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-52.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
    "id": "boc-canarias-92bdc4f7b100d2ee",
    "source": "boc-canarias",
    "source_name": "Boletín Oficial de Canarias",
@@ -4107,6 +4605,234 @@
     }
    ],
    "first_seen": "2026-11-13T14:49:28Z"
+  },
+  {
+   "id": "bocyl-608da41dcc6edb99",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización de uso excepcional de suelo rústico, licencia urbanística y licencia ambiental, para una línea aérea de media tensión de 15 kW y transformador intemperie de 100 kVA, en el término municipal de San Vicente de Arévalo (Ávila). Expte.: 40/2026.",
+   "summary": "",
+   "section": "III. ADMINISTRACIÓN LOCAL",
+   "subsection": "C. ANUNCIOS",
+   "department": "AYUNTAMIENTO DE SAN VICENTE DE ARÉVALO (ÁVILA)",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-58.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-58.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-58.pdf",
+   "score": 4.0,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "licencia ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-304ef0e121806bb2",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 4 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por la que se acepta el desistimiento presentado por «Inver Generación 14, S.L.» y se revocan las resoluciones de autorización administrativa previa y autorización administrativa de construcción, así como sus prórrogas y extensiones, de la instalación de generación denominada «FV Los Hornillos 2», y su reconocimiento de utilidad pública, en concreto, en los términos municipales de Renedo de Esgueva y Valladolid (Valladolid). Expte.: FV-2434.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-22.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-22.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-22.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-97ebda5bab72e48a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa de construcción de una instalación de distribución eléctrica, en el término municipal de Peñafiel (Valladolid). Expte.: AT-51824.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-50.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-50.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-50.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-74c2a374d14fcf60",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 4 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Valladolid, por la que se acepta el desistimiento presentado por «Inver Generación 14, S.L.» y se revocan las resoluciones de autorización administrativa previa y autorización administrativa de construcción, así como sus prórrogas y extensiones, de la instalación de generación denominada «FV Los Hornillos 1», y su reconocimiento de utilidad pública, en concreto, en los términos municipales de Renedo de Esgueva y Valladolid (Valladolid). Expte.: FV-2433.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-21.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-21.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-21.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-8ee6111b87824717",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "RESOLUCIÓN de 9 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de León, por la que se concede la autorización administrativa previa y de construcción de la modificación del proyecto de derivación de la línea eléctrica de distribución en alta tensión de 33 kV «La Recuelga-Fabero» para enlace y centro de maniobra y medida asociado para evacuación de un parque fotovoltaico de 10 MW, en el término municipal de Fabero (León). Expte.: 383-21-16940.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
+  },
+  {
+   "id": "bocyl-f3783c010329398d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-13",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, por el que se somete a información pública la solicitud de autorización administrativa previa y de construcción del proyecto de sustitución del centro de transformación (C.T.) «Villalonso» (129995620) por un nuevo centro de transformación de intemperie compacto (C.T.I.C. bajo poste), en el término municipal de Villalonso (Zamora). Expte.: Energía: 260001 - Reg. Ind: ATCT-1401.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/13/html/BOCYL-D-13112026-220-51.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-51.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/13/pdf/BOCYL-D-13112026-220-51.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-16T16:16:24Z"
   },
   {
    "id": "boe-8f260ba0264a6de9",
