@@ -1,0 +1,743 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T15:54:40Z",
+ "count": 17,
+ "items": [
+  {
+   "id": "boe-a78f1af7f4fc644d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Agencia Catalana del Agua de revisión de la autorización de vertido al pantano de San Antonio de las aguas residuales procedentes de los municipios de La Pobla de Segur y Sant Joan de Vinyafrescal, previamente tratadas en la EDAR de La Pobla de Segur, para adaptarla a las nuevas condiciones de gestión de los sistemas de saneamiento, los puntos de desbordamiento y el cálculo del canon de control de vertidos.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "COMUNIDAD AUTÓNOMA DE CATALUÑA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37959",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37959.pdf",
+   "identifier": "BOE-B-2026-37959",
+   "score": 8.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "aguas residuales",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "autorizacion de vertido",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "canon de control de vertidos",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "dog-f8a222aa4db5363e",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ORDEN de 12 de noviembre de 2026 por la que se publica la ampliación del crédito de la Orden de 20 de noviembre de 2025 por la que se establecen las bases reguladoras de las ayudas para fomentar la adopción de animales domésticos de compañía abandonados acogidos en los centros de recogida autorizados de la Comunidad Autónoma de Galicia, y se convocan ayudas para el año 2026 (código de procedimiento MT811C).",
+   "summary": "III. Otras disposiciones Consellería de Medio Ambiente y Cambio Climático",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261118/AnuncioG0760-131126-0005_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261118/AnuncioG0760-131126-0005_es.html",
+   "score": 8.1,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "dog-b8e0fbc327eb8061",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ORDEN de 15 de noviembre de 2026 por la que se publica la ampliación del crédito de la Orden de 20 de noviembre de 2025 por la que se establecen las bases reguladoras de las ayudas para paliar los daños ocasionados por el oso pardo y se convocan ayudas para el año 2026 (código de procedimiento MT815A).",
+   "summary": "III. Otras disposiciones Consellería de Medio Ambiente y Cambio Climático",
+   "section": "III. Otras disposiciones",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261118/AnuncioG0760-161126-0004_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261118/AnuncioG0760-161126-0004_es.html",
+   "score": 8.1,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-b7610b7699ce7359",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de modificación de características de concesión de aguas públicas para riego-uso ganadero y un volumen de 54.592 m³/año a captar de Arroyo del Tamujoso en el término municipal de Adamuz (Córdoba). Expediente M-5712/2023-ing.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37957",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37957.pdf",
+   "identifier": "BOE-B-2026-37957",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "doe-7fa44d649c301b61",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe de impacto ambiental del proyecto de concesiÃ³n de aguas subterrÃ¡neas para 1,92 ha de olivar ubicadas en el paraje \"La Parrilla\" en las parcelas 1261, 1263, 1266, 1269, y 1271 del polÃ­gono 18, en el tÃ©rmino municipal de Talarrubias (Badajoz), cuya promotora es Valentina Ramiro Utrera. Expte.: IA26/0268.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . Impacto ambiental.- ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe de impacto ambiental del proyecto de concesiÃ³n de aguas subterrÃ¡neas para 1,92 ha de olivar ubicadas en el paraje \"La Parrilla\" en las parcelas 1261, 1263, 1266, 1269, y 1271 del…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2220o/26062931.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 7.65,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "informe de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-518eb17bc4a4e1d7",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio del Servicio Provincial de Costas de Gipuzkoa por el que se somete a Información Pública la solicitud de adscripción formulada por la Dirección de Puertos, Asuntos Marítimos y Litoral del Departamento de Alimentación, Desarrollo Rural, Agricultura y Pesca del Gobierno Vasco, para la ocupación de bienes de dominio público marítimo-terrestre con destino a la construcción del futuro vial de acceso al muelle de carga del puerto de Orio en la margen izquierda de la ría del Oria, en los términos municipales de Aia y Orio (Gipuzkoa). Ref.: ADS01/26/20/0001.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37952",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37952.pdf",
+   "identifier": "BOE-B-2026-37952",
+   "score": 6.9,
+   "topics": [
+    "costas-mar"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico maritimo-terrestre",
+     "field": "title",
+     "topic": "costas-mar",
+     "weight": 3.0
+    },
+    {
+     "term": "litoral",
+     "field": "title",
+     "topic": "costas-mar",
+     "weight": 1.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-506b19218f17d17f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Demarcación de Costas en Valencia sobre el otorgamiento de la concesión para ocupación y aprovechamiento del dominio público marítimo-terrestre, en el termino municipal de Valencia.(Valencia).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37950",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37950.pdf",
+   "identifier": "BOE-B-2026-37950",
+   "score": 5.4,
+   "topics": [
+    "costas-mar"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico maritimo-terrestre",
+     "field": "title",
+     "topic": "costas-mar",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-a6f4166ca0e20e49",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. por el que se hace público el otorgamiento de la concesión para aprovechamiento de 0,15 l/s de agua procedente de tres (3) manantiales situados en la parroquia de Celeiros (San Fins), término municipal de Ponteareas (Pontevedra), con destino a abastecimiento de los núcleos de As Bouzas y A Arrotea. Expediente: A/36/14291-1.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37951",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37951.pdf",
+   "identifier": "BOE-B-2026-37951",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-fe055dcc5bdeef06",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de transmutación de derechos de aguas privadas a públicas para riego y un volumen de 19.375 m³/año a captar de aguas subterráneas en el término municipal de Paterna del Campo (Huelva). Expediente A-8763/2023-ing.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37953",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37953.pdf",
+   "identifier": "BOE-B-2026-37953",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-8d7336119fcf9e2b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de autorización de producción y suministro de aguas regeneradas procedentes de la Estación Regeneradora de Agua situada en el término municipal de Alcalá de Guadaira (Sevilla). Expediente de ref.: ERA0015/SE-278 /2025.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37954",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37954.pdf",
+   "identifier": "BOE-B-2026-37954",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-ca9d1a3a21b7b65c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de 42,84 l/s de aguas a derivar del arroyo Granjuela y del río Pontones, mediante 5 tomas, con destino a riego, en el término municipal de Arroyo de la Luz (Cáceres).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37955",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37955.pdf",
+   "identifier": "BOE-B-2026-37955",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-123df800a4aed99b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de transmutación de derechos de aguas privadas a públicas para riego y un volumen de 29.820 m³/año a captar de aguas subterráneas en el término municipal de Pedrera (Sevilla). Expediente A-9474/2023-ing.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37956",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37956.pdf",
+   "identifier": "BOE-B-2026-37956",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-1782eef16b938c6c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Anuncio de la Delegación del Gobierno en Castilla y León por el que se convoca para el levantamiento de actas previas a la ocupación de bienes y derechos afectados por la instalación fotovoltaica «Navabuena Solar», de 449,148 MW de potencia pico, 424,710 MW de potencia instalada, y sus infraestructuras de evacuación, en Villalba de los Alcores, La Mudarra y Valladolid, en la provincia de Valladolid.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37949",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37949.pdf",
+   "identifier": "BOE-B-2026-37949",
+   "score": 4.5,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "instalacion fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "boe-530d5bcc668f0db4",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-18",
+   "title": "Extracto de la Resolución de 16 de noviembre de 2026 de la Secretaría de Estado de Educación, por la que se convocan ayudas para participar en el programa nacional \"Centros de Educación Ambiental\" durante el año 2027",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37945",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-B-2026-37945.pdf",
+   "identifier": "BOE-B-2026-37945",
+   "score": 4.0,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "educacion ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "doe-4c8595294f13636d",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ResoluciÃ³n de 8 de noviembre de 2026, de la DirecciÃ³n General de Industria, EnergÃ­a y Minas, por la que se otorga autorizaciÃ³n administrativa previa a la sociedad Energy Renewable 8, SLU, para la instalaciÃ³n fotovoltaica \"CÃ¡novas FV\", ubicada en el tÃ©rmino municipal de CÃ¡ceres (CÃ¡ceres), e infraestructura de evacuaciÃ³n de energÃ­a elÃ©ctrica asociada. Expte.: GE-M/15/24.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . EnergÃ­a solar.- ResoluciÃ³n de 8 de noviembre de 2026, de la DirecciÃ³n General de Industria, EnergÃ­a y Minas, por la que se otorga autorizaciÃ³n administrativa previa a la sociedad Energy Renewable 8, SLU, para la instalaciÃ³n fotovoltaica \"CÃ¡novas FV\", ubicada en el tÃ©rmino municipal de CÃ¡ceres (CÃ¡ceres), e infraestructura de…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "EnergÃ­a solar",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2220o/26062928.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 3.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "doe-0b257612d5987163",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe ambiental estratÃ©gico en la forma prevista en la Ley 16/2015, de 23 de abril, de protecciÃ³n ambiental de la Comunidad AutÃ³noma de Extremadura, de la modificaciÃ³n puntual n.Âº 2 del Plan General Municipal de Cabrero. Expte.: IA26/0139.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . Impacto ambiental.- ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe ambiental estratÃ©gico en la forma prevista en la Ley 16/2015, de 23 de abril, de protecciÃ³n ambiental de la Comunidad AutÃ³noma de Extremadura, de la modificaciÃ³n puntual n.Âº 2…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2220o/26062930.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 2.85,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  },
+  {
+   "id": "doe-53eeff7d84b1e21f",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-18",
+   "title": "ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe ambiental estratÃ©gico en la forma prevista en la Ley 16/2015, de 23 de abril, de protecciÃ³n ambiental de la Comunidad AutÃ³noma de Extremadura, de la modificaciÃ³n puntual n.Âº 4 del Plan General Municipal de San Vicente de AlcÃ¡ntara. Expte.: IA26/0062.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . Impacto ambiental.- ResoluciÃ³n de 9 de noviembre de 2026, de la DirecciÃ³n General de GestiÃ³n Sostenible y PolÃ­tica Forestal, por la que se formula informe ambiental estratÃ©gico en la forma prevista en la Ley 16/2015, de 23 de abril, de protecciÃ³n ambiental de la Comunidad AutÃ³noma de Extremadura, de la modificaciÃ³n puntual n.Âº 4…",
+   "section": "III.OTRAS RESOLUCIONES",
+   "subsection": "Impacto ambiental",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2220o/26062932.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 2.85,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    }
+   ],
+   "first_seen": "2026-11-18T15:54:25Z"
+  }
+ ]
+}
