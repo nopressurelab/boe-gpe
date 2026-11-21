@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T14:51:32Z",
+ "count": 2,
+ "items": [
+  {
+   "id": "boe-eea5548c7bd739e6",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-21",
+   "title": "Real Decreto-ley 41/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Medidas urgentes",
+   "department": "JEFATURA DEL ESTADO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24438",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/21/pdfs/BOE-A-2026-24438.pdf",
+   "identifier": "BOE-A-2026-24438",
+   "score": 6.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "gases de efecto invernadero",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "derechos de emision",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-11-21T14:51:20Z"
+  },
+  {
+   "id": "boe-68dfaa7141ece024",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-21",
+   "title": "Real Decreto 1032/2026, de 20 de noviembre, por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Centros de datos",
+   "department": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24439",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/21/pdfs/BOE-A-2026-24439.pdf",
+   "identifier": "BOE-A-2026-24439",
+   "score": 4.5,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medioambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    }
+   ],
+   "first_seen": "2026-11-21T14:51:20Z"
+  }
+ ]
+}
