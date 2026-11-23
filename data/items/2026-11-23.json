@@ -1,0 +1,1362 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T18:38:48Z",
+ "count": 29,
+ "items": [
+  {
+   "id": "dog-a5cbc76a256ed8b1",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto de ampliación de una explotación de ganado de vacuno de leche en el lugar de Fontorto, en la parroquia de Boado, en el ayuntamiento de Mesía (A Coruña) (expediente 2026/0013).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0004_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0004_es.html",
+   "score": 14.6,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "dog-14cc20b1ab4172b9",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto de un campamento de turismo en el lugar de Piñarrostro, en la parroquia de A Cova, en el ayuntamiento de Carballedo (Lugo) (expediente 2026/0002).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0003_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0003_es.html",
+   "score": 14.6,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "dog-5ae7ec2633a023e5",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "ANUNCIO de 9 de noviembre de 2026, de la Dirección General de Calidad Ambiental y Sostenibilidad, por el que se hace público el informe de impacto ambiental del proyecto del sistema de almacenamiento de energía de baterías (BESS) Raposeiras de 4 MW y su infraestructura de evacuación, en los ayuntamientos de Carral, Cerceda y Ordes (A Coruña) (expediente 2025/0048).",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0002_es.html",
+   "score": 14.6,
+   "topics": [
+    "evaluacion-ambiental",
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "sostenibilidad",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-351fab6c50298a22",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Resolución de 6 de noviembre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Nueva instalación de almacenamiento de combustible en el aeropuerto de Lanzarote».",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Impacto ambiental",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24579",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-A-2026-24579.pdf",
+   "identifier": "BOE-A-2026-24579",
+   "score": 9.85,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "informe de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "evaluacion ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 2.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "subsection",
+     "topic": "general",
+     "weight": 0.45
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-4c4f4a76571b4979",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Ebro de información pública del procedimiento de autorización para demolición de azud en el dominio público hidráulico del río Najerilla en el término municipal de Anguiano (La Rioja). Referencia 2026-O-1204.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38653",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38653.pdf",
+   "identifier": "BOE-B-2026-38653",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "dominio publico hidraulico",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-a84787ad9bd5eb2b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaria de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública del procedimiento de autorización de vertido. Expediente V/39/01855 en el término municipal de Vega de Pas, provincia de Cantabria.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38656",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38656.pdf",
+   "identifier": "BOE-B-2026-38656",
+   "score": 8.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "autorizacion de vertido",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "dog-29f567c5b358af82",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "ANUNCIO de 6 de noviembre de 2026, del Departamento Territorial de Ourense, por el que se emplaza a las personas interesadas para ser notificadas por comparecencia en el expediente ANI-OU-42/2026-V y dos más.",
+   "summary": "a) Administración autonómica Consellería de Medio Ambiente y Cambio Climático",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Consellería de Medio Ambiente y Cambio Climático",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0001_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioG0760-091126-0001_es.html",
+   "score": 8.1,
+   "topics": [
+    "clima-energia",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "cambio climatico",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.8
+    },
+    {
+     "term": "medio ambiente",
+     "field": "summary",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "cambio climatico",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boc-canarias-78484bb96dfa8d46",
+   "source": "boc-canarias",
+   "source_name": "Boletín Oficial de Canarias",
+   "source_short": "BOC Canarias",
+   "region": "Canarias",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "DECRETO 183/2026, de 16 de noviembre, por el que se acuerda la ejecución de la instalación eléctrica “Planta fotovoltaica Camposanto I” de 1,92 MW, en el término municipal de Arico, isla de Tenerife, promovido por la entidad Quintercon S.L., expediente ER201183, y se ordena la modificación del planeamiento afectado.",
+   "summary": "III. Otras Resoluciones - Consejería de Transición Ecológica y Energía 4082 DECRETO 183/2026, de 16 de noviembre, por el que se acuerda la ejecución de la instalación eléctrica “Planta fotovoltaica Camposanto I” de 1,92 MW, en el término municipal de Arico, isla de Tenerife, promovido por la entidad Quintercon S.L., expediente ER201183, y se ordena la modificación del planeamiento afectado. CVE:…",
+   "section": "III. Otras Resoluciones",
+   "subsection": "",
+   "department": "Consejería de Transición Ecológica y Energía",
+   "url": "https://www.gobiernodecanarias.org/boc/2026/235/011.html",
+   "pdf_url": "",
+   "identifier": "BOC-A-2026-235-4082",
+   "score": 7.9,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "transicion ecologica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.5
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-31199abdff9c131d",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Guadalquivir, O.A., de información pública de procedimiento de modificación de características y novación de una concesión de aguas públicas para riego y un volumen de 141.786,14 m³/año a captar de aguas subterráneas en el término municipal de Paradas (Sevilla). Expediente 7000/2019.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38654",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38654.pdf",
+   "identifier": "BOE-B-2026-38654",
+   "score": 7.9,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-59d86bdd20c668a1",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para abastecimiento, en el término municipal de Peñalba de Ávila (Ávila). Ref. expte.: C-0097/2026 (INTEGRA-AYE) AV.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38646",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38646.pdf",
+   "identifier": "BOE-B-2026-38646",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-d9328040541b6c0f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas superficiales, de referencia MC-0067/2026 (INTEGRA-AYE) VA, con destino a riego, en el término municipal de San Pedro de Latarce (Valladolid).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38647",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38647.pdf",
+   "identifier": "BOE-B-2026-38647",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-19d5e9f013148b97",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero , en el término municipal de Fuenterrebollo (Segovia). Ref. expte.: C-0318/2026 (INTEGRA-AYE) SG.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38648",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38648.pdf",
+   "identifier": "BOE-B-2026-38648",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-1f794c433f136208",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2022-P-575 en el término municipal de Cella (Teruel).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38649",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38649.pdf",
+   "identifier": "BOE-B-2026-38649",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-905c62a7db9cd6a9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Alpartir (Zaragoza). Expediente 2026-A-51.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38650",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38650.pdf",
+   "identifier": "BOE-B-2026-38650",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-9027d76998ac737f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas superficiales, de referencia MC-0260/2024 (INTEGRA-AYE) VA, con destino a riego, en el término municipal de San Pedro de Latarce (Valladolid).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38651",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38651.pdf",
+   "identifier": "BOE-B-2026-38651",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-520d4d2de14660db",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas superficiales, de referencia MC-0258/2024, con destino a riego, en el término municipal de San Pedro de Latarce (Valladolid).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38657",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38657.pdf",
+   "identifier": "BOE-B-2026-38657",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-32bf82bfb6263e41",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de San Vicente de Arévalo (Ávila). Ref. expte.: C-0355/2026 (INTEGRA-AYE) AV.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38658",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38658.pdf",
+   "identifier": "BOE-B-2026-38658",
+   "score": 7.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "aprovechamiento de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "doe-a3b61d1b592def3e",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "Anuncio de 9 de noviembre de 2026 por el que se somete a informaciÃ³n pÃºblica el estudio de impacto ambiental del proyecto de mejora de las instalaciones de riego mediante la implantaciÃ³n de un sistema de riego por goteo en una plantaciÃ³n de frutales de hueso de 40,55 hectÃ¡reas, situada en las parcelas 36, 37, 55, 56, 57 y 68 del polÃ­gono 6 y en la parcela 9 del polÃ­gono 7, del tÃ©rmino municipal de Navalvillar de Pela (Badajoz), cuya promotora es Starfruit Nature, SL. Expte.: IA26/0743.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . InformaciÃ³n pÃºblica.- Anuncio de 9 de noviembre de 2026 por el que se somete a informaciÃ³n pÃºblica el estudio de impacto ambiental del proyecto de mejora de las instalaciones de riego mediante la implantaciÃ³n de un sistema de riego por goteo en una plantaciÃ³n de frutales de hueso de 40,55 hectÃ¡reas, situada en las parcelas 36, 37,…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "InformaciÃ³n pÃºblica",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2250o/26081985.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 7.2,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "summary",
+     "topic": "evaluacion-ambiental",
+     "weight": 1.8
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "doe-9af9502fadcd4c7a",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "Anuncio de 15 de octubre de 2026 por el que se pone a disposiciÃ³n del pÃºblico la informaciÃ³n relativa al procedimiento de solicitud de autorizaciÃ³n ambiental unificada del proyecto para planta de almacenamiento de residuos no peligrosos, promovido por Cuatro Erre Tratamientos, SL, en el tÃ©rmino municipal de Almendralejo (Badajoz).",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . InformaciÃ³n pÃºblica.- Anuncio de 15 de octubre de 2026 por el que se pone a disposiciÃ³n del pÃºblico la informaciÃ³n relativa al procedimiento de solicitud de autorizaciÃ³n ambiental unificada del proyecto para planta de almacenamiento de residuos no peligrosos, promovido por Cuatro Erre Tratamientos, SL, en el tÃ©rmino municipal de…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "InformaciÃ³n pÃºblica",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2250o/26081806.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 6.4,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "summary",
+     "topic": "residuos",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "doe-d49431a440ad059d",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "Anuncio de 29 de octubre de 2026 por el que se pone a disposiciÃ³n del pÃºblico la informaciÃ³n relativa al procedimiento de solicitud de modificaciÃ³n sustancial de autorizaciÃ³n ambiental unificada del proyecto de planta de gestiÃ³n de residuos metÃ¡licos y baterÃ­as usadas, promovido por Alonso Rastrollo Salguero, en el tÃ©rmino municipal de MÃ©rida.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . InformaciÃ³n pÃºblica.- Anuncio de 29 de octubre de 2026 por el que se pone a disposiciÃ³n del pÃºblico la informaciÃ³n relativa al procedimiento de solicitud de modificaciÃ³n sustancial de autorizaciÃ³n ambiental unificada del proyecto de planta de gestiÃ³n de residuos metÃ¡licos y baterÃ­as usadas, promovido por Alonso Rastrollo…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "InformaciÃ³n pÃºblica",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2250o/26081924.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 6.4,
+   "topics": [
+    "residuos",
+    "general"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "summary",
+     "topic": "residuos",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    },
+    {
+     "term": "ambiental",
+     "field": "summary",
+     "topic": "general",
+     "weight": 0.9
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-8dbe5bbf3d78867f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Coordinación de la seguridad y salud para las obras de conservación de infraestructuras del servicio 5º de explotación (2027-2028). Expediente: 083/26-S.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38609",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38609.pdf",
+   "identifier": "BOE-B-2026-38609",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-7223d0a90e1456e9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Confederación Hidrográfica del Cantábrico, O.A., de información pública de los valores propuestos para el canon de regulación y las tarifas de utilización del agua del año 2027.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38652",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38652.pdf",
+   "identifier": "BOE-B-2026-38652",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-29f53fdf19d948b2",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de autorización de extracción de 8250 m3 de áridos en el río Ésera, en el término municipal de Graus (Huesca). Referencia: 2025-OA-19.",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38655",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38655.pdf",
+   "identifier": "BOE-B-2026-38655",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-36b0acc7c158a05f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre competencia de proyectos relativa a una solicitud de concesión en el término municipal de Ojos Negros (Teruel).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38659",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38659.pdf",
+   "identifier": "BOE-B-2026-38659",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-2db0ad062c7eb4dc",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre competencia de proyectos relativa a una solicitud de concesión en el término municipal de Cella (Teruel).",
+   "summary": "",
+   "section": "V. Anuncios. - B. Otros anuncios oficiales",
+   "subsection": "",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38660",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38660.pdf",
+   "identifier": "BOE-B-2026-38660",
+   "score": 5.4,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "confederacion hidrografica",
+     "field": "title",
+     "topic": "agua",
+     "weight": 3.0
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "doe-d5e4f36494842274",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "Anuncio de 20 de octubre de 2026 por el que se somete a informaciÃ³n pÃºblica la solicitud de modificaciÃ³n de la autorizaciÃ³n administrativa previa correspondiente a la instalaciÃ³n fotovoltaica \"CS Badajoz 1\", ubicada en el tÃ©rmino municipal de Badajoz, e infraestructura de evacuaciÃ³n de energÃ­a elÃ©ctrica asociada, expediente GE-M/32/20, con motivo de la incorporaciÃ³n de un mÃ³dulo de almacenamiento electroquÃ­mico mediante baterÃ­as denominado \"BESS Renopool 1\" por el que se hibrida la citada instalaciÃ³n.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . InformaciÃ³n pÃºblica.- Anuncio de 20 de octubre de 2026 por el que se somete a informaciÃ³n pÃºblica la solicitud de modificaciÃ³n de la autorizaciÃ³n administrativa previa correspondiente a la instalaciÃ³n fotovoltaica \"CS Badajoz 1\", ubicada en el tÃ©rmino municipal de Badajoz, e infraestructura de evacuaciÃ³n de energÃ­a elÃ©ctrica…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "InformaciÃ³n pÃºblica",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2250o/26081916.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 3.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "doe-55c6af1762f3d38b",
+   "source": "doe",
+   "source_name": "Diario Oficial de Extremadura",
+   "source_short": "DOE",
+   "region": "Extremadura",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "Anuncio de 27 de octubre de 2026 por el que se somete a informaciÃ³n pÃºblica la solicitud de modificaciÃ³n de autorizaciÃ³n administrativa previa correspondiente a la instalaciÃ³n fotovoltaica \"CS Badajoz 7\", ubicada en el tÃ©rmino municipal de Badajoz, e infraestructura de evacuaciÃ³n de energÃ­a elÃ©ctrica asociada, expediente GE-M/38/20, con motivo de la incorporaciÃ³n de un mÃ³dulo de almacenamiento electroquÃ­mico mediante baterÃ­as denominado \"BESS Renopool 7\" por el que se hibrida la citada instalaciÃ³n.",
+   "summary": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO . InformaciÃ³n pÃºblica.- Anuncio de 27 de octubre de 2026 por el que se somete a informaciÃ³n pÃºblica la solicitud de modificaciÃ³n de autorizaciÃ³n administrativa previa correspondiente a la instalaciÃ³n fotovoltaica \"CS Badajoz 7\", ubicada en el tÃ©rmino municipal de Badajoz, e infraestructura de evacuaciÃ³n de energÃ­a elÃ©ctrica…",
+   "section": "IV.ANUNCIOS",
+   "subsection": "InformaciÃ³n pÃºblica",
+   "department": "CONSEJERÃA DE INDUSTRIA, ENERGÃA, CIENCIA Y TERRITORIO",
+   "url": "http://doe.juntaex.es/pdfs/doe/2026/2250o/26081887.pdf",
+   "pdf_url": "",
+   "identifier": "",
+   "score": 3.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "fotovoltaica",
+     "field": "summary",
+     "topic": "clima-energia",
+     "weight": 1.2
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "boe-04e4ba226c8efe8f",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-23",
+   "title": "Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: BAM. Servicio de almacenamiento y recogida de aguas residuales mediante contenedores normalizados para el CEFOT 2 Acto. Camposoto del 09 al 16 diciembre 2026 en San Fernando (Cádiz). Expediente: 2026/ETSAE0226/00005412E.",
+   "summary": "",
+   "section": "V. Anuncios. - A. Contratación del Sector Público",
+   "subsection": "",
+   "department": "MINISTERIO DE DEFENSA",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-38532",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/23/pdfs/BOE-B-2026-38532.pdf",
+   "identifier": "BOE-B-2026-38532",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "aguas residuales",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "dog-edb0e243588fa94d",
+   "source": "dog",
+   "source_name": "Diario Oficial de Galicia",
+   "source_short": "DOG",
+   "region": "Galicia",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "ANUNCIO de 30 de octubre de 2026, del Servicio Territorial de la Zona Hidrográfica de Galicia Sur, por el que se somete a información pública una solicitud de novación de la concesión de aguas con clave DH.A36.07267, otorgada el 14 de julio de 2004, en los ayuntamientos de Redondela y Pazos de Borbén (expediente DH.A36.100262).",
+   "summary": "a) Administración autonómica Augas de Galicia",
+   "section": "a) Administración autonómica",
+   "subsection": "",
+   "department": "Augas de Galicia",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioO143-021126-0002_es.html",
+   "pdf_url": "",
+   "identifier": "https://www.xunta.gal/dog/Publicados/2026/20261123/AnuncioO143-021126-0002_es.html",
+   "score": 2.5,
+   "topics": [
+    "agua"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "concesion de aguas",
+     "field": "title",
+     "topic": "agua",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-23T18:38:34Z"
+  }
+ ]
+}
