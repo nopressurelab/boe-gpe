@@ -1,7 +1,7 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T18:38:48Z",
- "count": 29,
+ "generated_at": "2026-11-24T18:07:48Z",
+ "count": 35,
  "items": [
   {
    "id": "dog-a5cbc76a256ed8b1",
@@ -1218,6 +1218,232 @@
     }
    ],
    "first_seen": "2026-11-23T18:38:34Z"
+  },
+  {
+   "id": "bocyl-6568d9d6deb11192",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa y ejecución de las instalaciones para el desplazamiento de la RED RAA-B07.03 en MOP 16BAR e instalación de una ERM MOP 16/4BAR para el suministro de gas natural al polígono industrial «La Gijona», en el término municipal de Villamuriel de Cerrato (Palencia). Expte.: NIG-223.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-17.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-b8f0da3e9f45c229",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de otorgamiento del permiso de investigación minera «Áreas San Pedro», 48 cuadrículas mineras, estaño, wolframio y sílice, sección C), en el término municipal de San Pedro de Rozados (Salamanca). Expte.: Minas 81/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-18.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-2ec95816b17a286e",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto de almacenamiento de energía con baterías stand-alone «BESS Valderica», en el término municipal de Valcabado (Zamora). N.º planta: 9179. Expte.: Energía: 250490.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-20.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-2a392290fba3a86f",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto de modificación de la subestación transformadora de reparto 45/20 kV «STR Onzonilla», en el término municipal de Onzonilla (León). Expte.: 713/26/6337.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-16.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-16.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-16.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-ad7e8d81812274fd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la ocupación de la «Cañada Real Zamorana», a su paso por el término municipal de Castrogonzalo (Zamora), con destino a la renovación de una ocupación anterior de una línea eléctrica aéreo-subterránea. Expte.: ZA-VP-303/26.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-15.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-15.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-15.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-f5fb5b77c08b831d",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-23",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción para el proyecto de ejecución de reforma en centro de transformación intemperie CTI Z06737 «Villar del Campo» por ampliación de potencia, en la calle Real 38, en el término municipal de Villar del Campo (Soria), titularidad de «Edistribución Redes Digitales, S.L.U.». Expte.: IE/AT/33-2026.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/23/html/BOCYL-D-23112026-226-19.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-19.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/23/pdf/BOCYL-D-23112026-226-19.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-24T18:07:33Z"
   },
   {
    "id": "doe-d5e4f36494842274",
