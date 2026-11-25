@@ -1,7 +1,7 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T18:07:48Z",
- "count": 26,
+ "generated_at": "2026-11-25T17:30:40Z",
+ "count": 34,
  "items": [
   {
    "id": "boe-7912f0142ce94fc9",
@@ -592,6 +592,141 @@
    "first_seen": "2026-11-24T18:07:33Z"
   },
   {
+   "id": "bocyl-05a39979123e9688",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en la vía pecuaria «Cordel de Simancas», en el término municipal de Valladolid. Expte.: VA-VP-26774-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-23.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "via pecuaria",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
+   "id": "bocyl-f73430db30caa3f7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "INFORMACIÓN pública relativa al proyecto de clasificación de las vías pecuarias del término municipal de Roturas (Valladolid). Expte.: VA-VP-23185-CL.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-24.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
+   "id": "bocyl-b459647c59077807",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "INFORMACIÓN pública relativa al proyecto de clasificación de las vías pecuarias del término municipal de Torre de Peñafiel (Valladolid). Expte.: VA-VP-23191-CL.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-25.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
    "id": "boe-42d3211b35142a42",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -900,6 +1035,52 @@
    "first_seen": "2026-11-24T18:07:33Z"
   },
   {
+   "id": "bocyl-3c0bdfbaac8f5c8a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa del proyecto modificado de la planta solar fotovoltaica «Prado Nuevo 50» y la línea subterránea 132 kV «SET Prado Nuevo 50-SET Nudo Prado Nuevo 50», en los términos municipales de Alfaraz de Sayago y Moraleja de Sayago (Zamora) y Palacios del Arzobispo y Santiz (Salamanca). N.º planta: 9163. Expte.: Energía: 240319.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-28.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
    "id": "boe-11f79030216f2d78",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -938,6 +1119,117 @@
     }
    ],
    "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-c51902fdcf769f4b",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "CORRECCIÓN de errores del anuncio relativo a la autorización del permiso de investigación para recursos de la sección C), sílice y arenas silíceas, denominado «Palacios» n.º 4931, titularidad de «Hormigones El Molino, S.A.», en los términos municipales de Cubillo del Campo, Los Ausines, Cuevas de San Clemente, Revilla del Campo, Mecerreyes y Mambrillas de Lara (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-26.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
+   "id": "bocyl-d7469d424769d2de",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "CORRECCIÓN de errores del anuncio relativo a la autorización del permiso de investigación para recursos de la sección C), sílice y arenas silíceas, denominado «El Molino» n.º 4922, titularidad de «Hormigones El Molino, S.A.», en los términos municipales de Cuevas de San Clemente, Mecerreyes y Mambrillas de Lara (Burgos).",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
+   "id": "bocyl-164f87d31e25ef0c",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "RESOLUCIÓN de 30 de octubre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción de la instalación eléctrica denominada «Proyecto de nuevo centro de transformación \"IGL.Hornillos\" (920611202) en sustitución del CT existente, alimentación a 13,2 kV y enlace con la red BT existente, en el término municipal de Hornillos de Cerrato (Palencia)», titularidad de «i-DE Redes Eléctricas Inteligentes, S.A.U.». Expte.: 34/ATCT/2208.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-14.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-14.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-14.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
   },
   {
    "id": "dog-72491996eafcbe5a",
@@ -1004,6 +1296,40 @@
     }
    ],
    "first_seen": "2026-11-24T18:07:33Z"
+  },
+  {
+   "id": "bocyl-84a938159f3eb213",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-24",
+   "title": "ANUNCIO de la Dirección General de Política Agraria Comunitaria, por el que se da publicidad a la relación de personas beneficiarias incluidas en la Resolución de 30 de octubre de 2026, por la que se concede el pago de las solicitudes 2023 de la medida agroambiental y climática de agroecosistemas extensivos de secano en humedales de importancia internacional, resolución n.º 5/2023, ayuda cofinanciada por el FEADER en el marco del Plan Estratégico de la Política Agrícola Común de España para el período 2023-2027, convocada por la Orden de 27 de febrero de 2023, de la Consejería de Agricultura, Ganadería y Desarrollo Rural, con BDNS 677980.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "C. SUBVENCIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/24/html/BOCYL-D-24112026-227-9.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-9.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/24/pdf/BOCYL-D-24112026-227-9.pdf",
+   "score": 2.5,
+   "topics": [
+    "biodiversidad"
+   ],
+   "doc_types": [
+    "normativa",
+    "ayudas"
+   ],
+   "matches": [
+    {
+     "term": "humedales",
+     "field": "title",
+     "topic": "biodiversidad",
+     "weight": 2.5
+    }
+   ],
+   "first_seen": "2026-11-25T17:30:29Z"
   },
   {
    "id": "boe-1a4807060070f942",
