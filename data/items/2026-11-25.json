@@ -1,7 +1,7 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T17:30:40Z",
- "count": 37,
+ "generated_at": "2026-11-26T17:13:11Z",
+ "count": 41,
  "items": [
   {
    "id": "dog-ceef1c99007691c6",
@@ -1176,6 +1176,96 @@
    "first_seen": "2026-11-25T17:30:29Z"
   },
   {
+   "id": "bocyl-35e124f48b7ed784",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-25",
+   "title": "RESOLUCIÓN de 11 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción de la instalación de producción de energía eléctrica por tecnología fotovoltaica, denominada «Proyecto constructivo de la hibridación de la planta \"FV-Velilla Rotonda 3\", con almacenamiento de 5,04 MW de potencia y 10,08 MWh de capacidad», en el término municipal de Mantinos (Palencia). Expte.: FV-956.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/25/html/BOCYL-D-25112026-228-11.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-11.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-11.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-26T17:12:53Z"
+  },
+  {
+   "id": "bocyl-8a09e4d50789ae08",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-25",
+   "title": "RESOLUCIÓN de 12 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción de la instalación de producción de energía eléctrica por tecnología fotovoltaica, denominada «Proyecto constructivo de la hibridación de la planta \"FV-Velilla Rotonda 2\", con almacenamiento de 5,04 MW de potencia y 10,08 MWh de capacidad», en el término municipal de Mantinos (Palencia). Expte.: FV-955.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/25/html/BOCYL-D-25112026-228-12.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-12.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-12.pdf",
+   "score": 5.2,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "fotovoltaica",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 2.0
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-26T17:12:53Z"
+  },
+  {
    "id": "boe-18f6d80fe9eb7087",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1212,6 +1302,84 @@
     }
    ],
    "first_seen": "2026-11-25T17:30:29Z"
+  },
+  {
+   "id": "bocyl-3aac7dcc243ba9b3",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-25",
+   "title": "INFORMACIÓN pública relativa a la solicitud de modificación sustancial de la autorización ambiental y al estudio de impacto ambiental de una explotación porcina ubicada en el término municipal de Almazán (Soria), titularidad de «Copiso Soria, S.C.». Expte.: 006-26-MSSO.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/25/html/BOCYL-D-25112026-228-17.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-17.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-17.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-26T17:12:53Z"
+  },
+  {
+   "id": "bocyl-2b3f877ad2acac91",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-25",
+   "title": "RESOLUCIÓN de 5 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Palencia, por la que se otorga autorización administrativa previa y autorización administrativa de construcción de la instalación eléctrica denominada «Sustitución del apoyo A44499 próximo al centro de transformación San Gregorio (7824) y su L.A.T. 12/20 kV Aguilar_P-Aguila_Sur», en el término municipal de Aguilar de Campoo (Palencia), titularidad de «Viesgo Distribución Eléctrica, S.L.». Expte.: 34/ATLI/6721.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/25/html/BOCYL-D-25112026-228-10.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-10.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/25/pdf/BOCYL-D-25112026-228-10.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-26T17:12:53Z"
   },
   {
    "id": "doe-b31e14a3faf4e5de",
