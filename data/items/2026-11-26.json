@@ -1,7 +1,7 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T17:13:11Z",
- "count": 52,
+ "generated_at": "2026-11-27T16:54:46Z",
+ "count": 61,
  "items": [
   {
    "id": "boe-a9bb8a1b71205c43",
@@ -1015,6 +1015,96 @@
    "first_seen": "2026-11-26T17:12:53Z"
   },
   {
+   "id": "bocyl-739f4ab03e7e0d26",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "CORRECCIÓN de errores de la Orden MAE/1198/2026, de 6 de noviembre, por la que se desarrolla la estructura orgánica de los servicios centrales de la Consejería de Medio Ambiente y Energía.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "A. DISPOSICIONES GENERALES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-1.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-1.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-1.pdf",
+   "score": 5.7,
+   "topics": [
+    "general"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "title",
+     "topic": "general",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-299e8fc756593fcd",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "INFORMACIÓN pública relativa a la ocupación temporal de terrenos en las vías pecuarias «Cañada Real Leonesa» y «Vereda del Camino Real de Cigales a Valladolid», en los términos municipales de Cabezón de Pisuerga y Cigales (Valladolid). Exptes.: VA-VP-26747-O y VA-VP-26750-O.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-23.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-23.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-23.pdf",
+   "score": 5.7,
+   "topics": [
+    "montes-incendios"
+   ],
+   "doc_types": [
+    "consulta-publica"
+   ],
+   "matches": [
+    {
+     "term": "vias pecuarias",
+     "field": "title",
+     "topic": "montes-incendios",
+     "weight": 2.5
+    },
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
    "id": "boe-e3bcce688daa3e3b",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1563,6 +1653,87 @@
    "first_seen": "2026-11-26T17:12:53Z"
   },
   {
+   "id": "bocyl-1453d0a3a25437b7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "CORRECCIÓN de errores de la Resolución de 12 de noviembre de 2026, de la Delegación Territorial de Burgos, por la que se dicta la declaración de impacto ambiental del proyecto de explotación de recursos de la sección A), arenas y gravas, «La Solana» n.º 1.264, en el término municipal de La Vid y Barrios (Burgos), promovido por «UTE Obrascon Huarte Lain-Asch Infraestructuras y Servicios». Expte.: EIA0/2026/BU/009.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-20.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-20.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-20.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "declaracion de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-1aca21d1d68e29c7",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización ambiental y al estudio de impacto ambiental de una explotación porcina, ubicada en el término municipal de Valsalabroso (Salamanca), titularidad de «Canpipork, S.L.». Expte.: 031-26-AASA.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE AGRICULTURA, GANADERÍA, MEDIO RURAL Y POLÍTICA AMBIENTAL",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-28.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-28.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-28.pdf",
+   "score": 4.5,
+   "topics": [
+    "evaluacion-ambiental",
+    "general"
+   ],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "estudio de impacto ambiental",
+     "field": "title",
+     "topic": "evaluacion-ambiental",
+     "weight": 3.0
+    },
+    {
+     "term": "ambiental",
+     "field": "title",
+     "topic": "general",
+     "weight": 1.5
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
    "id": "boe-022ab18ff03f2cad",
    "source": "boe",
    "source_name": "Boletín Oficial del Estado",
@@ -1722,6 +1893,189 @@
     }
    ],
    "first_seen": "2026-11-26T17:12:53Z"
+  },
+  {
+   "id": "bocyl-eb004c7c29468243",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto de almacenamiento de energía con baterías stand-alone «BESS Zamora 220 Ferrovial» y «Ampliación SET Valcabado Generación», en el término municipal de Valcabado (Zamora). N.º planta: 9178. Expte.: Energía: 250487.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-25.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-25.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-25.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-11e8be691009a9f0",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "CORRECCIÓN de errores del anuncio de información pública relativa a la solicitud de autorización administrativa previa y autorización administrativa de construcción del proyecto de almacenamiento de energía con baterías stand-alone «Almacenamiento Valcabadino», en el término municipal de Valcabado (Zamora). N.º planta: 9180. Expte.: Energía: 250494.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-26.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-26.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-26.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "consulta-publica",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-ee06bfd499b3a576",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "RESOLUCIÓN de 17 de noviembre de 2026, del Servicio Territorial de Industria, Comercio y Economía de Burgos, por la que se otorga autorización administrativa previa y de construcción para la sustitución de un transformador y paso a B2 de la red de baja tensión en CT «QLLA Pedro Abarca» (n.º 100592750), en el término municipal de Huérmeces (Burgos). Expte.: ATCT/4080.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "D. OTRAS DISPOSICIONES",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-18.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-18.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-18.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-a901a1a935a16e3a",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de León, relativo a la aprobación del proyecto de ejecución de un sondeo para la captación de aguas subterráneas para uso recreo, situado en la parcela con referencia catastral 8145317TN7184N0001OJ de Robledo de la Valdoncina, en el término municipal de Valverde de la Virgen (León). Expte.: AS-25-08-20.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-24.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-24.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-24.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
+  },
+  {
+   "id": "bocyl-a4882f21c728e5cc",
+   "source": "bocyl",
+   "source_name": "Boletín Oficial de Castilla y León",
+   "source_short": "BOCYL",
+   "region": "Castilla y León",
+   "scope": "autonomica",
+   "date": "2026-11-26",
+   "title": "ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Zamora, relativo a la aprobación del proyecto para la ejecución de 3 sondeos para aprovechamiento geotérmico, en el término municipal de Morales del Vino (Zamora). Expte.: 403/25.",
+   "summary": "",
+   "section": "I. COMUNIDAD DE CASTILLA Y LEÓN",
+   "subsection": "E. ANUNCIOS",
+   "department": "CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA",
+   "url": "http://bocyl.jcyl.es/html/2026/11/26/html/BOCYL-D-26112026-229-27.do",
+   "pdf_url": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-27.pdf",
+   "identifier": "http://bocyl.jcyl.es/boletines/2026/11/26/pdf/BOCYL-D-26112026-229-27.pdf",
+   "score": 3.2,
+   "topics": [],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "medio ambiente",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    },
+    {
+     "term": "energia",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 0.8
+    }
+   ],
+   "first_seen": "2026-11-27T16:54:32Z"
   },
   {
    "id": "doe-4dd3826353888e8b",
