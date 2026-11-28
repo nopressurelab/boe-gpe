@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T15:45:33Z",
+ "count": 3,
+ "items": [
+  {
+   "id": "boe-e2c2a80cad5f05e9",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-28",
+   "title": "Resolución de 26 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 41/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Medidas urgentes",
+   "department": "CORTES GENERALES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25024",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/28/pdfs/BOE-A-2026-25024.pdf",
+   "identifier": "BOE-A-2026-25024",
+   "score": 6.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [
+    "normativa"
+   ],
+   "matches": [
+    {
+     "term": "gases de efecto invernadero",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    },
+    {
+     "term": "derechos de emision",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-11-28T15:45:23Z"
+  },
+  {
+   "id": "boe-41c4b768c962682b",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-28",
+   "title": "Orden TED/1275/2026, de 30 de octubre, por la que se establecen las normas generales para la exención de autorización del tratamiento de residuos biodegradables mediante compostaje doméstico y comunitario.",
+   "summary": "",
+   "section": "I. Disposiciones generales",
+   "subsection": "Residuos",
+   "department": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25027",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/28/pdfs/BOE-A-2026-25027.pdf",
+   "identifier": "BOE-A-2026-25027",
+   "score": 5.65,
+   "topics": [
+    "residuos"
+   ],
+   "doc_types": [
+    "normativa",
+    "autorizaciones"
+   ],
+   "matches": [
+    {
+     "term": "residuos",
+     "field": "title",
+     "topic": "residuos",
+     "weight": 2.5
+    },
+    {
+     "term": "residuos",
+     "field": "subsection",
+     "topic": "residuos",
+     "weight": 0.75
+    },
+    {
+     "term": "transicion ecologica",
+     "field": "department",
+     "topic": "organo-ambiental",
+     "weight": 2.4
+    }
+   ],
+   "first_seen": "2026-11-28T15:45:23Z"
+  },
+  {
+   "id": "boe-4e70b223137d309c",
+   "source": "boe",
+   "source_name": "Boletín Oficial del Estado",
+   "source_short": "BOE",
+   "region": "España",
+   "scope": "estatal",
+   "date": "2026-11-28",
+   "title": "Resolución de 25 de noviembre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Comunidad Foral de Navarra, para el funcionamiento, como Centros de Referencia Nacional, del Centro Nacional de Formación Profesional Ocupacional Imarcoain de Energías Renovables, «Cenifer», y del Centro Integrado Escuela Sanitaria Técnico Profesional de Navarra-ESTNA, en determinadas áreas profesionales, en el ámbito de la Formación Profesional.",
+   "summary": "",
+   "section": "III. Otras disposiciones",
+   "subsection": "Comunidad Foral de Navarra. Convenio",
+   "department": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-25067",
+   "pdf_url": "https://www.boe.es/boe/dias/2026/11/28/pdfs/BOE-A-2026-25067.pdf",
+   "identifier": "BOE-A-2026-25067",
+   "score": 3.0,
+   "topics": [
+    "clima-energia"
+   ],
+   "doc_types": [],
+   "matches": [
+    {
+     "term": "energias renovables",
+     "field": "title",
+     "topic": "clima-energia",
+     "weight": 3.0
+    }
+   ],
+   "first_seen": "2026-11-28T15:45:23Z"
+  }
+ ]
+}
